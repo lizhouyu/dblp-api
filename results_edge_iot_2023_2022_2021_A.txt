@@ -1,0 +1,31 @@
+title: Lightning Talk: Efficient Embedded Machine Learning Deployment on Edge and IoT Devices.
+authors: @pid, text
+venue: DAC
+year: 2023
+doi: 10.1109/DAC56929.2023.10247845
+url: https://doi.org/10.1109/DAC56929.2023.10247845
+bibtex: https://dblp.org/rec/conf/dac/Pasricha23?view=bibtex
+
+title: LinkLab 2.0: A Multi-tenant Programmable IoT Testbed for Experimentation with Edge-Cloud Integration.
+authors: Wei Dong 0001, Borui Li 0001, Haoyu Li, Hao Wu, Kaijie Gong, Wenzhao Zhang, Yi Gao 0001
+venue: NSDI
+year: 2023
+url: https://www.usenix.org/conference/nsdi23/presentation/dong
+bibtex: https://dblp.org/rec/conf/nsdi/DongLLWGZ023?view=bibtex
+
+title: A Serverless Approach to Federated Learning Infrastructure Oriented for IoT/Edge Data Sources (Student Abstract).
+authors: Anshul Ahuja, Geetesh Gupta, Suman Kundu
+venue: AAAI
+year: 2021
+doi: 10.1609/AAAI.V35I18.17870
+url: https://doi.org/10.1609/aaai.v35i18.17870
+bibtex: https://dblp.org/rec/conf/aaai/AhujaGK21?view=bibtex
+
+title: Trust Trackers for Computation Offloading in Edge-Based IoT Networks.
+authors: Matthew Bradbury, Arshad Jhumka, Tim Watson
+venue: INFOCOM
+year: 2021
+doi: 10.1109/INFOCOM42981.2021.9488844
+url: https://doi.org/10.1109/INFOCOM42981.2021.9488844
+bibtex: https://dblp.org/rec/conf/infocom/BradburyJW21?view=bibtex
+

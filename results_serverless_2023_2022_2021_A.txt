@@ -1,0 +1,179 @@
+title: λFS: A Scalable and Elastic Distributed File System Metadata Service using Serverless Functions.
+authors: Benjamin Carver, Runzhou Han, Jingyuan Zhang, Mai Zheng, Yue Cheng 0001
+venue: ASPLOS
+year: 2023
+doi: 10.1145/3623278.3624765
+url: https://doi.org/10.1145/3623278.3624765
+bibtex: https://dblp.org/rec/conf/asplos/CarverHZZ023?view=bibtex
+
+title: ElasticFlow: An Elastic Serverless Training Platform for Distributed Deep Learning.
+authors: Diandian Gu, Yihao Zhao, Yinmin Zhong, Yifan Xiong 0001, Zhenhua Han, Peng Cheng 0005, Fan Yang 0024, Gang Huang 0001, Xin Jin 0008, Xuanzhe Liu
+venue: ASPLOS
+year: 2023
+doi: 10.1145/3575693.3575721
+url: https://doi.org/10.1145/3575693.3575721
+bibtex: https://dblp.org/rec/conf/asplos/GuZZXHCYHJL23?view=bibtex
+
+title: DataFlower: Exploiting the Data-flow Paradigm for Serverless Workflow Orchestration.
+authors: Zijun Li, Chuhao Xu, Quan Chen, Jieru Zhao, Chen Chen 0067, Minyi Guo
+venue: ASPLOS
+year: 2023
+doi: 10.1145/3623278.3624755
+url: https://doi.org/10.1145/3623278.3624755
+bibtex: https://dblp.org/rec/conf/asplos/LiXCZ0G23?view=bibtex
+
+title: Flame: A Centralized Cache Controller for Serverless Computing.
+authors: Yanan Yang, Laiping Zhao, Yiming Li, Shihao Wu, Yuechan Hao, Yuchi Ma, Keqiu Li
+venue: ASPLOS
+year: 2023
+doi: 10.1145/3623278.3624769
+url: https://doi.org/10.1145/3623278.3624769
+bibtex: https://dblp.org/rec/conf/asplos/YangZLWHML23?view=bibtex
+
+title: AQUATOPE: QoS-and-Uncertainty-Aware Resource Management for Multi-stage Serverless Workflows.
+authors: Zhuangzhuang Zhou, Yanqi Zhang, Christina Delimitrou
+venue: ASPLOS
+year: 2023
+doi: 10.1145/3567955.3567960
+url: https://doi.org/10.1145/3567955.3567960
+bibtex: https://dblp.org/rec/conf/asplos/ZhouZD23?view=bibtex
+
+title: SpecFaaS: Accelerating Serverless Applications with Speculative Function Execution.
+authors: Jovan Stojkovic, Tianyin Xu, Hubertus Franke, Josep Torrellas
+venue: HPCA
+year: 2023
+doi: 10.1109/HPCA56546.2023.10071120
+url: https://doi.org/10.1109/HPCA56546.2023.10071120
+bibtex: https://dblp.org/rec/conf/hpca/StojkovicXFT23?view=bibtex
+
+title: Time and Cost-Efficient Cloud Data Transmission based on Serverless Computing Compression.
+authors: Rong Gu, Xiaofei Chen, Haipeng Dai, Shulin Wang, Zhaokang Wang, Yaofeng Tu, Yihua Huang 0001, Guihai Chen
+venue: INFOCOM
+year: 2023
+doi: 10.1109/INFOCOM53939.2023.10229090
+url: https://doi.org/10.1109/INFOCOM53939.2023.10229090
+bibtex: https://dblp.org/rec/conf/infocom/GuCDWWTHC23?view=bibtex
+
+title: EAVS: Edge-assisted Adaptive Video Streaming with Fine-grained Serverless Pipelines.
+authors: Biao Hou, Song Yang 0002, Fernando A. Kuipers, Lei Jiao 0002, Xiaoming Fu 0001
+venue: INFOCOM
+year: 2023
+doi: 10.1109/INFOCOM53939.2023.10229102
+url: https://doi.org/10.1109/INFOCOM53939.2023.10229102
+bibtex: https://dblp.org/rec/conf/infocom/HouYKJF23?view=bibtex
+
+title: On Efficient Zygote Container Planning toward Fast Function Startup in Serverless Edge Cloud.
+authors: Yuepeng Li, Deze Zeng, Lin Gu 0002, Mingwei Ou, Quan Chen 0002
+venue: INFOCOM
+year: 2023
+doi: 10.1109/INFOCOM53939.2023.10228916
+url: https://doi.org/10.1109/INFOCOM53939.2023.10228916
+bibtex: https://dblp.org/rec/conf/infocom/LiZGOC23?view=bibtex
+
+title: DisProTrack: Distributed Provenance Tracking over Serverless Applications.
+authors: Utkalika Satapathy, Rishabh Thakur, Subhrendu Chattopadhyay, Sandip Chakraborty
+venue: INFOCOM
+year: 2023
+doi: 10.1109/INFOCOM53939.2023.10228884
+url: https://doi.org/10.1109/INFOCOM53939.2023.10228884
+bibtex: https://dblp.org/rec/conf/infocom/SatapathyTCC23?view=bibtex
+
+title: Online Container Scheduling for Data-intensive Applications in Serverless Edge Computing.
+authors: Xiaojun Shang, Yingling Mao, Yu Liu 0057, Yaodong Huang, Zhenhua Liu 0002, Yuanyuan Yang 0001
+venue: INFOCOM
+year: 2023
+doi: 10.1109/INFOCOM53939.2023.10229034
+url: https://doi.org/10.1109/INFOCOM53939.2023.10229034
+bibtex: https://dblp.org/rec/conf/infocom/ShangMLHLY23?view=bibtex
+
+title: Enabling Age-Aware Big Data Analytics in Serverless Edge Clouds.
+authors: Zichuan Xu, Yuexin Fu, Qiufen Xia, Hao Li
+venue: INFOCOM
+year: 2023
+doi: 10.1109/INFOCOM53939.2023.10228905
+url: https://doi.org/10.1109/INFOCOM53939.2023.10228905
+bibtex: https://dblp.org/rec/conf/infocom/XuFXL23?view=bibtex
+
+title: MXFaaS: Resource Sharing in Serverless Environments for Parallelism and Efficiency.
+authors: Jovan Stojkovic, Tianyin Xu, Hubertus Franke, Josep Torrellas
+venue: ISCA
+year: 2023
+doi: 10.1145/3579371.3589069
+url: https://doi.org/10.1145/3579371.3589069
+bibtex: https://dblp.org/rec/conf/isca/StojkovicXFT23?view=bibtex
+
+title: Memento: Architectural Support for Ephemeral Memory Management in Serverless Environments.
+authors: Ziqi Wang 0007, Kaiyang Zhao 0002, Pei Li, Andrew Jacob, Michael Kozuch, Todd C. Mowry, Dimitrios Skarlatos 0002
+venue: MICRO
+year: 2023
+doi: 10.1145/3613424.3623795
+url: https://doi.org/10.1145/3613424.3623795
+bibtex: https://dblp.org/rec/conf/micro/00070LJKM023?view=bibtex
+
+title: Robust and Actively Secure Serverless Collaborative Learning.
+authors: Nicholas Franzese, Adam Dziedzic, Christopher A. Choquette-Choo, Mark R. Thomas, Muhammad Ahmad Kaleem, Stephan Rabanser, Congyu Fang, Somesh Jha, Nicolas Papernot, Xiao Wang 0012
+venue: NeurIPS
+year: 2023
+url: http://papers.nips.cc/paper_files/paper/2023/hash/7c5a4b7a31dffef8ce296deedb6214a9-Abstract-Conference.html
+bibtex: https://dblp.org/rec/conf/nips/FranzeseDCTKRFJ23?view=bibtex
+
+title: Doing More with Less: Orchestrating Serverless Applications without an Orchestrator.
+authors: David H. Liu, Amit Levy, Shadi A. Noghabi, Sebastian Burckhardt
+venue: NSDI
+year: 2023
+url: https://www.usenix.org/conference/nsdi23/presentation/liu-david
+bibtex: https://dblp.org/rec/conf/nsdi/LiuLNB23?view=bibtex
+
+title: Following the Data, Not the Function: Rethinking Function Orchestration in Serverless Computing.
+authors: Minchen Yu, Tingjia Cao, Wei Wang 0030, Ruichuan Chen
+venue: NSDI
+year: 2023
+url: https://www.usenix.org/conference/nsdi23/presentation/yu
+bibtex: https://dblp.org/rec/conf/nsdi/YuC0C23?view=bibtex
+
+title: Automated Verification of Idempotence for Stateful Serverless Applications.
+authors: Haoran Ding, Zhaoguo Wang, Zhuohao Shen, Rong Chen 0001, Haibo Chen 0001
+venue: OSDI
+year: 2023
+url: https://www.usenix.org/conference/osdi23/presentation/ding
+bibtex: https://dblp.org/rec/conf/osdi/DingWS0023?view=bibtex
+
+title: No Provisioned Concurrency: Fast RDMA-codesigned Remote Fork for Serverless Computing.
+authors: Xingda Wei, Fangming Lu, Tianxia Wang, Jinyu Gu 0001, Yuhan Yang, Rong Chen 0001, Haibo Chen 0001
+venue: OSDI
+year: 2023
+url: https://www.usenix.org/conference/osdi23/presentation/wei-rdma
+bibtex: https://dblp.org/rec/conf/osdi/WeiLW0Y0023?view=bibtex
+
+title: Rethinking Deployment for Serverless Functions: A Performance-First Perspective.
+authors: Yiming Li, Laiping Zhao, Yanan Yang, Wenyu Qu
+venue: SC
+year: 2023
+doi: 10.1145/3581784.3613211
+url: https://doi.org/10.1145/3581784.3613211
+bibtex: https://dblp.org/rec/conf/sc/LiZYQ23?view=bibtex
+
+title: Ditto: Efficient Serverless Analytics with Elastic Parallelism.
+authors: Chao Jin, Zili Zhang, Xingyu Xiang, Songyun Zou, Gang Huang 0001, Xuanzhe Liu, Xin Jin 0008
+venue: SIGCOMM
+year: 2023
+doi: 10.1145/3603269.3604816
+url: https://doi.org/10.1145/3603269.3604816
+bibtex: https://dblp.org/rec/conf/sigcomm/JinZXZHLJ23?view=bibtex
+
+title: Halfmoon: Log-Optimal Fault-Tolerant Stateful Serverless Computing.
+authors: Sheng Qi, Xuanzhe Liu, Xin Jin 0008
+venue: SOSP
+year: 2023
+doi: 10.1145/3600006.3613154
+url: https://doi.org/10.1145/3600006.3613154
+bibtex: https://dblp.org/rec/conf/sosp/QiLJ23?view=bibtex
+
+title: XFaaS: Hyperscale and Low Cost Serverless Functions at Meta.
+authors: Alireza Sahraei, Soteris Demetriou, Amirali Sobhgol, Haoran Zhang, Abhigna Nagaraja, Neeraj Pathak, Girish Joshi, Carla Souza, Bo Huang, Wyatt Cook, Andrii Golovei, Pradeep Venkat, Andrew Mcfague, Dimitrios Skarlatos 0002, Vipul Patel, Ravinder Thind, Ernesto Gonzalez, Yun Jin, Chunqiang Tang
+venue: SOSP
+year: 2023
+doi: 10.1145/3600006.3613155
+url: https://doi.org/10.1145/3600006.3613155
+bibtex: https://dblp.org/rec/conf/sosp/SahraeiDSZNPJSH23?view=bibtex
+
