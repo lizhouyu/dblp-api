@@ -51,3 +51,70 @@ def search(queries: list[str]) -> list[dict]:
             entry['bibtex'] = f'{info.get("url")}?view=bibtex'
         results.append(entry)
     return results
+
+def query_for_top_venues(query: str, year_list: list[str] = ['2023'], ccf_class_list: list[str] = ['A']) -> list[dict]:
+    results = [] 
+    assert year_list is not None, 'year is required to be a list, not None'
+    assert ccf_class_list is not None, 'ccf_class is required to be a list, not None'
+
+    # open ccf catalog file
+    catalog = pd.read_csv(open_binary('dblp.data', 'ccf_catalog.csv'))
+
+    # find the venues that match the ccf_class
+    target_venues = catalog.loc[catalog['class'].isin(ccf_class_list), 'abbr']
+    target_venues = set(target_venues)
+
+    # send a pilot query to get the total number of results
+    options = {
+        'q': query,
+        'format': 'json',
+        'h': 1
+    }
+    endpoint = f'{BASE_URL}?{urlencode(options)}'
+    r = requests.get(endpoint).json()
+    num_records = int(r.get('result').get('hits').get('@total'))
+    
+    # get search results for the query
+    last_record_idx = 0
+    while last_record_idx < num_records:
+        options = {
+            'q': query,
+            'format': 'json',
+            'h': 1000,
+            'f': last_record_idx
+        }
+        r = requests.get(f'{BASE_URL}?{urlencode(options)}').json()
+        records = r.get('result').get('hits').get('hit')
+        if records is None:
+            break
+        for record in records:
+            info = record.get('info')
+            venue = info.get('venue')
+            year = info.get('year')
+            if type(venue) == list:
+                if not any([v in target_venues for v in venue]):
+                    continue
+            else:
+                if venue not in target_venues:
+                    continue
+            if year not in year_list:
+                continue
+            author_list_raw = info.get('authors').get('author')
+            author_list = []
+            for author_raw in author_list_raw:
+                author = author_raw.get('text')
+                author_list.append(author)
+            entry = {
+                'title': info.get('title'),
+                'authors': author_list,
+                'year': info.get('year'),
+                'venue': info.get('venue'),
+                'doi': info.get('doi'),
+                'url': info.get('ee'),
+                'bibtex': f'{info.get("url")}?view=bibtex'
+            }
+            results.append(entry)
+        last_record_idx += 1000
+    return results
+
+

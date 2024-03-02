@@ -1,0 +1,128 @@
+title: Home Is Where the Smart Is: Development and Validation of the Cybersecurity Self-Efficacy in Smart Homes (CySESH) Scale.
+authors: Nele Borgert, Oliver D. Reithmaier, Luisa Jansen, Larina Hillemann, Ian Hussey, Malte Elson
+venue: CHI
+year: 2023
+doi: 10.1145/3544548.3580860
+urlhttps://doi.org/10.1145/3544548.3580860
+bibtexhttps://dblp.org/rec/conf/chi/BorgertRJHHE23?view=bibtex
+
+title: It Made Me Feel So Much More at Home Here: Patient Perspectives on Smart Home Technology Deployed at Scale in a Rehabilitation Hospital.
+authors: Joshua Dawson, Thomas Kauffman, Jason Wiese
+venue: CHI
+year: 2023
+doi: 10.1145/3544548.3580757
+urlhttps://doi.org/10.1145/3544548.3580757
+bibtexhttps://dblp.org/rec/conf/chi/DawsonKW23?view=bibtex
+
+title: Co-designing Community-based Sharing of Smarthome Devices for the Purpose of Co-monitoring In-home Emergencies.
+authors: Leena Alghamdi, Mamtaj Akter, Jess Kropczynski, Pamela J. Wisniewski, Heather Lipford
+venue: CHI
+year: 2023
+doi: 10.1145/3544548.3581239
+urlhttps://doi.org/10.1145/3544548.3581239
+bibtexhttps://dblp.org/rec/conf/chi/AlghamdiAKWL23?view=bibtex
+
+title: Exploring the Negotiation Behaviors of Owners and Bystanders over Data Practices of Smart Home Devices.
+authors: Ahmed Alshehri, Eugin Pahk, Joseph Spielman, Jacob T. Parker, Benjamin Gilbert, Chuan Yue
+venue: CHI
+year: 2023
+doi: 10.1145/3544548.3581360
+urlhttps://doi.org/10.1145/3544548.3581360
+bibtexhttps://dblp.org/rec/conf/chi/AlshehriPSPGY23?view=bibtex
+
+title: Accidentally Evil: On Questionable Values in Smart Home Co-Design.
+authors: Arne Berger, Albrecht Kurze, Andreas Bischof, Jesse Josua Benjamin, Richmond Y. Wong, Nick Merrill
+venue: CHI
+year: 2023
+doi: 10.1145/3544548.3581504
+urlhttps://doi.org/10.1145/3544548.3581504
+bibtexhttps://dblp.org/rec/conf/chi/BergerKBBWM23?view=bibtex
+
+title: The Effect of Explanation Design on User Perception of Smart Home Lighting Systems: A Mixed-method Investigation.
+authors: Jiaxin Dai, Chao Zhang 0071, Dzmitry Aliakseyeu, Samantha Peeters, Wijnand A. IJsselsteijn
+venue: CHI
+year: 2023
+doi: 10.1145/3544548.3581263
+urlhttps://doi.org/10.1145/3544548.3581263
+bibtexhttps://dblp.org/rec/conf/chi/DaiZAPI23?view=bibtex
+
+title: &quot;I... caught a person casing my house... and scared him off: &quot; The Use of Security-Focused Smart Home Devices by People with Disabilities.
+authors: Brittany Lewis, Tina-Marie Ranalli, Alexandra Gourley, Piriyankan Kirupaharan, Krishna K. Venkatasubramanian
+venue: CHI
+year: 2023
+doi: 10.1145/3544548.3581007
+urlhttps://doi.org/10.1145/3544548.3581007
+bibtexhttps://dblp.org/rec/conf/chi/LewisRGKV23?view=bibtex
+
+title: The Shifting Sands of Labour: Changes in Shared Care Work with a Smart Home Health System.
+authors: Ewan Soubutts, Elaine Czech, Amid Ayobi, Rachel Eardley, Kirsten Cater, Aisling Ann O&apos;Kane
+venue: CHI
+year: 2023
+doi: 10.1145/3544548.3581546
+urlhttps://doi.org/10.1145/3544548.3581546
+bibtexhttps://dblp.org/rec/conf/chi/SoubuttsCAECO23?view=bibtex
+
+title: Investigating Tangible Privacy-Preserving Mechanisms for Future Smart Homes.
+authors: Maximiliane Windl, Albrecht Schmidt 0001, Sebastian S. Feger
+venue: CHI
+year: 2023
+doi: 10.1145/3544548.3581167
+urlhttps://doi.org/10.1145/3544548.3581167
+bibtexhttps://dblp.org/rec/conf/chi/Windl0F23?view=bibtex
+
+title: Inhabiting Interconnected Spaces: How Users Shape and Appropriate Their Smart Home Ecosystems.
+authors: Mikolaj P. Wozniak, Sarah Vöge, Ronja Krüger, Heiko Müller 0002, Marion Koelle, Susanne Boll
+venue: CHI
+year: 2023
+doi: 10.1145/3544548.3581497
+urlhttps://doi.org/10.1145/3544548.3581497
+bibtexhttps://dblp.org/rec/conf/chi/WozniakVK0KB23?view=bibtex
+
+title: Reviewing and Reflecting on Smart Home Research from the Human-Centered Perspective.
+authors: Yuan Yao, Li Huang, Yi He, Zhijun Ma, Xuhai Xu, Haipeng Mi
+venue: CHI
+year: 2023
+doi: 10.1145/3544548.3580842
+urlhttps://doi.org/10.1145/3544548.3580842
+bibtexhttps://dblp.org/rec/conf/chi/YaoHHMXM23?view=bibtex
+
+title: Potential and Challenges of DIY Smart Homes with an ML-intensive Camera Sensor.
+authors: Sojeong Yun, Youn-Kyung Lim
+venue: CHI
+year: 2023
+doi: 10.1145/3544548.3581462
+urlhttps://doi.org/10.1145/3544548.3581462
+bibtexhttps://dblp.org/rec/conf/chi/YunL23?view=bibtex
+
+title: Extracting Spatial Information of IoT Device Events for Smart Home Safety Monitoring.
+authors: Yinxin Wan, Xuanli Lin, Kuai Xu, Feng Wang 0002, Guoliang Xue
+venue: INFOCOM
+year: 2023
+doi: 10.1109/INFOCOM53939.2023.10228993
+urlhttps://doi.org/10.1109/INFOCOM53939.2023.10228993
+bibtexhttps://dblp.org/rec/conf/infocom/WanLXWX23?view=bibtex
+
+title: Security Checking of Trigger-Action-Programming Smart Home Integrations.
+authors: Lei Bu, Qiuping Zhang, Suwan Li, Jinglin Dai, Guangdong Bai, Kai Chen 0012, Xuandong Li
+venue: ISSTA
+year: 2023
+doi: 10.1145/3597926.3598084
+urlhttps://doi.org/10.1145/3597926.3598084
+bibtexhttps://dblp.org/rec/conf/issta/BuZLDBCL23?view=bibtex
+
+title: Detecting Smart Home Automation Application Interferences with Domain Knowledge.
+authors: Tao Wang 0030, Wei Chen 0018, Liwei Liu, Guoquan Wu, Jun Wei 0001, Tao Huang 0001
+venue: ASE
+year: 2023
+doi: 10.1109/ASE56229.2023.00070
+urlhttps://doi.org/10.1109/ASE56229.2023.00070
+bibtexhttps://dblp.org/rec/conf/kbse/WangCLWWH23?view=bibtex
+
+title: Introducing FreeSpeaker - A Modular Smart Home Hub Prototyping Platform.
+authors: Hermann Leinweber, Jonatan Crystall, Frank Hessel, Florentin Putz, Matthias Hollick
+venue: MobiCom
+year: 2023
+doi: 10.1145/3570361.3614080
+urlhttps://doi.org/10.1145/3570361.3614080
+bibtexhttps://dblp.org/rec/conf/mobicom/LeinweberCHPH23?view=bibtex
+
