@@ -1,0 +1,2152 @@
+title: QuantumDARTS: Differentiable Quantum Architecture Search for Variational Quantum Algorithms.
+authors: Wenjie Wu, Ge Yan 0001, Xudong Lu, Kaisen Pan, Junchi Yan
+venue: ICML
+year: 2023
+url: https://proceedings.mlr.press/v202/wu23v.html
+bibtex: https://dblp.org/rec/conf/icml/WuYLPY23?view=bibtex
+
+title: Dequantizing the Quantum singular value transformation: hardness and applications to Quantum chemistry and the Quantum PCP conjecture.
+authors: Sevag Gharibian, François Le Gall
+venue: STOC
+year: 2022
+doi: 10.1145/3519935.3519991
+url: https://doi.org/10.1145/3519935.3519991
+bibtex: https://dblp.org/rec/conf/stoc/GharibianG22?view=bibtex
+
+title: Quantum Meets Fine-Grained Complexity: Sublinear Time Quantum Algorithms for String Problems.
+authors: François Le Gall, Saeed Seddighin
+venue: Algorithmica
+year: 2023
+doi: 10.1007/S00453-022-01066-Z
+url: https://doi.org/10.1007/s00453-022-01066-z
+bibtex: https://dblp.org/rec/journals/algorithmica/GallS23?view=bibtex
+
+title: SLIQ: Quantum Image Similarity Networks on Noisy Quantum Computers.
+authors: Daniel Silver, Tirthak Patel, Aditya Ranjan, Harshitta Gandhi, William Cutler, Devesh Tiwari
+venue: AAAI
+year: 2023
+doi: 10.1609/AAAI.V37I8.26175
+url: https://doi.org/10.1609/aaai.v37i8.26175
+bibtex: https://dblp.org/rec/conf/aaai/SilverPRGCT23?view=bibtex
+
+title: Oblivious Transfer from Zero-Knowledge Proofs - Or How to Achieve Round-Optimal Quantum Oblivious Transfer and Zero-Knowledge Proofs on Quantum States.
+authors: Léo Colisson, Garazi Muguruza, Florian Speelman
+venue: ASIACRYPT
+year: 2023
+doi: 10.1007/978-981-99-8742-9_1
+url: https://doi.org/10.1007/978-981-99-8742-9_1
+bibtex: https://dblp.org/rec/conf/asiacrypt/ColissonMS23?view=bibtex
+
+title: Quantum Attacks on Hash Constructions with Low Quantum Random Access Memory.
+authors: Xiaoyang Dong, Shun Li, Phuong Pham, Guoyan Zhang
+venue: ASIACRYPT
+year: 2023
+doi: 10.1007/978-981-99-8727-6_1
+url: https://doi.org/10.1007/978-981-99-8727-6_1
+bibtex: https://dblp.org/rec/conf/asiacrypt/DongLPZ23?view=bibtex
+
+title: Battle Against Fluctuating Quantum Noise: Compression-Aided Framework to Enable Robust Quantum Neural Network.
+authors: Zhirui Hu, Youzuo Lin, Qiang Guan, Weiwen Jiang
+venue: DAC
+year: 2023
+doi: 10.1109/DAC56929.2023.10247922
+url: https://doi.org/10.1109/DAC56929.2023.10247922
+bibtex: https://dblp.org/rec/conf/dac/HuLGJ23?view=bibtex
+
+title: CUDA Quantum: The Platform for Integrated Quantum-Classical Computing.
+authors: Jin-Sung Kim, Alex McCaskey, Bettina Heim, Manish Modani, Sam Stanwyck, Timothy B. Costa
+venue: DAC
+year: 2023
+doi: 10.1109/DAC56929.2023.10247886
+url: https://doi.org/10.1109/DAC56929.2023.10247886
+bibtex: https://dblp.org/rec/conf/dac/KimMHMSC23?view=bibtex
+
+title: Orchestrating Measurement-Based Quantum Computation over Photonic Quantum Processors.
+authors: Yingheng Li, Aditya Pawar, Mohadeseh Azari, Yanan Guo, Youtao Zhang, Jun Yang 0002, Kaushik Parasuram Seshadreesan, Xulong Tang
+venue: DAC
+year: 2023
+doi: 10.1109/DAC56929.2023.10247944
+url: https://doi.org/10.1109/DAC56929.2023.10247944
+bibtex: https://dblp.org/rec/conf/dac/LiPAGZYST23?view=bibtex
+
+title: Non-uniformity and Quantum Advice in the Quantum Random Oracle Model.
+authors: @pid, text
+venue: EUROCRYPT
+year: 2023
+doi: 10.1007/978-3-031-30545-0_5
+url: https://doi.org/10.1007/978-3-031-30545-0_5
+bibtex: https://dblp.org/rec/conf/eurocrypt/Liu23?view=bibtex
+
+title: Certified Robustness of Quantum Classifiers Against Adversarial Examples Through Quantum Noise.
+authors: Jhih-Cing Huang, Yu-Lin Tsai, Chao-Han Huck Yang, Cheng-Fang Su, Chia-Mu Yu, Pin-Yu Chen, Sy-Yen Kuo
+venue: ICASSP
+year: 2023
+doi: 10.1109/ICASSP49357.2023.10095030
+url: https://doi.org/10.1109/ICASSP49357.2023.10095030
+bibtex: https://dblp.org/rec/conf/icassp/HuangTYSYCK23?view=bibtex
+
+title: Optimizing Quantum Federated Learning Based on Federated Quantum Natural Gradient Descent.
+authors: Jun Qi 0002, Xiao-Lei Zhang, Javier Tejedor
+venue: ICASSP
+year: 2023
+doi: 10.1109/ICASSP49357.2023.10094634
+url: https://doi.org/10.1109/ICASSP49357.2023.10094634
+bibtex: https://dblp.org/rec/conf/icassp/QiZT23?view=bibtex
+
+title: Invited Paper: Introduction to Hybrid Quantum-Classical Programming Using C++ Quantum Extension.
+authors: Xin-Chuan Wu, Shavindra P. Premaratne, Kevin Rasch
+venue: ICCAD
+year: 2023
+doi: 10.1109/ICCAD57390.2023.10323946
+url: https://doi.org/10.1109/ICCAD57390.2023.10323946
+bibtex: https://dblp.org/rec/conf/iccad/WuPR23?view=bibtex
+
+title: Efficient Quantum Algorithms for Quantum Optimal Control.
+authors: Xiantao Li, Chunhao Wang
+venue: ICML
+year: 2023
+url: https://proceedings.mlr.press/v202/li23ab.html
+bibtex: https://dblp.org/rec/conf/icml/LiW23?view=bibtex
+
+title: Quantum Ridgelet Transform: Winning Lottery Ticket of Neural Networks with Quantum Computation.
+authors: Hayata Yamasaki, Sathyawageeswar Subramanian, Satoshi Hayakawa, Sho Sonoda
+venue: ICML
+year: 2023
+url: https://proceedings.mlr.press/v202/yamasaki23a.html
+bibtex: https://dblp.org/rec/conf/icml/YamasakiSHS23?view=bibtex
+
+title: Towards Quantum Machine Learning for Constrained Combinatorial Optimization: a Quantum QAP Solver.
+authors: Xinyu Ye, Ge Yan 0001, Junchi Yan
+venue: ICML
+year: 2023
+url: https://proceedings.mlr.press/v202/ye23g.html
+bibtex: https://dblp.org/rec/conf/icml/YeYY23?view=bibtex
+
+title: QuraTest: Integrating Quantum Specific Features in Quantum Program Testing.
+authors: Jiaming Ye, Shangzhou Xia, Fuyuan Zhang, Paolo Arcaini, Lei Ma 0003, Jianjun Zhao 0001, Fuyuki Ishikawa
+venue: ASE
+year: 2023
+doi: 10.1109/ASE56229.2023.00196
+url: https://doi.org/10.1109/ASE56229.2023.00196
+bibtex: https://dblp.org/rec/conf/kbse/YeXZAMZI23?view=bibtex
+
+title: Wasserstein Quantum Monte Carlo: A Novel Approach for Solving the Quantum Many-Body Schrödinger Equation.
+authors: Kirill Neklyudov, Jannes Nys, Luca Thiede, Juan Carrasquilla, Qiang Liu, Max Welling, Alireza Makhzani
+venue: NeurIPS
+year: 2023
+url: http://papers.nips.cc/paper_files/paper/2023/hash/c8450235f227f136242f774b2799581f-Abstract-Conference.html
+bibtex: https://dblp.org/rec/conf/nips/NeklyudovNTCLWM23?view=bibtex
+
+title: Statistical Analysis of Quantum State Learning Process in Quantum Neural Networks.
+authors: Hao-Kai Zhang, Chenghong Zhu, Mingrui Jing, Xin Wang 0022
+venue: NeurIPS
+year: 2023
+url: http://papers.nips.cc/paper_files/paper/2023/hash/68efc144ad3b41108f779b51b9fb1300-Abstract-Conference.html
+bibtex: https://dblp.org/rec/conf/nips/ZhangZJ023?view=bibtex
+
+title: Quantum Enhanced Sensing Using Gaussian Quantum States.
+authors: Neel Kanth Kundu, Matthew R. McKay, Bhashyam Balaji
+venue: SAS
+year: 2023
+doi: 10.1109/SAS58821.2023.10254017
+url: https://doi.org/10.1109/SAS58821.2023.10254017
+bibtex: https://dblp.org/rec/conf/sas2/KunduMB23?view=bibtex
+
+title: NNQS-Transformer: an Efficient and Scalable Neural Network Quantum States Approach for Ab initio Quantum Chemistry.
+authors: Yangjun Wu, Chu Guo, Yi Fan, Pengyu Zhou, Honghui Shang
+venue: SC
+year: 2023
+doi: 10.1145/3581784.3607061
+url: https://doi.org/10.1145/3581784.3607061
+bibtex: https://dblp.org/rec/conf/sc/WuGFZS23?view=bibtex
+
+title: Understanding the Impact of Quantum Noise on Quantum Programs.
+authors: Zhonghao Pan, Yang Feng 0003, Zhiyuan Li, Yunxin Liu, Yuanchun Li
+venue: SANER
+year: 2023
+doi: 10.1109/SANER56733.2023.00047
+url: https://doi.org/10.1109/SANER56733.2023.00047
+bibtex: https://dblp.org/rec/conf/wcre/PanFLLL23?view=bibtex
+
+title: QUILT: Effective Multi-Class Classification on Quantum Computers Using an Ensemble of Diverse Quantum Classifiers.
+authors: Daniel Silver, Tirthak Patel, Devesh Tiwari
+venue: AAAI
+year: 2022
+doi: 10.1609/AAAI.V36I8.20807
+url: https://doi.org/10.1609/aaai.v36i8.20807
+bibtex: https://dblp.org/rec/conf/aaai/SilverPT22?view=bibtex
+
+title: QuantumNAT: quantum noise-aware training with noise injection, quantization and normalization.
+authors: Hanrui Wang 0002, Jiaqi Gu, Yongshan Ding 0001, Zirui Li, Frederic T. Chong, David Z. Pan, Song Han 0003
+venue: DAC
+year: 2022
+doi: 10.1145/3489517.3530400
+url: https://doi.org/10.1145/3489517.3530400
+bibtex: https://dblp.org/rec/conf/dac/0002G0LCP022?view=bibtex
+
+title: OPTIC: A Practical Quantum Binary Classifier for Near-Term Quantum Computers.
+authors: Tirthak Patel, Daniel Silver, Devesh Tiwari
+venue: DATE
+year: 2022
+doi: 10.23919/DATE54114.2022.9774707
+url: https://doi.org/10.23919/DATE54114.2022.9774707
+bibtex: https://dblp.org/rec/conf/date/PatelST22?view=bibtex
+
+title: QuFI: a Quantum Fault Injector to Measure the Reliability of Qubits and Quantum Circuits.
+authors: Daniel Oliveira 0002, Edoardo Giusto, Emanuele Dri, Nadir Casciola, Betis Baheri, Qiang Guan, Bartolomeo Montrucchio, Paolo Rech
+venue: DSN
+year: 2022
+doi: 10.1109/DSN53405.2022.00025
+url: https://doi.org/10.1109/DSN53405.2022.00025
+bibtex: https://dblp.org/rec/conf/dsn/OliveiraGDCBGMR22?view=bibtex
+
+title: The Quantum and Classical Streaming Complexity of Quantum and Classical Max-Cut.
+authors: John Kallaugher, Ojas Parekh
+venue: FOCS
+year: 2022
+doi: 10.1109/FOCS54457.2022.00054
+url: https://doi.org/10.1109/FOCS54457.2022.00054
+bibtex: https://dblp.org/rec/conf/focs/KallaugherP22?view=bibtex
+
+title: Post-Quantum Zero Knowledge, Revisited or: How to Do Quantum Rewinding Undetectably.
+authors: Alex Lombardi, Fermi Ma, Nicholas Spooner
+venue: FOCS
+year: 2022
+doi: 10.1109/FOCS54457.2022.00086
+url: https://doi.org/10.1109/FOCS54457.2022.00086
+bibtex: https://dblp.org/rec/conf/focs/LombardiMS22?view=bibtex
+
+title: QuantumNAS: Noise-Adaptive Search for Robust Quantum Circuits.
+authors: Hanrui Wang 0002, Yongshan Ding 0001, Jiaqi Gu, Yujun Lin 0001, David Z. Pan, Frederic T. Chong, Song Han 0003
+venue: HPCA
+year: 2022
+doi: 10.1109/HPCA53966.2022.00057
+url: https://doi.org/10.1109/HPCA53966.2022.00057
+bibtex: https://dblp.org/rec/conf/hpca/WangDGLPCH22?view=bibtex
+
+title: Quantum Federated Learning with Quantum Data.
+authors: Mahdi Chehimi, Walid Saad
+venue: ICASSP
+year: 2022
+doi: 10.1109/ICASSP43922.2022.9746622
+url: https://doi.org/10.1109/ICASSP43922.2022.9746622
+bibtex: https://dblp.org/rec/conf/icassp/ChehimiS22?view=bibtex
+
+title: Classical-To-Quantum Transfer Learning for Spoken Command Recognition Based on Quantum Neural Networks.
+authors: Jun Qi 0002, Javier Tejedor
+venue: ICASSP
+year: 2022
+doi: 10.1109/ICASSP43922.2022.9747636
+url: https://doi.org/10.1109/ICASSP43922.2022.9747636
+bibtex: https://dblp.org/rec/conf/icassp/QiT22a?view=bibtex
+
+title: Exploiting Quantum Assertions for Error Mitigation and Quantum Program Debugging.
+authors: Peiyi Li 0002, Ji Liu 0007, Yangjia Li, Huiyang Zhou
+venue: ICCD
+year: 2022
+doi: 10.1109/ICCD56317.2022.00028
+url: https://doi.org/10.1109/ICCD56317.2022.00028
+bibtex: https://dblp.org/rec/conf/iccd/00020LZ22?view=bibtex
+
+title: Quantum Multi-Agent Reinforcement Learning via Variational Quantum Circuit Design.
+authors: Won Joon Yun, Yunseok Kwak, Jae Pyoung Kim, Hyunhee Cho, Soyi Jung, Jihong Park, Joongheon Kim
+venue: ICDCS
+year: 2022
+doi: 10.1109/ICDCS54860.2022.00151
+url: https://doi.org/10.1109/ICDCS54860.2022.00151
+bibtex: https://dblp.org/rec/conf/icdcs/YunKKCJPK22?view=bibtex
+
+title: EQC: ensembled quantum computing for variational quantum algorithms.
+authors: Samuel Alexander Stein, Nathan Wiebe, Yufei Ding, Bo Peng, Karol Kowalski, Nathan A. Baker, James A. Ang, Ang Li 0006
+venue: ISCA
+year: 2022
+doi: 10.1145/3470496.3527434
+url: https://doi.org/10.1145/3470496.3527434
+bibtex: https://dblp.org/rec/conf/isca/SteinWDPKBAL22?view=bibtex
+
+title: Quantum Weakest Preconditions for Reasoning about Expected Runtimes of Quantum Programs.
+authors: Junyi Liu, Li Zhou, Gilles Barthe, Mingsheng Ying
+venue: LICS
+year: 2022
+doi: 10.1145/3531130.3533327
+url: https://doi.org/10.1145/3531130.3533327
+bibtex: https://dblp.org/rec/conf/lics/LiuZBY22?view=bibtex
+
+title: AI for Quantum Mechanics: High Performance Quantum Many-Body Simulations via Deep Learning.
+authors: Xuncheng Zhao, Mingfan Li, Qian Xiao, Junshi Chen, Fei Wang, Li Shen, Meijia Zhao, Wenhao Wu, Hong An, Lixin He, Xiao Liang
+venue: SC
+year: 2022
+doi: 10.1109/SC41404.2022.00053
+url: https://doi.org/10.1109/SC41404.2022.00053
+bibtex: https://dblp.org/rec/conf/sc/ZhaoLXCWSZWAHL22?view=bibtex
+
+title: Prioritization of Compiled Quantum Circuits for Different Quantum Computers.
+authors: Marie Salm, Johanna Barzen, Frank Leymann, Benjamin Weder
+venue: SANER
+year: 2022
+doi: 10.1109/SANER53432.2022.00150
+url: https://doi.org/10.1109/SANER53432.2022.00150
+bibtex: https://dblp.org/rec/conf/wcre/SalmBLW22?view=bibtex
+
+title: Quantum Computationally Predicate-Binding Commitments with Application in Quantum Zero-Knowledge Arguments for NP.
+authors: @pid, text
+venue: ASIACRYPT
+year: 2021
+doi: 10.1007/978-3-030-92062-3_20
+url: https://doi.org/10.1007/978-3-030-92062-3_20
+bibtex: https://dblp.org/rec/conf/asiacrypt/Yan21?view=bibtex
+
+title: CutQC: using small Quantum computers for large Quantum circuit evaluations.
+authors: Wei Tang, Teague Tomesh, Martin Suchara, Jeffrey Larson 0001, Margaret Martonosi
+venue: ASPLOS
+year: 2021
+doi: 10.1145/3445814.3446758
+url: https://doi.org/10.1145/3445814.3446758
+bibtex: https://dblp.org/rec/conf/asplos/TangTSLM21?view=bibtex
+
+title: On Tight Quantum Security of HMAC and NMAC in the Quantum Random Oracle Model.
+authors: Akinori Hosoyamada, Tetsu Iwata
+venue: CRYPTO
+year: 2021
+doi: 10.1007/978-3-030-84242-0_21
+url: https://doi.org/10.1007/978-3-030-84242-0_21
+bibtex: https://dblp.org/rec/conf/crypto/HosoyamadaI21?view=bibtex
+
+title: Exact Physical Design of Quantum Circuits for Ion-Trap-based Quantum Architectures.
+authors: Oliver Keszöcze, Naser Mohammadzadeh, Robert Wille
+venue: DATE
+year: 2021
+doi: 10.23919/DATE51398.2021.9474188
+url: https://doi.org/10.23919/DATE51398.2021.9474188
+bibtex: https://dblp.org/rec/conf/date/KeszoczeMW21?view=bibtex
+
+title: From Boolean functions to quantum circuits: A scalable quantum compilation flow in C++.
+authors: Bruno Schmitt, Fereshte Mozafari, Giulia Meuli, Heinz Riener, Giovanni De Micheli
+venue: DATE
+year: 2021
+doi: 10.23919/DATE51398.2021.9474237
+url: https://doi.org/10.23919/DATE51398.2021.9474237
+bibtex: https://dblp.org/rec/conf/date/SchmittMMRM21?view=bibtex
+
+title: Post-Quantum Succinct Arguments: Breaking the Quantum Rewinding Barrier.
+authors: Alessandro Chiesa, Fermi Ma, Nicholas Spooner, Mark Zhandry
+venue: FOCS
+year: 2021
+doi: 10.1109/FOCS52979.2021.00014
+url: https://doi.org/10.1109/FOCS52979.2021.00014
+bibtex: https://dblp.org/rec/conf/focs/ChiesaMSZ21?view=bibtex
+
+title: Quantum supremacy and hardness of estimating output probabilities of quantum circuits.
+authors: Yasuhiro Kondo, Ryuhei Mori, Ramis Movassagh
+venue: FOCS
+year: 2021
+doi: 10.1109/FOCS52979.2021.00126
+url: https://doi.org/10.1109/FOCS52979.2021.00126
+bibtex: https://dblp.org/rec/conf/focs/KondoMM21?view=bibtex
+
+title: A Quantum Leap for Fairness: Quantum Bayesian Approach for Fair Decision Making.
+authors: Ece C. Mutlu, Özlem Özmen Garibay
+venue: HCI
+year: 2021
+doi: 10.1007/978-3-030-90963-5_37
+url: https://doi.org/10.1007/978-3-030-90963-5_37
+bibtex: https://dblp.org/rec/conf/hci/MutluG21?view=bibtex
+
+title: Application of the Level-2 Quantum Lasserre Hierarchy in Quantum Approximation Algorithms.
+authors: Ojas Parekh, Kevin Thompson 0007
+venue: ICALP
+year: 2021
+doi: 10.4230/LIPICS.ICALP.2021.102
+url: https://doi.org/10.4230/LIPIcs.ICALP.2021.102
+bibtex: https://dblp.org/rec/conf/icalp/Parekh021?view=bibtex
+
+title: ICCAD Special Session Paper: Quantum Variational Methods for Quantum Applications.
+authors: Shouvanik Chakrabarti, Xuchen You, Xiaodi Wu 0001
+venue: ICCAD
+year: 2021
+doi: 10.1109/ICCAD51958.2021.9643519
+url: https://doi.org/10.1109/ICCAD51958.2021.9643519
+bibtex: https://dblp.org/rec/conf/iccad/ChakrabartiYW21?view=bibtex
+
+title: Can Noise on Qubits Be Learned in Quantum Neural Network? A Case Study on QuantumFlow (Invited Paper).
+authors: Zhiding Liang, Zhepeng Wang, Junhuan Yang, Lei Yang 0018, Yiyu Shi 0001, Weiwen Jiang
+venue: ICCAD
+year: 2021
+doi: 10.1109/ICCAD51958.2021.9643470
+url: https://doi.org/10.1109/ICCAD51958.2021.9643470
+bibtex: https://dblp.org/rec/conf/iccad/LiangWYYSJ21?view=bibtex
+
+title: Exploration of Quantum Neural Architecture by Mixing Quantum Neuron Designs: (Invited Paper).
+authors: Zhepeng Wang, Zhiding Liang, Shanglin Zhou, Caiwen Ding, Yiyu Shi 0001, Weiwen Jiang
+venue: ICCAD
+year: 2021
+doi: 10.1109/ICCAD51958.2021.9643575
+url: https://doi.org/10.1109/ICCAD51958.2021.9643575
+bibtex: https://dblp.org/rec/conf/iccad/WangLZDSJ21?view=bibtex
+
+title: A Uniform Quantum Computing Model based on Virtual Quantum Processors.
+authors: @pid, text
+venue: ICWS
+year: 2021
+doi: 10.1109/ICWS53863.2021.00018
+url: https://doi.org/10.1109/ICWS53863.2021.00018
+bibtex: https://dblp.org/rec/conf/icws/Gesek21?view=bibtex
+
+title: A Quantum Interpretation of Bunched Logic &amp; Quantum Separation Logic.
+authors: Li Zhou, Gilles Barthe, Justin Hsu, Mingsheng Ying, Nengkun Yu
+venue: LICS
+year: 2021
+doi: 10.1109/LICS52264.2021.9470673
+url: https://doi.org/10.1109/LICS52264.2021.9470673
+bibtex: https://dblp.org/rec/conf/lics/ZhouBHYY21?view=bibtex
+
+title: Closing the &quot;quantum supremacy&quot; gap: achieving real-time simulation of a random quantum circuit using a new Sunway supercomputer.
+authors: Yong (Alexander) Liu, Xin (Lucy) Liu, Fang (Nancy) Li, Haohuan Fu, Yuling Yang, Jiawei Song, Pengpeng Zhao, Zhen Wang, Dajia Peng, Huarong Chen, Chu Guo, Heliang Huang, Wenzhao Wu, Dexun Chen
+venue: SC
+year: 2021
+doi: 10.1145/3458817.3487399
+url: https://doi.org/10.1145/3458817.3487399
+bibtex: https://dblp.org/rec/conf/sc/LiuLLFYSZWPCGHW21?view=bibtex
+
+title: Near-Optimal Quantum Algorithms for String Problems.
+authors: Shyan Akmal, Ce Jin 0001
+venue: Algorithmica
+year: 2023
+doi: 10.1007/S00453-022-01092-X
+url: https://doi.org/10.1007/s00453-022-01092-x
+bibtex: https://dblp.org/rec/journals/algorithmica/AkmalJ23?view=bibtex
+
+title: Inapproximability of Positive Semidefinite Permanents and Quantum State Tomography.
+authors: @pid, text
+venue: Algorithmica
+year: 2023
+doi: 10.1007/S00453-023-01169-1
+url: https://doi.org/10.1007/s00453-023-01169-1
+bibtex: https://dblp.org/rec/journals/algorithmica/Meiburg23?view=bibtex
+
+title: FV-Train: Quantum Convolutional Neural Network Training with a Finite Number of Qubits by Extracting Diverse Features (Student Abstract).
+authors: Hankyul Baek, Won Joon Yun, Joongheon Kim
+venue: AAAI
+year: 2023
+doi: 10.1609/AAAI.V37I13.26938
+url: https://doi.org/10.1609/aaai.v37i13.26938
+bibtex: https://dblp.org/rec/conf/aaai/BaekYK23?view=bibtex
+
+title: Alternating Layered Variational Quantum Circuits Can Be Classically Optimized Efficiently Using Classical Shadows.
+authors: Afrad Basheer, Yuan Feng 0001, Christopher Ferrie, Sanjiang Li
+venue: AAAI
+year: 2023
+doi: 10.1609/AAAI.V37I6.25830
+url: https://doi.org/10.1609/aaai.v37i6.25830
+bibtex: https://dblp.org/rec/conf/aaai/Basheer0FL23?view=bibtex
+
+title: Offline Quantum Reinforcement Learning in a Conservative Manner.
+authors: Zhihao Cheng, Kaining Zhang, Li Shen 0008, Dacheng Tao
+venue: AAAI
+year: 2023
+doi: 10.1609/AAAI.V37I6.25872
+url: https://doi.org/10.1609/aaai.v37i6.25872
+bibtex: https://dblp.org/rec/conf/aaai/ChengZ0T23?view=bibtex
+
+title: LEAN-DMKDE: Quantum Latent Density Estimation for Anomaly Detection (Student Abstract).
+authors: Joseph A. Gallego-Mejia, Oscar A. Bustos-Brinez, Fabio A. González 0001
+venue: AAAI
+year: 2023
+doi: 10.1609/AAAI.V37I13.26965
+url: https://doi.org/10.1609/aaai.v37i13.26965
+bibtex: https://dblp.org/rec/conf/aaai/Gallego-MejiaB023?view=bibtex
+
+title: Quantum Multi-Armed Bandits and Stochastic Linear Bandits Enjoy Logarithmic Regrets.
+authors: Zongqi Wan, Zhijie Zhang, Tongyang Li, Jialin Zhang 0001, Xiaoming Sun 0001
+venue: AAAI
+year: 2023
+doi: 10.1609/AAAI.V37I8.26202
+url: https://doi.org/10.1609/aaai.v37i8.26202
+bibtex: https://dblp.org/rec/conf/aaai/WanZLZ023?view=bibtex
+
+title: Quantum Multi-Agent Meta Reinforcement Learning.
+authors: Won Joon Yun, Jihong Park, Joongheon Kim
+venue: AAAI
+year: 2023
+doi: 10.1609/AAAI.V37I9.26313
+url: https://doi.org/10.1609/aaai.v37i9.26313
+bibtex: https://dblp.org/rec/conf/aaai/YunPK23?view=bibtex
+
+title: Quantum-Inspired Representation for Long-Tail Senses of Word Sense Disambiguation.
+authors: Junwei Zhang 0009, Ruifang He, Fengyu Guo
+venue: AAAI
+year: 2023
+doi: 10.1609/AAAI.V37I11.26633
+url: https://doi.org/10.1609/aaai.v37i11.26633
+bibtex: https://dblp.org/rec/conf/aaai/ZhangHG23?view=bibtex
+
+title: QAP: A Quantum-Inspired Adaptive-Priority-Learning Model for Multimodal Emotion Recognition.
+authors: Ziming Li, Yan Zhou, Yaxin Liu, Fuqing Zhu, Chuanpeng Yang, Songlin Hu
+venue: ACL
+year: 2023
+doi: 10.18653/V1/2023.FINDINGS-ACL.772
+url: https://doi.org/10.18653/v1/2023.findings-acl.772
+bibtex: https://dblp.org/rec/conf/acl/LiZLZYH23?view=bibtex
+
+title: On the (Im)possibility of Time-Lock Puzzles in the Quantum Random Oracle Model.
+authors: Abtin Afshar, Kai-Min Chung, Yao-Ching Hsieh, Yao-Ting Lin, Mohammad Mahmoody
+venue: ASIACRYPT
+year: 2023
+doi: 10.1007/978-981-99-8730-6_11
+url: https://doi.org/10.1007/978-981-99-8730-6_11
+bibtex: https://dblp.org/rec/conf/asiacrypt/AfsharCHLM23?view=bibtex
+
+title: On the (Im)plausibility of Public-Key Quantum Money from Collision-Resistant Hash Functions.
+authors: Prabhanjan Ananth, Zihan Hu, Henry Yuen
+venue: ASIACRYPT
+year: 2023
+doi: 10.1007/978-981-99-8742-9_2
+url: https://doi.org/10.1007/978-981-99-8742-9_2
+bibtex: https://dblp.org/rec/conf/asiacrypt/AnanthHY23?view=bibtex
+
+title: Concrete Analysis of Quantum Lattice Enumeration.
+authors: Shi Bai 0001, Iggy van Hoof, Floyd Johnson, Tanja Lange 0001, Tran Ngo
+venue: ASIACRYPT
+year: 2023
+doi: 10.1007/978-981-99-8727-6_5
+url: https://doi.org/10.1007/978-981-99-8727-6_5
+bibtex: https://dblp.org/rec/conf/asiacrypt/BaiHJLN23?view=bibtex
+
+title: On Quantum Secure Compressing Pseudorandom Functions.
+authors: Ritam Bhaumik, Benoît Cogliati, Jordan Ethan, Ashwin Jha
+venue: ASIACRYPT
+year: 2023
+doi: 10.1007/978-981-99-8727-6_2
+url: https://doi.org/10.1007/978-981-99-8727-6_2
+bibtex: https://dblp.org/rec/conf/asiacrypt/BhaumikCEJ23?view=bibtex
+
+title: SCA-LDPC: A Code-Based Framework for Key-Recovery Side-Channel Attacks on Post-quantum Encryption Schemes.
+authors: Qian Guo 0001, Denis Nabokov, Alexander Nilsson, Thomas Johansson 0001
+venue: ASIACRYPT
+year: 2023
+doi: 10.1007/978-981-99-8730-6_7
+url: https://doi.org/10.1007/978-981-99-8730-6_7
+bibtex: https://dblp.org/rec/conf/asiacrypt/GuoNNJ23?view=bibtex
+
+title: Quantum Speed-Up for Multidimensional (Zero Correlation) Linear Distinguishers.
+authors: @pid, text
+venue: ASIACRYPT
+year: 2023
+doi: 10.1007/978-981-99-8727-6_11
+url: https://doi.org/10.1007/978-981-99-8727-6_11
+bibtex: https://dblp.org/rec/conf/asiacrypt/Hosoyamada23?view=bibtex
+
+title: Post-quantum Security of Key Encapsulation Mechanism Against CCA Attacks with a Single Decapsulation Query.
+authors: Haodong Jiang, Zhi Ma 0001, Zhenfeng Zhang
+venue: ASIACRYPT
+year: 2023
+doi: 10.1007/978-981-99-8730-6_14
+url: https://doi.org/10.1007/978-981-99-8730-6_14
+bibtex: https://dblp.org/rec/conf/asiacrypt/JiangMZ23?view=bibtex
+
+title: Improved Quantum Circuits for AES: Reducing the Depth and the Number of Qubits.
+authors: Qun Liu 0006, Bart Preneel, Zheng Zhao, Meiqin Wang
+venue: ASIACRYPT
+year: 2023
+doi: 10.1007/978-981-99-8727-6_3
+url: https://doi.org/10.1007/978-981-99-8727-6_3
+bibtex: https://dblp.org/rec/conf/asiacrypt/LiuPZW23?view=bibtex
+
+title: VarSaw: Application-tailored Measurement Error Mitigation for Variational Quantum Algorithms.
+authors: Siddharth Dangwal, Gokul Subramanian Ravi, Poulami Das 0005, Kaitlin N. Smith, Jonathan Mark Baker, Frederic T. Chong
+venue: ASPLOS
+year: 2023
+doi: 10.1145/3623278.3624764
+url: https://doi.org/10.1145/3623278.3624764
+bibtex: https://dblp.org/rec/conf/asplos/DangwalR0SBC23?view=bibtex
+
+title: Verification of Nondeterministic Quantum Programs.
+authors: Yuan Feng 0001, Yingte Xu
+venue: ASPLOS
+year: 2023
+doi: 10.1145/3582016.3582039
+url: https://doi.org/10.1145/3582016.3582039
+bibtex: https://dblp.org/rec/conf/asplos/FengX23?view=bibtex
+
+title: Exploiting the Regular Structure of Modern Quantum Architectures for Compiling and Optimizing Programs with Permutable Operators.
+authors: Yuwei Jin, Fei Hua, Yan-Hao Chen, Ari B. Hayes, Chi Zhang, Eddy Z. Zhang
+venue: ASPLOS
+year: 2023
+doi: 10.1145/3623278.3624751
+url: https://doi.org/10.1145/3623278.3624751
+bibtex: https://dblp.org/rec/conf/asplos/JinHCHZZ23?view=bibtex
+
+title: Better Than Worst-Case Decoding for Quantum Error Correction.
+authors: Gokul Subramanian Ravi, Jonathan M. Baker, Arash Fayyazi, Sophia Fuhui Lin, Ali Javadi-Abhari, Massoud Pedram, Frederic T. Chong
+venue: ASPLOS
+year: 2023
+doi: 10.1145/3575693.3575733
+url: https://doi.org/10.1145/3575693.3575733
+bibtex: https://dblp.org/rec/conf/asplos/RaviBFLJPC23?view=bibtex
+
+title: CAFQA: A Classical Simulation Bootstrap for Variational Quantum Algorithms.
+authors: Gokul Subramanian Ravi, Pranav Gokhale, Yi Ding 0006, William M. Kirby, Kaitlin N. Smith, Jonathan M. Baker, Peter J. Love, Henry Hoffmann, Kenneth R. Brown, Frederic T. Chong
+venue: ASPLOS
+year: 2023
+doi: 10.1145/3567955.3567958
+url: https://doi.org/10.1145/3567955.3567958
+bibtex: https://dblp.org/rec/conf/asplos/RaviG0KSBLHBC23?view=bibtex
+
+title: Navigating the Dynamic Noise Landscape of Variational Quantum Algorithms with QISMET.
+authors: Gokul Subramanian Ravi, Kaitlin N. Smith, Jonathan M. Baker, Tejas Kannan, Nathan Earnest, Ali Javadi-Abhari, Henry Hoffmann, Frederic T. Chong
+venue: ASPLOS
+year: 2023
+doi: 10.1145/3575693.3575739
+url: https://doi.org/10.1145/3575693.3575739
+bibtex: https://dblp.org/rec/conf/asplos/RaviSBKEJHC23?view=bibtex
+
+title: Using Knowledge graph and Quantum Computing to Optimize the Comprehensive Mental Health Adaptive Test System.
+authors: Xinhang Wang, Guangdi Liu, Le Zhang
+venue: BIBM
+year: 2023
+doi: 10.1109/BIBM58861.2023.10385997
+url: https://doi.org/10.1109/BIBM58861.2023.10385997
+bibtex: https://dblp.org/rec/conf/bibm/WangLZ23?view=bibtex
+
+title: AutoQ: An Automata-Based Quantum Circuit Verifier.
+authors: Yu-Fang Chen 0001, Kai-Min Chung, Ondrej Lengál, Jyun-Ao Lin, Wei-Lun Tsai
+venue: CAV
+year: 2023
+doi: 10.1007/978-3-031-37709-9_7
+url: https://doi.org/10.1007/978-3-031-37709-9_7
+bibtex: https://dblp.org/rec/conf/cav/ChenCLLT23?view=bibtex
+
+title: Symbolic Quantum Simulation with Quasimodo.
+authors: Meghana Sistla, Swarat Chaudhuri, Thomas W. Reps
+venue: CAV
+year: 2023
+doi: 10.1007/978-3-031-37709-9_11
+url: https://doi.org/10.1007/978-3-031-37709-9_11
+bibtex: https://dblp.org/rec/conf/cav/SistlaCR23?view=bibtex
+
+title: Post-Quantum Multi-Recipient Public Key Encryption.
+authors: Joël Alwen, Dominik Hartmann, Eike Kiltz, Marta Mularczyk, Peter Schwabe
+venue: CCS
+year: 2023
+doi: 10.1145/3576915.3623185
+url: https://doi.org/10.1145/3576915.3623185
+bibtex: https://dblp.org/rec/conf/ccs/AlwenHKMS23?view=bibtex
+
+title: Detecting Violations of Differential Privacy for Quantum Algorithms.
+authors: Ji Guan, Wang Fang, Mingyu Huang, Mingsheng Ying
+venue: CCS
+year: 2023
+doi: 10.1145/3576915.3623108
+url: https://doi.org/10.1145/3576915.3623108
+bibtex: https://dblp.org/rec/conf/ccs/GuanFHY23?view=bibtex
+
+title: Post Quantum Fuzzy Stealth Signatures and Applications.
+authors: Sihang Pu, Sri Aravinda Krishnan Thyagarajan, Nico Döttling, Lucjan Hanzlik
+venue: CCS
+year: 2023
+doi: 10.1145/3576915.3623148
+url: https://doi.org/10.1145/3576915.3623148
+bibtex: https://dblp.org/rec/conf/ccs/PuTDH23?view=bibtex
+
+title: Securing NISQ Quantum Computer Reset Operations Against Higher Energy State Attacks.
+authors: Chuanqi Xu, Jessie Chen, Allen Mi, Jakub Szefer
+venue: CCS
+year: 2023
+doi: 10.1145/3576915.3623104
+url: https://doi.org/10.1145/3576915.3623104
+bibtex: https://dblp.org/rec/conf/ccs/XuCMS23?view=bibtex
+
+title: Exploration of Power Side-Channel Vulnerabilities in Quantum Computer Controllers.
+authors: Chuanqi Xu, Ferhat Erata, Jakub Szefer
+venue: CCS
+year: 2023
+doi: 10.1145/3576915.3623118
+url: https://doi.org/10.1145/3576915.3623118
+bibtex: https://dblp.org/rec/conf/ccs/XuES23?view=bibtex
+
+title: Logarithmic Dimension Reduction for Quantum Neural Networks.
+authors: Hankyul Baek, Soohyun Park, Joongheon Kim
+venue: CIKM
+year: 2023
+doi: 10.1145/3583780.3615240
+url: https://doi.org/10.1145/3583780.3615240
+bibtex: https://dblp.org/rec/conf/cikm/BaekPK23?view=bibtex
+
+title: Quantum Split Learning for Privacy-Preserving Information Management.
+authors: Soohyun Park, Hankyul Baek, Joongheon Kim
+venue: CIKM
+year: 2023
+doi: 10.1145/3583780.3615144
+url: https://doi.org/10.1145/3583780.3615144
+bibtex: https://dblp.org/rec/conf/cikm/ParkBK23?view=bibtex
+
+title: Intersectional Bias Mitigation in Pre-trained Language Models: A Quantum-Inspired Approach.
+authors: @pid, text
+venue: CIKM
+year: 2023
+doi: 10.1145/3583780.3616003
+url: https://doi.org/10.1145/3583780.3616003
+bibtex: https://dblp.org/rec/conf/cikm/Shokrollahi23?view=bibtex
+
+title: Quantum Security of Subset Cover Problems.
+authors: Samuel Bouaziz-Ermann, Alex B. Grilo, Damien Vergnaud
+venue: ITC
+year: 2023
+doi: 10.4230/LIPICS.ITC.2023.9
+url: https://doi.org/10.4230/LIPIcs.ITC.2023.9
+bibtex: https://dblp.org/rec/conf/citc/Bouaziz-ErmannG23?view=bibtex
+
+title: An Exponential Separation Between Quantum Query Complexity and the Polynomial Degree.
+authors: Andris Ambainis, Aleksandrs Belovs
+venue: CCC
+year: 2023
+doi: 10.4230/LIPICS.CCC.2023.24
+url: https://doi.org/10.4230/LIPIcs.CCC.2023.24
+bibtex: https://dblp.org/rec/conf/coco/AmbainisB23?view=bibtex
+
+title: The Optimal Depth of Variational Quantum Algorithms Is QCMA-Hard to Approximate.
+authors: Lennart Bittel, Sevag Gharibian, Martin Kliesch
+venue: CCC
+year: 2023
+doi: 10.4230/LIPICS.CCC.2023.34
+url: https://doi.org/10.4230/LIPIcs.CCC.2023.34
+bibtex: https://dblp.org/rec/conf/coco/BittelGK23?view=bibtex
+
+title: On Testing and Learning Quantum Junta Channels.
+authors: Zongbo Bao, Penghui Yao
+venue: COLT
+year: 2023
+url: https://proceedings.mlr.press/v195/bao23b.html
+bibtex: https://dblp.org/rec/conf/colt/BaoY23?view=bibtex
+
+title: Quantum Channel Certification with Incoherent Measurements.
+authors: Omar Fawzi, Nicolas Flammarion, Aurélien Garivier, Aadil Oufkir
+venue: COLT
+year: 2023
+url: https://proceedings.mlr.press/v195/fawzi23a.html
+bibtex: https://dblp.org/rec/conf/colt/FawziFGO23?view=bibtex
+
+title: The Performance of Post-Quantum TLS 1.3.
+authors: Markus Sosnowski, Florian Wiedner, Eric Hauser, Lion Steger, Dimitrios Schoinianakis, Sebastian Gallenmüller, Georg Carle
+venue: CoNEXT
+year: 2023
+doi: 10.1145/3624354.3630585
+url: https://doi.org/10.1145/3624354.3630585
+bibtex: https://dblp.org/rec/conf/conext/SosnowskiWHSSGC23?view=bibtex
+
+title: Publicly Verifiable Zero-Knowledge and Post-Quantum Signatures from VOLE-in-the-Head.
+authors: Carsten Baum, Lennart Braun, Cyprien Delpech de Saint Guilhem, Michael Klooß, Emmanuela Orsini, Lawrence Roy, Peter Scholl
+venue: CRYPTO
+year: 2023
+doi: 10.1007/978-3-031-38554-4_19
+url: https://doi.org/10.1007/978-3-031-38554-4_19
+bibtex: https://dblp.org/rec/conf/crypto/BaumBGKORS22?view=bibtex
+
+title: Black-Hole Radiation Decoding Is Quantum Cryptography.
+authors: @pid, text
+venue: CRYPTO
+year: 2023
+doi: 10.1007/978-3-031-38554-4_2
+url: https://doi.org/10.1007/978-3-031-38554-4_2
+bibtex: https://dblp.org/rec/conf/crypto/Brakerski22?view=bibtex
+
+title: Simple Tests of Quantumness Also Certify Qubits.
+authors: Zvika Brakerski, Alexandru Gheorghiu, Gregory D. Kahanamoku-Meyer, Eitan Porat, Thomas Vidick
+venue: CRYPTO
+year: 2023
+doi: 10.1007/978-3-031-38554-4_6
+url: https://doi.org/10.1007/978-3-031-38554-4_6
+bibtex: https://dblp.org/rec/conf/crypto/BrakerskiGKPV22?view=bibtex
+
+title: Tighter QCCA-Secure Key Encapsulation Mechanism with Explicit Rejection in the Quantum Random Oracle Model.
+authors: Jiangxia Ge, Tianshu Shan, Rui Xue 0001
+venue: CRYPTO
+year: 2023
+doi: 10.1007/978-3-031-38554-4_10
+url: https://doi.org/10.1007/978-3-031-38554-4_10
+bibtex: https://dblp.org/rec/conf/crypto/GeSX22?view=bibtex
+
+title: On Concurrent Multi-party Quantum Computation.
+authors: Vipul Goyal, Xiao Liang 0014, Giulio Malavolta
+venue: CRYPTO
+year: 2023
+doi: 10.1007/978-3-031-38554-4_5
+url: https://doi.org/10.1007/978-3-031-38554-4_5
+bibtex: https://dblp.org/rec/conf/crypto/GoyalLM22?view=bibtex
+
+title: Quantum Linear Key-Recovery Attacks Using the QFT.
+authors: @pid, text
+venue: CRYPTO
+year: 2023
+doi: 10.1007/978-3-031-38554-4_9
+url: https://doi.org/10.1007/978-3-031-38554-4_9
+bibtex: https://dblp.org/rec/conf/crypto/Schrottenloher22?view=bibtex
+
+title: Tracing Quantum State Distinguishers via Backtracking.
+authors: @pid, text
+venue: CRYPTO
+year: 2023
+doi: 10.1007/978-3-031-38554-4_1
+url: https://doi.org/10.1007/978-3-031-38554-4_1
+bibtex: https://dblp.org/rec/conf/crypto/Zhandry22c?view=bibtex
+
+title: CCuantuMM: Cycle-Consistent Quantum-Hybrid Matching of Multiple Shapes.
+authors: Harshil Bhatia, Edith Tretschk, Zorah Lähner, Marcel Seelbach Benkner, Michael Moeller 0001, Christian Theobalt, Vladislav Golyanik
+venue: CVPR
+year: 2023
+doi: 10.1109/CVPR52729.2023.00131
+url: https://doi.org/10.1109/CVPR52729.2023.00131
+bibtex: https://dblp.org/rec/conf/cvpr/BhatiaTLB0TG23?view=bibtex
+
+title: Quantum Multi-Model Fitting.
+authors: Matteo Farina, Luca Magri, Willi Menapace, Elisa Ricci 0001, Vladislav Golyanik, Federica Arrigoni
+venue: CVPR
+year: 2023
+doi: 10.1109/CVPR52729.2023.01311
+url: https://doi.org/10.1109/CVPR52729.2023.01311
+bibtex: https://dblp.org/rec/conf/cvpr/FarinaMM0GA23?view=bibtex
+
+title: Quantum-Inspired Spectral-Spatial Pyramid Network for Hyperspectral Image Classification.
+authors: Jie Zhang, Yongshan Zhang, Yicong Zhou
+venue: CVPR
+year: 2023
+doi: 10.1109/CVPR52729.2023.00957
+url: https://doi.org/10.1109/CVPR52729.2023.00957
+bibtex: https://dblp.org/rec/conf/cvpr/ZhangZZ23?view=bibtex
+
+title: Cryogenic In-Memory Matrix-Vector Multiplication using Ferroelectric Superconducting Quantum Interference Device (FE-SQUID).
+authors: Shamiul Alam, Jack Hutchins, Md. Shafayat Hossain, Kai Ni 0004, Vijaykrishnan Narayanan, Ahmedullah Aziz
+venue: DAC
+year: 2023
+doi: 10.1109/DAC56929.2023.10247669
+url: https://doi.org/10.1109/DAC56929.2023.10247669
+bibtex: https://dblp.org/rec/conf/dac/AlamHHNNA23?view=bibtex
+
+title: Lightning Talk: Scaling Up Quantum Compilation - Challenges and Opportunities.
+authors: @pid, text
+venue: DAC
+year: 2023
+doi: 10.1109/DAC56929.2023.10247677
+url: https://doi.org/10.1109/DAC56929.2023.10247677
+bibtex: https://dblp.org/rec/conf/dac/Cong23?view=bibtex
+
+title: PIMA-LPN: Processing-in-memory Acceleration for Efficient LPN-based Post-Quantum Cryptography.
+authors: Lin Ding, Song Bian 0001, Jiliang Zhang 0002
+venue: DAC
+year: 2023
+doi: 10.1109/DAC56929.2023.10247891
+url: https://doi.org/10.1109/DAC56929.2023.10247891
+bibtex: https://dblp.org/rec/conf/dac/DingBZ23?view=bibtex
+
+title: Quixote: Improving Fidelity of Quantum Program by Independent Execution of Controlled Gates.
+authors: Enhyeok Jang, Seungwoo Choi, Won Woo Ro
+venue: DAC
+year: 2023
+doi: 10.1109/DAC56929.2023.10247757
+url: https://doi.org/10.1109/DAC56929.2023.10247757
+bibtex: https://dblp.org/rec/conf/dac/JangCR23?view=bibtex
+
+title: (Invited) Predictive analytics for cryogenic CMOS in future quantum computing systems.
+authors: Rajiv V. Joshi, Sudipto Chakraborty
+venue: DAC
+year: 2023
+doi: 10.1109/DAC56929.2023.10247978
+url: https://doi.org/10.1109/DAC56929.2023.10247978
+bibtex: https://dblp.org/rec/conf/dac/JoshiC23?view=bibtex
+
+title: Hybrid Gate-Pulse Model for Variational Quantum Algorithms.
+authors: Zhiding Liang, Zhixin Song, Jinglei Cheng, Zichang He, Ji Liu 0007, Hanrui Wang 0002, Ruiyang Qin, Yiru Wang, Song Han 0003, Xuehai Qian, Yiyu Shi 0001
+venue: DAC
+year: 2023
+doi: 10.1109/DAC56929.2023.10247923
+url: https://doi.org/10.1109/DAC56929.2023.10247923
+bibtex: https://dblp.org/rec/conf/dac/LiangSCHLWQWHQS23?view=bibtex
+
+title: Scalable Optimal Layout Synthesis for NISQ Quantum Processors.
+authors: Wan-Hsuan Lin, Jason Kimko, Bochen Tan, Nikolaj S. Bjørner, Jason Cong
+venue: DAC
+year: 2023
+doi: 10.1109/DAC56929.2023.10247760
+url: https://doi.org/10.1109/DAC56929.2023.10247760
+bibtex: https://dblp.org/rec/conf/dac/LinKTBC23?view=bibtex
+
+title: Invited: Building Robust Quantum System Software for Technology-Specific Characteristics.
+authors: Tirthak Patel, Devesh Tiwari
+venue: DAC
+year: 2023
+doi: 10.1109/DAC56929.2023.10248010
+url: https://doi.org/10.1109/DAC56929.2023.10248010
+bibtex: https://dblp.org/rec/conf/dac/PatelT23?view=bibtex
+
+title: Compiler Optimization for Quantum Computing Using Reinforcement Learning.
+authors: Nils Quetschlich, Lukas Burgholzer, Robert Wille
+venue: DAC
+year: 2023
+doi: 10.1109/DAC56929.2023.10248002
+url: https://doi.org/10.1109/DAC56929.2023.10248002
+bibtex: https://dblp.org/rec/conf/dac/QuetschlichBW23?view=bibtex
+
+title: Late Breaking Results: An Efficient Bridge-based Compression Algorithm for Topologically Quantum Error Corrected Circuits.
+authors: Wei-Hsiang Tseng, Yao-Wen Chang
+venue: DAC
+year: 2023
+doi: 10.1109/DAC56929.2023.10247656
+url: https://doi.org/10.1109/DAC56929.2023.10247656
+bibtex: https://dblp.org/rec/conf/dac/TsengC23?view=bibtex
+
+title: Ever more optimized simulations of fermionic systems on a quantum computer.
+authors: Qingfeng Wang, Ze-Pei Cian, Ming Li, Igor L. Markov, Yunseong Nam
+venue: DAC
+year: 2023
+doi: 10.1109/DAC56929.2023.10247693
+url: https://doi.org/10.1109/DAC56929.2023.10247693
+bibtex: https://dblp.org/rec/conf/dac/WangCLMN23?view=bibtex
+
+title: SAT-Based Quantum Circuit Adaptation.
+authors: Sebastian Brandhofer, Jinwoong Kim, Siyuan Niu, Nicholas T. Bronn
+venue: DATE
+year: 2023
+doi: 10.23919/DATE56975.2023.10137140
+url: https://doi.org/10.23919/DATE56975.2023.10137140
+bibtex: https://dblp.org/rec/conf/date/BrandhoferKNB23?view=bibtex
+
+title: Extending the Design Space of Dynamic Quantum Circuits for Toffoli based Network.
+authors: Abhoy Kole, Arighna Deb, Kamalika Datta, Rolf Drechsler
+venue: DATE
+year: 2023
+doi: 10.23919/DATE56975.2023.10137250
+url: https://doi.org/10.23919/DATE56975.2023.10137250
+bibtex: https://dblp.org/rec/conf/date/KoleDDD23?view=bibtex
+
+title: Towards High-Level Synthesis of Quantum Circuits.
+authors: Chao Lu, Christian Pilato, Kanad Basu
+venue: DATE
+year: 2023
+doi: 10.23919/DATE56975.2023.10137010
+url: https://doi.org/10.23919/DATE56975.2023.10137010
+bibtex: https://dblp.org/rec/conf/date/LuPB23?view=bibtex
+
+title: Quantum Measurement Discrimination using Cumulative Distribution Functions.
+authors: Zachery Utt, Daniel Volya, Prabhat Mishra 0001
+venue: DATE
+year: 2023
+doi: 10.23919/DATE56975.2023.10136989
+url: https://doi.org/10.23919/DATE56975.2023.10136989
+bibtex: https://dblp.org/rec/conf/date/UttVM23?view=bibtex
+
+title: Compressed Input Data Format of Quantum Annealing Emulator.
+authors: Sohei Shimomai, Kei Ueda, Shinji Kimura
+venue: DCC
+year: 2023
+doi: 10.1109/DCC55655.2023.00088
+url: https://doi.org/10.1109/DCC55655.2023.00088
+bibtex: https://dblp.org/rec/conf/dcc/ShimomaiUK23?view=bibtex
+
+title: (No) Quantum Space-Time Tradeoff for USTCON.
+authors: Simon Apers, Stacey Jeffery, Galina Pass, Michael Walter 0005
+venue: ESA
+year: 2023
+doi: 10.4230/LIPICS.ESA.2023.10
+url: https://doi.org/10.4230/LIPIcs.ESA.2023.10
+bibtex: https://dblp.org/rec/conf/esa/ApersJP023?view=bibtex
+
+title: Robust and Space-Efficient Dual Adversary Quantum Query Algorithms.
+authors: Michael Czekanski, Shelby Kimmel, R. Teal Witter
+venue: ESA
+year: 2023
+doi: 10.4230/LIPICS.ESA.2023.36
+url: https://doi.org/10.4230/LIPIcs.ESA.2023.36
+bibtex: https://dblp.org/rec/conf/esa/CzekanskiKW23?view=bibtex
+
+title: Improved Quantum Boosting.
+authors: Adam Izdebski, Ronald de Wolf
+venue: ESA
+year: 2023
+doi: 10.4230/LIPICS.ESA.2023.64
+url: https://doi.org/10.4230/LIPIcs.ESA.2023.64
+bibtex: https://dblp.org/rec/conf/esa/IzdebskiW23?view=bibtex
+
+title: Tight Bounds for Quantum Phase Estimation and Related Problems.
+authors: Nikhil S. Mande, Ronald de Wolf
+venue: ESA
+year: 2023
+doi: 10.4230/LIPICS.ESA.2023.81
+url: https://doi.org/10.4230/LIPIcs.ESA.2023.81
+bibtex: https://dblp.org/rec/conf/esa/MandeW23?view=bibtex
+
+title: Identifying Flakiness in Quantum Programs.
+authors: Lei Zhang 0078, Mahsa Radnejad, Andriy V. Miranskyy
+venue: ESEM
+year: 2023
+doi: 10.1109/ESEM56168.2023.10304850
+url: https://doi.org/10.1109/ESEM56168.2023.10304850
+bibtex: https://dblp.org/rec/conf/esem/ZhangRM23?view=bibtex
+
+title: Making an Asymmetric PAKE Quantum-Annoying by Hiding Group Elements.
+authors: Marcel Tiepelt, Edward Eaton, Douglas Stebila
+venue: ESORICS
+year: 2023
+doi: 10.1007/978-3-031-50594-2_9
+url: https://doi.org/10.1007/978-3-031-50594-2_9
+bibtex: https://dblp.org/rec/conf/esorics/TiepeltES23?view=bibtex
+
+title: A New Framework for Quantum Oblivious Transfer.
+authors: Amit Agarwal, James Bartusek, Dakshita Khurana, Nishant Kumar 0001
+venue: EUROCRYPT
+year: 2023
+doi: 10.1007/978-3-031-30545-0_13
+url: https://doi.org/10.1007/978-3-031-30545-0_13
+bibtex: https://dblp.org/rec/conf/eurocrypt/AgarwalBKK23?view=bibtex
+
+title: Finding Many Collisions via Reusable Quantum Walks - Application to Lattice Sieving.
+authors: Xavier Bonnetain, André Chailloux, André Schrottenloher, Yixin Shen 0001
+venue: EUROCRYPT
+year: 2023
+doi: 10.1007/978-3-031-30589-4_8
+url: https://doi.org/10.1007/978-3-031-30589-4_8
+bibtex: https://dblp.org/rec/conf/eurocrypt/BonnetainCSS23?view=bibtex
+
+title: Black-Box Separations for Non-interactive Classical Commitments in a Quantum World.
+authors: Kai-Min Chung, Yao-Ting Lin, Mohammad Mahmoody
+venue: EUROCRYPT
+year: 2023
+doi: 10.1007/978-3-031-30545-0_6
+url: https://doi.org/10.1007/978-3-031-30545-0_6
+bibtex: https://dblp.org/rec/conf/eurocrypt/ChungLM23?view=bibtex
+
+title: From the Hardness of Detecting Superpositions to Cryptography: Quantum Public Key Encryption and Commitments.
+authors: Minki Hhan, Tomoyuki Morimae, Takashi Yamakawa
+venue: EUROCRYPT
+year: 2023
+doi: 10.1007/978-3-031-30545-0_22
+url: https://doi.org/10.1007/978-3-031-30545-0_22
+bibtex: https://dblp.org/rec/conf/eurocrypt/HhanMY23?view=bibtex
+
+title: Polynomial-Time Cryptanalysis of the Subspace Flooding Assumption for Post-quantum i풪.
+authors: Aayush Jain, Huijia Lin, Paul Lou, Amit Sahai
+venue: EUROCRYPT
+year: 2023
+doi: 10.1007/978-3-031-30545-0_8
+url: https://doi.org/10.1007/978-3-031-30545-0_8
+bibtex: https://dblp.org/rec/conf/eurocrypt/JainLLS23?view=bibtex
+
+title: Another Round of Breaking and Making Quantum Money: - How to Not Build It from Lattices, and More.
+authors: Jiahui Liu, Hart Montgomery, Mark Zhandry
+venue: EUROCRYPT
+year: 2023
+doi: 10.1007/978-3-031-30545-0_21
+url: https://doi.org/10.1007/978-3-031-30545-0_21
+bibtex: https://dblp.org/rec/conf/eurocrypt/LiuMZ23?view=bibtex
+
+title: symQV: Automated Symbolic Verification of Quantum Programs.
+authors: Fabian Bauer-Marquart, Stefan Leue, Christian Schilling 0001
+venue: FM
+year: 2023
+doi: 10.1007/978-3-031-27481-7_12
+url: https://doi.org/10.1007/978-3-031-27481-7_12
+bibtex: https://dblp.org/rec/conf/fm/BauerMarquartLS23?view=bibtex
+
+title: A New Approach to Post-Quantum Non-Malleability.
+authors: Xiao Liang 0014, Omkant Pandey, Takashi Yamakawa
+venue: FOCS
+year: 2023
+doi: 10.1109/FOCS57990.2023.00041
+url: https://doi.org/10.1109/FOCS57990.2023.00041
+bibtex: https://dblp.org/rec/conf/focs/0014PY23?view=bibtex
+
+title: Exponential quantum speedup in simulating coupled classical oscillators*.
+authors: Ryan Babbush, Dominic W. Berry, Robin Kothari, Rolando D. Somma, Nathan Wiebe
+venue: FOCS
+year: 2023
+doi: 10.1109/FOCS57990.2023.00030
+url: https://doi.org/10.1109/FOCS57990.2023.00030
+bibtex: https://dblp.org/rec/conf/focs/BabbushBKSW23?view=bibtex
+
+title: When Does Adaptivity Help for Quantum State Learning?
+authors: Sitan Chen, Brice Huang, Jerry Li 0001, Allen Liu, Mark Sellke
+venue: FOCS
+year: 2023
+doi: 10.1109/FOCS57990.2023.00029
+url: https://doi.org/10.1109/FOCS57990.2023.00029
+bibtex: https://dblp.org/rec/conf/focs/ChenH0LS23?view=bibtex
+
+title: Computing linear sections of varieties: quantum entanglement, tensor decompositions and beyond.
+authors: Nathaniel Johnston, Benjamin Lovitz, Aravindan Vijayaraghavan
+venue: FOCS
+year: 2023
+doi: 10.1109/FOCS57990.2023.00079
+url: https://doi.org/10.1109/FOCS57990.2023.00079
+bibtex: https://dblp.org/rec/conf/focs/JohnstonLV23?view=bibtex
+
+title: Bounding the Quantum Value of Compiled Nonlocal Games: From CHSH to BQP Verification.
+authors: Anand Natarajan, Tina Zhang
+venue: FOCS
+year: 2023
+doi: 10.1109/FOCS57990.2023.00081
+url: https://doi.org/10.1109/FOCS57990.2023.00081
+bibtex: https://dblp.org/rec/conf/focs/NatarajanZ23?view=bibtex
+
+title: Quantum Temple: A New Vision for Utilizing Blockchain Technology for the Recognition and Preservation of Cultural Heritage.
+authors: Linda Adami, Nicole Sigmaringo
+venue: HCI
+year: 2023
+doi: 10.1007/978-3-031-34732-0_1
+url: https://doi.org/10.1007/978-3-031-34732-0_1
+bibtex: https://dblp.org/rec/conf/hci/AdamiS23?view=bibtex
+
+title: Co-Designed Architectures for Modular Superconducting Quantum Computers.
+authors: Evan McKinney, Mingkang Xia, Chao Zhou, Pinlei Lu, Michael Hatridge, Alex K. Jones
+venue: HPCA
+year: 2023
+doi: 10.1109/HPCA56546.2023.10071036
+url: https://doi.org/10.1109/HPCA56546.2023.10071036
+bibtex: https://dblp.org/rec/conf/hpca/McKinneyXZLHJ23?view=bibtex
+
+title: HyQSAT: A Hybrid Approach for 3-SAT Problems by Integrating Quantum Annealer with CDCL.
+authors: Siwei Tan, Mingqian Yu, Andre Python, Yongheng Shang, Tingting Li, Liqiang Lu, Jianwei Yin
+venue: HPCA
+year: 2023
+doi: 10.1109/HPCA56546.2023.10071022
+url: https://doi.org/10.1109/HPCA56546.2023.10071022
+bibtex: https://dblp.org/rec/conf/hpca/TanYPSLLY23?view=bibtex
+
+title: Cumulative Memory Lower Bounds for Randomized and Quantum Computation.
+authors: Paul Beame, Niels Kornerup
+venue: ICALP
+year: 2023
+doi: 10.4230/LIPICS.ICALP.2023.17
+url: https://doi.org/10.4230/LIPIcs.ICALP.2023.17
+bibtex: https://dblp.org/rec/conf/icalp/BeameK23?view=bibtex
+
+title: Improved Product-State Approximation Algorithms for Quantum Local Hamiltonians.
+authors: @pid, text
+venue: ICALP
+year: 2023
+doi: 10.4230/LIPICS.ICALP.2023.20
+url: https://doi.org/10.4230/LIPIcs.ICALP.2023.20
+bibtex: https://dblp.org/rec/conf/icalp/Bergamaschi23?view=bibtex
+
+title: Planar #CSP Equality Corresponds to Quantum Isomorphism - A Holant Viewpoint.
+authors: Jin-Yi Cai, Ben Young
+venue: ICALP
+year: 2023
+doi: 10.4230/LIPICS.ICALP.2023.33
+url: https://doi.org/10.4230/LIPIcs.ICALP.2023.33
+bibtex: https://dblp.org/rec/conf/icalp/CaiY23?view=bibtex
+
+title: Quantum Algorithms and Lower Bounds for Linear Regression with Norm Constraints.
+authors: Yanlin Chen 0001, Ronald de Wolf
+venue: ICALP
+year: 2023
+doi: 10.4230/LIPICS.ICALP.2023.38
+url: https://doi.org/10.4230/LIPIcs.ICALP.2023.38
+bibtex: https://dblp.org/rec/conf/icalp/ChenW23?view=bibtex
+
+title: Quantum Cryptography with Classical Communication: Parallel Remote State Preparation for Copy-Protection, Verification, and More.
+authors: Alexandru Gheorghiu, Tony Metger, Alexander Poremba
+venue: ICALP
+year: 2023
+doi: 10.4230/LIPICS.ICALP.2023.67
+url: https://doi.org/10.4230/LIPIcs.ICALP.2023.67
+bibtex: https://dblp.org/rec/conf/icalp/GheorghiuMP23?view=bibtex
+
+title: Simulating Markovian Open Quantum Systems Using Higher-Order Series Expansion.
+authors: Xiantao Li, Chunhao Wang
+venue: ICALP
+year: 2023
+doi: 10.4230/LIPICS.ICALP.2023.87
+url: https://doi.org/10.4230/LIPIcs.ICALP.2023.87
+bibtex: https://dblp.org/rec/conf/icalp/LiW23?view=bibtex
+
+title: Decidability of Fully Quantum Nonlocal Games with Noisy Maximally Entangled States.
+authors: Minglong Qin, Penghui Yao
+venue: ICALP
+year: 2023
+doi: 10.4230/LIPICS.ICALP.2023.97
+url: https://doi.org/10.4230/LIPIcs.ICALP.2023.97
+bibtex: https://dblp.org/rec/conf/icalp/QinY23?view=bibtex
+
+title: Quantum Codes, Local Testability and Interactive Proofs: State of the Art and Open Questions (Invited Talk).
+authors: @pid, text
+venue: ICALP
+year: 2023
+doi: 10.4230/LIPICS.ICALP.2023.4
+url: https://doi.org/10.4230/LIPIcs.ICALP.2023.4
+bibtex: https://dblp.org/rec/conf/icalp/Vidick23?view=bibtex
+
+title: Distributed Quantum Sensing Network with Geographically Constrained Measurement Strategies.
+authors: Yingkang Cao, Xiaodi Wu 0001
+venue: ICASSP
+year: 2023
+doi: 10.1109/ICASSP49357.2023.10096723
+url: https://doi.org/10.1109/ICASSP49357.2023.10096723
+bibtex: https://dblp.org/rec/conf/icassp/CaoW23?view=bibtex
+
+title: Quantum Deep Recurrent Reinforcement Learning.
+authors: @pid, text
+venue: ICASSP
+year: 2023
+doi: 10.1109/ICASSP49357.2023.10096981
+url: https://doi.org/10.1109/ICASSP49357.2023.10096981
+bibtex: https://dblp.org/rec/conf/icassp/Chen23?view=bibtex
+
+title: Learning Quantum Entanglement Distillation With Noisy Classical Communications.
+authors: Hari Hara Suthan Chittoor, Osvaldo Simeone
+venue: ICASSP
+year: 2023
+doi: 10.1109/ICASSP49357.2023.10097202
+url: https://doi.org/10.1109/ICASSP49357.2023.10097202
+bibtex: https://dblp.org/rec/conf/icassp/ChittoorS23?view=bibtex
+
+title: QTROJAN: A Circuit Backdoor Against Quantum Neural Networks.
+authors: Cheng Chu, Lei Jiang 0001, Martin Swany, Fan Chen 0001
+venue: ICASSP
+year: 2023
+doi: 10.1109/ICASSP49357.2023.10096293
+url: https://doi.org/10.1109/ICASSP49357.2023.10096293
+bibtex: https://dblp.org/rec/conf/icassp/ChuJSC23?view=bibtex
+
+title: IQGAN: Robust Quantum Generative Adversarial Network for Image Synthesis On NISQ Devices.
+authors: Cheng Chu, Grant Skipper, Martin Swany, Fan Chen 0001
+venue: ICASSP
+year: 2023
+doi: 10.1109/ICASSP49357.2023.10096772
+url: https://doi.org/10.1109/ICASSP49357.2023.10096772
+bibtex: https://dblp.org/rec/conf/icassp/ChuSSC23?view=bibtex
+
+title: The Role of Initial Entanglement in Adaptive Gibbs State Preparation on Quantum Computers.
+authors: Sophia E. Economou, Ada Warren, Edwin Barnes
+venue: ICASSP
+year: 2023
+doi: 10.1109/ICASSP49357.2023.10094697
+url: https://doi.org/10.1109/ICASSP49357.2023.10094697
+bibtex: https://dblp.org/rec/conf/icassp/EconomouWB23?view=bibtex
+
+title: A Quantum Approach for Stochastic Constrained Binary Optimization.
+authors: Sarthak Gupta, Vassilis Kekatos
+venue: ICASSP
+year: 2023
+doi: 10.1109/ICASSP49357.2023.10097179
+url: https://doi.org/10.1109/ICASSP49357.2023.10097179
+bibtex: https://dblp.org/rec/conf/icassp/GuptaK23?view=bibtex
+
+title: A Novel State Connection Strategy for Quantum Computing to Represent and Compress Digital Images.
+authors: Md. Ershadul Haque, Manoranjan Paul, Anwar Ulhaq, Tanmoy Debnath
+venue: ICASSP
+year: 2023
+doi: 10.1109/ICASSP49357.2023.10094832
+url: https://doi.org/10.1109/ICASSP49357.2023.10094832
+bibtex: https://dblp.org/rec/conf/icassp/HaquePUD23?view=bibtex
+
+title: Finer-Grained Decomposition for Parallel Quantum Mimo Processing.
+authors: Minsung Kim, Kyle Jamieson
+venue: ICASSP
+year: 2023
+doi: 10.1109/ICASSP49357.2023.10096503
+url: https://doi.org/10.1109/ICASSP49357.2023.10096503
+bibtex: https://dblp.org/rec/conf/icassp/KimJ23?view=bibtex
+
+title: Quantum Graph Transformers.
+authors: Georgios Kollias, Vassilis Kalantzis, Theodoros Salonidis, Shashanka Ubaru
+venue: ICASSP
+year: 2023
+doi: 10.1109/ICASSP49357.2023.10096345
+url: https://doi.org/10.1109/ICASSP49357.2023.10096345
+bibtex: https://dblp.org/rec/conf/icassp/KolliasKSU23?view=bibtex
+
+title: PQLM - Multilingual Decentralized Portable Quantum Language Model.
+authors: Shuyue Stella Li, Xiangyu Zhang, Shu Zhou, Hongchao Shu, Ruixing Liang, Hexin Liu, Leibny Paola García
+venue: ICASSP
+year: 2023
+doi: 10.1109/ICASSP49357.2023.10095215
+url: https://doi.org/10.1109/ICASSP49357.2023.10095215
+bibtex: https://dblp.org/rec/conf/icassp/LiZZSLLG23?view=bibtex
+
+title: Quantum Variational Bayes on Manifolds.
+authors: Anna Lopatnikova, Minh-Ngoc Tran
+venue: ICASSP
+year: 2023
+doi: 10.1109/ICASSP49357.2023.10096708
+url: https://doi.org/10.1109/ICASSP49357.2023.10096708
+bibtex: https://dblp.org/rec/conf/icassp/LopatnikovaT23?view=bibtex
+
+title: Signal Analysis-Synthesis Using the Quantum Fourier Transform.
+authors: Aradhita Sharma, Glen S. Uehara, Vivek Sivaraman Narayanaswamy, Leslie Miller, Andreas Spanias
+venue: ICASSP
+year: 2023
+doi: 10.1109/ICASSP49357.2023.10096524
+url: https://doi.org/10.1109/ICASSP49357.2023.10096524
+bibtex: https://dblp.org/rec/conf/icassp/SharmaUNMS23?view=bibtex
+
+title: Signal Processing And Quantum State Tomography on Noisy Devices.
+authors: Wenbo Shi, Robert A. Malaney
+venue: ICASSP
+year: 2023
+doi: 10.1109/ICASSP49357.2023.10094890
+url: https://doi.org/10.1109/ICASSP49357.2023.10094890
+bibtex: https://dblp.org/rec/conf/icassp/ShiM23?view=bibtex
+
+title: Phase Retrieval for Rydberg Quantum Arrays.
+authors: Peter G. Vouras, Kumar Vijay Mishra, Alexandra B. Artusio-Glimpse
+venue: ICASSP
+year: 2023
+doi: 10.1109/ICASSP49357.2023.10096264
+url: https://doi.org/10.1109/ICASSP49357.2023.10096264
+bibtex: https://dblp.org/rec/conf/icassp/VourasMA23?view=bibtex
+
+title: Quantum Transfer Learning Using the Large-Scale Unsupervised Pre-Trained Model Wavlm-Large for Synthetic Speech Detection.
+authors: Ruoyu Wang 0029, Jun Du, Tian Gao
+venue: ICASSP
+year: 2023
+doi: 10.1109/ICASSP49357.2023.10096141
+url: https://doi.org/10.1109/ICASSP49357.2023.10096141
+bibtex: https://dblp.org/rec/conf/icassp/WangDG23?view=bibtex
+
+title: Efficient Data Loading with Quantum Autoencoder.
+authors: Siang-Ruei Wu, Chun-Tse Li, Hao-Chung Cheng
+venue: ICASSP
+year: 2023
+doi: 10.1109/ICASSP49357.2023.10096496
+url: https://doi.org/10.1109/ICASSP49357.2023.10096496
+bibtex: https://dblp.org/rec/conf/icassp/WuLC23?view=bibtex
+
+title: A Quantum Kernel Learning Approach to Acoustic Modeling for Spoken Command Recognition.
+authors: Chao-Han Huck Yang, Bo Li 0028, Yu Zhang 0033, Nanxin Chen, Tara N. Sainath, Sabato Marco Siniscalchi, Chin-Hui Lee 0001
+venue: ICASSP
+year: 2023
+doi: 10.1109/ICASSP49357.2023.10095142
+url: https://doi.org/10.1109/ICASSP49357.2023.10095142
+bibtex: https://dblp.org/rec/conf/icassp/YangLZCSSL23?view=bibtex
+
+title: An Application of Quantum Mechanics to Attention Methods in Computer Vision.
+authors: Juntao Zhang, Yihao Luo, Peng Cheng, Zehan Li, Hao Wu, Kun Yu, Wenbo An, Jun Zhou
+venue: ICASSP
+year: 2023
+doi: 10.1109/ICASSP49357.2023.10095362
+url: https://doi.org/10.1109/ICASSP49357.2023.10095362
+bibtex: https://dblp.org/rec/conf/icassp/ZhangLCLWYAZ23?view=bibtex
+
+title: Invited Paper: Instruction Set Extensions for Post-Quantum Cryptography.
+authors: Marco Brohet, Felipe Valencia, Francesco Regazzoni 0001
+venue: ICCAD
+year: 2023
+doi: 10.1109/ICCAD57390.2023.10323931
+url: https://doi.org/10.1109/ICCAD57390.2023.10323931
+bibtex: https://dblp.org/rec/conf/iccad/BrohetVR23?view=bibtex
+
+title: Optimizing LUT-Based Quantum Circuit Synthesis Using Relative Phase Boolean Operations.
+authors: David Clarino, Naoya Asada, Shigeru Yamashita
+venue: ICCAD
+year: 2023
+doi: 10.1109/ICCAD57390.2023.10323730
+url: https://doi.org/10.1109/ICCAD57390.2023.10323730
+bibtex: https://dblp.org/rec/conf/iccad/ClarinoAY23?view=bibtex
+
+title: Exact Logic Synthesis for Reversible Quantum-Flux-Parametron Logic.
+authors: Rongliang Fu, Olivia Chen, Nobuyuki Yoshikawa, Tsung-Yi Ho
+venue: ICCAD
+year: 2023
+doi: 10.1109/ICCAD57390.2023.10323785
+url: https://doi.org/10.1109/ICCAD57390.2023.10323785
+bibtex: https://dblp.org/rec/conf/iccad/FuCYH23?view=bibtex
+
+title: CRYSTALS-Dilithium on RISC-V Processor: Lightweight Secure Boot Using Post-Quantum Digital Signature.
+authors: Naina Gupta 0001, Arpan Jati, Anupam Chattopadhyay
+venue: ICCAD
+year: 2023
+doi: 10.1109/ICCAD57390.2023.10323688
+url: https://doi.org/10.1109/ICCAD57390.2023.10323688
+bibtex: https://dblp.org/rec/conf/iccad/GuptaJC23?view=bibtex
+
+title: Single-Qubit Gates Matter for Optimising Quantum Circuit Depth in Qubit Mapping.
+authors: Sanjiang Li, Ky Dan Nguyen, Zachary Clare, Yuan Feng 0001
+venue: ICCAD
+year: 2023
+doi: 10.1109/ICCAD57390.2023.10323863
+url: https://doi.org/10.1109/ICCAD57390.2023.10323863
+bibtex: https://dblp.org/rec/conf/iccad/LiNCF23?view=bibtex
+
+title: Optimal Layout Synthesis for Quantum Circuits as Classical Planning.
+authors: Irfansha Shaik, Jaco van de Pol
+venue: ICCAD
+year: 2023
+doi: 10.1109/ICCAD57390.2023.10323924
+url: https://doi.org/10.1109/ICCAD57390.2023.10323924
+bibtex: https://dblp.org/rec/conf/iccad/ShaikP23?view=bibtex
+
+title: QPulseLib: Accelerating the Pulse Generation of Quantum Circuit with Reusable Patterns.
+authors: Wuwei Tian, Xinghui Jia, Siwei Tan, Zixuan Song, Liqiang Lu, Jianwei Yin
+venue: ICCAD
+year: 2023
+doi: 10.1109/ICCAD57390.2023.10323711
+url: https://doi.org/10.1109/ICCAD57390.2023.10323711
+bibtex: https://dblp.org/rec/conf/iccad/TianJTSLY23?view=bibtex
+
+title: Full State Quantum Circuit Simulation Beyond Memory Limit.
+authors: Yilun Zhao 0002, Yu Chen, He Li, Ying Wang 0001, Kaiyan Chang, Bingmeng Wang, Bing Li, Yinhe Han 0001
+venue: ICCAD
+year: 2023
+doi: 10.1109/ICCAD57390.2023.10323666
+url: https://doi.org/10.1109/ICCAD57390.2023.10323666
+bibtex: https://dblp.org/rec/conf/iccad/ZhaoCLWCWLH23?view=bibtex
+
+title: Enhancing Virtual Distillation with Circuit Cutting for Quantum Error Mitigation.
+authors: Peiyi Li 0002, Ji Liu 0007, Hrushikesh Pramod Patil, Paul D. Hovland, Huiyang Zhou
+venue: ICCD
+year: 2023
+doi: 10.1109/ICCD58817.2023.00024
+url: https://doi.org/10.1109/ICCD58817.2023.00024
+bibtex: https://dblp.org/rec/conf/iccd/0002LPHZ23?view=bibtex
+
+title: HiSEP-Q: A Highly Scalable and Efficient Quantum Control Processor for Superconducting Qubits.
+authors: Xiaorang Guo, Kun Qin, Martin Schulz 0001
+venue: ICCD
+year: 2023
+doi: 10.1109/ICCD58817.2023.00023
+url: https://doi.org/10.1109/ICCD58817.2023.00023
+bibtex: https://dblp.org/rec/conf/iccd/GuoQ023?view=bibtex
+
+title: MosaiQ: Quantum Generative Adversarial Networks for Image Generation on NISQ Computers.
+authors: Daniel Silver, Aditya Ranjan, Tirthak Patel, Harshitta Gandhi, William Cutler, Devesh Tiwari
+venue: ICCV
+year: 2023
+doi: 10.1109/ICCV51070.2023.00647
+url: https://doi.org/10.1109/ICCV51070.2023.00647
+bibtex: https://dblp.org/rec/conf/iccv/SilverRPGCT23?view=bibtex
+
+title: Demo: EQuaTE: Efficient Quantum Train Engine Design and Demonstration for Dynamic Software Analysis.
+authors: Soohyun Park, Hao Feng 0002, Won Joon Yun, Chanyoung Park, Youn Kyu Lee, Soyi Jung, Joongheon Kim
+venue: ICDCS
+year: 2023
+doi: 10.1109/ICDCS57875.2023.00116
+url: https://doi.org/10.1109/ICDCS57875.2023.00116
+bibtex: https://dblp.org/rec/conf/icdcs/ParkFYPLJK23?view=bibtex
+
+title: Poster: Multi-Writer Searchable Encryption with Fast Search and Post-Quantum Security.
+authors: Jiafan Wang 0004, Dongxi Liu
+venue: ICDCS
+year: 2023
+doi: 10.1109/ICDCS57875.2023.00143
+url: https://doi.org/10.1109/ICDCS57875.2023.00143
+bibtex: https://dblp.org/rec/conf/icdcs/WangL23?view=bibtex
+
+title: Entanglement Routing Over Quantum Networks Using Greenberger-Horne-Zeilinger Measurements.
+authors: Yiming Zeng, Jiarui Zhang, Ji Liu 0001, Zhenhua Liu 0002, Yuanyuan Yang 0001
+venue: ICDCS
+year: 2023
+doi: 10.1109/ICDCS57875.2023.00010
+url: https://doi.org/10.1109/ICDCS57875.2023.00010
+bibtex: https://dblp.org/rec/conf/icdcs/ZengZLLY23?view=bibtex
+
+title: Quantum Speedups for Zero-Sum Games via Improved Dynamic Gibbs Sampling.
+authors: Adam Bouland, Yosheb M. Getachew, Yujia Jin, Aaron Sidford, Kevin Tian
+venue: ICML
+year: 2023
+url: https://proceedings.mlr.press/v202/bouland23a.html
+bibtex: https://dblp.org/rec/conf/icml/BoulandGJST23?view=bibtex
+
+title: Q-Flow: Generative Modeling for Differential Equations of Open Quantum Dynamics with Normalizing Flows.
+authors: Owen M. Dugan, Peter Y. Lu, Rumen Dangovski, Di Luo, Marin Soljacic
+venue: ICML
+year: 2023
+url: https://proceedings.mlr.press/v202/dugan23a.html
+bibtex: https://dblp.org/rec/conf/icml/DuganLDLS23?view=bibtex
+
+title: Learning Distributions over Quantum Measurement Outcomes.
+authors: Weiyuan Gong, Scott Aaronson
+venue: ICML
+year: 2023
+url: https://proceedings.mlr.press/v202/gong23a.html
+bibtex: https://dblp.org/rec/conf/icml/GongA23?view=bibtex
+
+title: QAS-Bench: Rethinking Quantum Architecture Search and A Benchmark.
+authors: Xudong Lu, Kaisen Pan, Ge Yan 0001, Jiaming Shan, Wenjie Wu, Junchi Yan
+venue: ICML
+year: 2023
+url: https://proceedings.mlr.press/v202/lu23f.html
+bibtex: https://dblp.org/rec/conf/icml/LuPYSWY23?view=bibtex
+
+title: Quantum Policy Gradient Algorithm with Optimized Action Decoding.
+authors: Nico Meyer, Daniel D. Scherer, Axel Plinge, Christopher Mutschler, Michael J. Hartmann
+venue: ICML
+year: 2023
+url: https://proceedings.mlr.press/v202/meyer23a.html
+bibtex: https://dblp.org/rec/conf/icml/MeyerSPMH23?view=bibtex
+
+title: A Hybrid Quantum-Classical Approach based on the Hadamard Transform for the Convolutional Layer.
+authors: Hongyi Pan, Xin Zhu, Salih Furkan Atici, Ahmet Enis Çetin
+venue: ICML
+year: 2023
+url: https://proceedings.mlr.press/v202/pan23d.html
+bibtex: https://dblp.org/rec/conf/icml/PanZAC23?view=bibtex
+
+title: Near-Optimal Quantum Coreset Construction Algorithms for Clustering.
+authors: Yecheng Xue, Xiaoyu Chen, Tongyang Li, Shaofeng H.-C. Jiang
+venue: ICML
+year: 2023
+url: https://proceedings.mlr.press/v202/xue23a.html
+bibtex: https://dblp.org/rec/conf/icml/XueCLJ23?view=bibtex
+
+title: Quantum 3D Graph Learning with Applications to Molecule Embedding.
+authors: Ge Yan 0001, Huaijin Wu, Junchi Yan
+venue: ICML
+year: 2023
+url: https://proceedings.mlr.press/v202/yan23e.html
+bibtex: https://dblp.org/rec/conf/icml/YanWY23?view=bibtex
+
+title: Analyzing Convergence in Quantum Neural Networks: Deviations from Neural Tangent Kernels.
+authors: Xuchen You, Shouvanik Chakrabarti, Boyang Chen, Xiaodi Wu 0001
+venue: ICML
+year: 2023
+url: https://proceedings.mlr.press/v202/you23a.html
+bibtex: https://dblp.org/rec/conf/icml/YouCCW23?view=bibtex
+
+title: Efficient and Equivariant Graph Networks for Predicting Quantum Hamiltonian.
+authors: Haiyang Yu, Zhao Xu 0005, Xiaofeng Qian, Xiaoning Qian, Shuiwang Ji
+venue: ICML
+year: 2023
+url: https://proceedings.mlr.press/v202/yu23i.html
+bibtex: https://dblp.org/rec/conf/icml/YuXQQJ23?view=bibtex
+
+title: Quantum Lower Bounds for Finding Stationary Points of Nonconvex Functions.
+authors: Chenyi Zhang, Tongyang Li
+venue: ICML
+year: 2023
+url: https://proceedings.mlr.press/v202/zhang23u.html
+bibtex: https://dblp.org/rec/conf/icml/ZhangL23a?view=bibtex
+
+title: Poster: Maximal Rate Entanglement Swapping Schedules for Routing in the Quantum Internet.
+authors: @pid, text
+venue: ICNP
+year: 2023
+doi: 10.1109/ICNP59255.2023.10355585
+url: https://doi.org/10.1109/ICNP59255.2023.10355585
+bibtex: https://dblp.org/rec/conf/icnp/Dynerowicz23?view=bibtex
+
+title: Communication Optimizations for State-vector Quantum Simulator on CPU+GPU Clusters.
+authors: Chenyang Jiao, Weihua Zhang, Li Shen
+venue: ICPP
+year: 2023
+doi: 10.1145/3605573.3605631
+url: https://doi.org/10.1145/3605573.3605631
+bibtex: https://dblp.org/rec/conf/icpp/JiaoZS23?view=bibtex
+
+title: Atomic-level Tracking and Analyzing of Quantum-dot Motion Steered by an Electrostatic Field Positioned by a Nanorobotic Manipulation Tip.
+authors: Zhi Qu, Wenqi Zhang, Lixin Dong
+venue: ICRA
+year: 2023
+doi: 10.1109/ICRA48891.2023.10161087
+url: https://doi.org/10.1109/ICRA48891.2023.10161087
+bibtex: https://dblp.org/rec/conf/icra/QuZD23?view=bibtex
+
+title: The Smelly Eight: An Empirical Study on the Prevalence of Code Smells in Quantum Computing.
+authors: Qihong Chen, Rúben Câmara, José Campos 0001, André Souto, Iftekhar Ahmed 0001
+venue: ICSE
+year: 2023
+doi: 10.1109/ICSE48619.2023.00041
+url: https://doi.org/10.1109/ICSE48619.2023.00041
+bibtex: https://dblp.org/rec/conf/icse/ChenCCSA23?view=bibtex
+
+title: MorphQ: Metamorphic Testing of the Qiskit Quantum Computing Platform.
+authors: Matteo Paltenghi, Michael Pradel
+venue: ICSE
+year: 2023
+doi: 10.1109/ICSE48619.2023.00202
+url: https://doi.org/10.1109/ICSE48619.2023.00202
+bibtex: https://dblp.org/rec/conf/icse/PaltenghiP23?view=bibtex
+
+title: Distributing Quantum Computations, by Shots.
+authors: Giuseppe Bisicchia, José García-Alonso, Juan Manuel Murillo, Antonio Brogi
+venue: ICSOC
+year: 2023
+doi: 10.1007/978-3-031-48421-6_25
+url: https://doi.org/10.1007/978-3-031-48421-6_25
+bibtex: https://dblp.org/rec/conf/icsoc/BisicchiaGMB23?view=bibtex
+
+title: Solving Quantum-Inspired Perfect Matching Problems via Tutte-Theorem-Based Hybrid Boolean Constraints.
+authors: Moshe Y. Vardi, Zhiwei Zhang
+venue: IJCAI
+year: 2023
+doi: 10.24963/IJCAI.2023/227
+url: https://doi.org/10.24963/ijcai.2023/227
+bibtex: https://dblp.org/rec/conf/ijcai/VardiZ23?view=bibtex
+
+title: Qubit Allocation for Distributed Quantum Computing.
+authors: Yingling Mao, Yu Liu 0057, Yuanyuan Yang
+venue: INFOCOM
+year: 2023
+doi: 10.1109/INFOCOM53939.2023.10228915
+url: https://doi.org/10.1109/INFOCOM53939.2023.10228915
+bibtex: https://dblp.org/rec/conf/infocom/MaoLY23?view=bibtex
+
+title: On the Capacity Region of a Quantum Switch with Entanglement Purification.
+authors: Nitish K. Panigrahy, Thirupathaiah Vasantam, Don Towsley, Leandros Tassiulas
+venue: INFOCOM
+year: 2023
+doi: 10.1109/INFOCOM53939.2023.10229003
+url: https://doi.org/10.1109/INFOCOM53939.2023.10229003
+bibtex: https://dblp.org/rec/conf/infocom/PanigrahyVTT23?view=bibtex
+
+title: A Quantum Overlay Network for Efficient Entanglement Distribution.
+authors: Shahrooz Pouryousef, Nitish K. Panigrahy, Don Towsley
+venue: INFOCOM
+year: 2023
+doi: 10.1109/INFOCOM53939.2023.10228944
+url: https://doi.org/10.1109/INFOCOM53939.2023.10228944
+bibtex: https://dblp.org/rec/conf/infocom/PouryousefPT23?view=bibtex
+
+title: Asynchronous Entanglement Provisioning and Routing for Distributed Quantum Computing.
+authors: Lan Yang, Yangming Zhao, Liusheng Huang, Chunming Qiao
+venue: INFOCOM
+year: 2023
+doi: 10.1109/INFOCOM53939.2023.10229101
+url: https://doi.org/10.1109/INFOCOM53939.2023.10229101
+bibtex: https://dblp.org/rec/conf/infocom/YangZHQ23?view=bibtex
+
+title: qTask: Task-parallel Quantum Circuit Simulation with Incrementality.
+authors: @pid, text
+venue: IPDPS
+year: 2023
+doi: 10.1109/IPDPS54959.2023.00080
+url: https://doi.org/10.1109/IPDPS54959.2023.00080
+bibtex: https://dblp.org/rec/conf/ipps/Huang23?view=bibtex
+
+title: An Adaptive Hybrid Quantum Algorithm for the Metric Traveling Salesman Problem.
+authors: Fei Li 0001, Arul Rhik Mazumder
+venue: IPDPS
+year: 2023
+doi: 10.1109/IPDPS54959.2023.00082
+url: https://doi.org/10.1109/IPDPS54959.2023.00082
+bibtex: https://dblp.org/rec/conf/ipps/LiM23?view=bibtex
+
+title: GPU-Accelerated Error-Bounded Compression Framework for Quantum Circuit Simulations.
+authors: Milan Shah, Xiaodong Yu 0001, Sheng Di, Danylo Lykov, Yuri Alexeev, Michela Becchi, Franck Cappello
+venue: IPDPS
+year: 2023
+doi: 10.1109/IPDPS54959.2023.00081
+url: https://doi.org/10.1109/IPDPS54959.2023.00081
+bibtex: https://dblp.org/rec/conf/ipps/ShahYDLABC23?view=bibtex
+
+title: Enabling High Performance Debugging for Variational Quantum Algorithms using Compressed Sensing.
+authors: Tianyi Hao 0003, Kun Liu, Swamit S. Tannu
+venue: ISCA
+year: 2023
+doi: 10.1145/3579371.3589044
+url: https://doi.org/10.1145/3579371.3589044
+bibtex: https://dblp.org/rec/conf/isca/0003LT23?view=bibtex
+
+title: Dancing the Quantum Waltz: Compiling Three-Qubit Gates on Four Level Architectures.
+authors: Andrew Litteken, Lennart Maximilian Seifert, Jason D. Chadwick, Natalia Nottingham, Tanay Roy, Ziqian Li, David I. Schuster, Frederic T. Chong, Jonathan M. Baker
+venue: ISCA
+year: 2023
+doi: 10.1145/3579371.3589106
+url: https://doi.org/10.1145/3579371.3589106
+bibtex: https://dblp.org/rec/conf/isca/LittekenSCNRLSC23?view=bibtex
+
+title: Parallel Driving for Fast Quantum Computing Under Speed Limits.
+authors: Evan McKinney, Chao Zhou, Mingkang Xia, Michael Hatridge, Alex K. Jones
+venue: ISCA
+year: 2023
+doi: 10.1145/3579371.3589075
+url: https://doi.org/10.1145/3579371.3589075
+bibtex: https://dblp.org/rec/conf/isca/McKinneyZXHJ23?view=bibtex
+
+title: QIsim: Architecting 10+K Qubit QC Interfaces Toward Quantum Supremacy.
+authors: Dongmoon Min, Junpyo Kim, Junhyuk Choi, Ilkwon Byun, Masamitsu Tanaka, Koji Inoue, Jangwoo Kim
+venue: ISCA
+year: 2023
+doi: 10.1145/3579371.3589036
+url: https://doi.org/10.1145/3579371.3589036
+bibtex: https://dblp.org/rec/conf/isca/MinKCBTIK23?view=bibtex
+
+title: Clifford-based Circuit Cutting for Quantum Simulation.
+authors: Kaitlin N. Smith, Michael A. Perlin, Pranav Gokhale, Paige Frederick, David Owusu-Antwi, Richard Rines, Victory Omole, Frederic T. Chong
+venue: ISCA
+year: 2023
+doi: 10.1145/3579371.3589352
+url: https://doi.org/10.1145/3579371.3589352
+bibtex: https://dblp.org/rec/conf/isca/SmithPGFOROC23?view=bibtex
+
+title: Q-BEEP: Quantum Bayesian Error Mitigation Employing Poisson Modeling over the Hamming Spectrum.
+authors: Samuel Alexander Stein, Nathan Wiebe, Yufei Ding, James A. Ang, Ang Li 0006
+venue: ISCA
+year: 2023
+doi: 10.1145/3579371.3589043
+url: https://doi.org/10.1145/3579371.3589043
+bibtex: https://dblp.org/rec/conf/isca/SteinWDAL23?view=bibtex
+
+title: Astrea: Accurate Quantum Error-Decoding via Practical Minimum-Weight Perfect-Matching.
+authors: Suhas Vittal, Poulami Das 0005, Moinuddin K. Qureshi
+venue: ISCA
+year: 2023
+doi: 10.1145/3579371.3589037
+url: https://doi.org/10.1145/3579371.3589037
+bibtex: https://dblp.org/rec/conf/isca/Vittal0Q23?view=bibtex
+
+title: OneQ: A Compilation Framework for Photonic One-Way Quantum Computation.
+authors: Hezi Zhang, Anbang Wu, Yuke Wang, Gushu Li, Hassan Shapourian, Alireza Shabani, Yufei Ding
+venue: ISCA
+year: 2023
+doi: 10.1145/3579371.3589047
+url: https://doi.org/10.1145/3579371.3589047
+bibtex: https://dblp.org/rec/conf/isca/ZhangWWLSSD23?view=bibtex
+
+title: Wafer-Scale Electrical Characterization of Silicon Quantum Dots from Room to Low Temperatures.
+authors: Francesco Lorenzelli, Asser Elsayed, Clement Godfrin, Alexander Grill, Stefan Kubicek, Ruoyu Li, Michele Stucchi, Danny Wan, Kristiaan De Greve, Erik Jan Marinissen, Georges G. E. Gielen
+venue: ITC
+year: 2023
+doi: 10.1109/ITC51656.2023.00031
+url: https://doi.org/10.1109/ITC51656.2023.00031
+bibtex: https://dblp.org/rec/conf/itc/LorenzelliEGGKL23?view=bibtex
+
+title: Enhancing Code Safety in Quantum Intermediate Representation.
+authors: Junjie Luo 0005, Jianjun Zhao 0001
+venue: ASE
+year: 2023
+doi: 10.1109/ASE56229.2023.00195
+url: https://doi.org/10.1109/ASE56229.2023.00195
+bibtex: https://dblp.org/rec/conf/kbse/LuoZ23?view=bibtex
+
+title: QuCAT: A Combinatorial Testing Tool for Quantum Software.
+authors: Xinyi Wang, Paolo Arcaini, Tao Yue 0002, Shaukat Ali 0001
+venue: ASE
+year: 2023
+doi: 10.1109/ASE56229.2023.00062
+url: https://doi.org/10.1109/ASE56229.2023.00062
+bibtex: https://dblp.org/rec/conf/kbse/WangAYA23?view=bibtex
+
+title: A Complete Equational Theory for Quantum Circuits.
+authors: Alexandre Clément, Nicolas Heurtel, Shane Mansfield, Simon Perdrix, Benoît Valiron
+venue: LICS
+year: 2023
+doi: 10.1109/LICS56636.2023.10175801
+url: https://doi.org/10.1109/LICS56636.2023.10175801
+bibtex: https://dblp.org/rec/conf/lics/ClementHMPV23?view=bibtex
+
+title: SUSHI: Ultra-High-Speed and Ultra-Low-Power Neuromorphic Chip Using Superconducting Single-Flux-Quantum Circuits.
+authors: Zeshi Liu, Shuo Chen, Peiyao Qu, Huanli Liu, Minghui Niu, Liliang Ying, Jie Ren, Guangming Tang, Haihang You
+venue: MICRO
+year: 2023
+doi: 10.1145/3613424.3623787
+url: https://doi.org/10.1145/3613424.3623787
+bibtex: https://dblp.org/rec/conf/micro/LiuCQLNYRTY23?view=bibtex
+
+title: HetArch: Heterogeneous Microarchitectures for Superconducting Quantum Systems.
+authors: Samuel Alexander Stein, Sara Sussman, Teague Tomesh, Charles Guinn, Esin Tureci, Sophia Fuhui Lin, Wei Tang, James A. Ang, Srivatsan Chakram, Ang Li 0006, Margaret Martonosi, Fred Chong, Andrew A. Houck, Isaac L. Chuang, Michael Austin DeMarco
+venue: MICRO
+year: 2023
+doi: 10.1145/3613424.3614300
+url: https://doi.org/10.1145/3613424.3614300
+bibtex: https://dblp.org/rec/conf/micro/SteinSTGTLTACLM23?view=bibtex
+
+title: QuCT: A Framework for Analyzing Quantum Circuit by Extracting Contextual and Topological Features.
+authors: Siwei Tan, Congliang Lang, Liang Xiang, Shudi Wang, Xinghui Jia, Ziqi Tan, Tingting Li, Jieming Yin, Yongheng Shang, Andre Python, Liqiang Lu, Jianwei Yin
+venue: MICRO
+year: 2023
+doi: 10.1145/3613424.3614274
+url: https://doi.org/10.1145/3613424.3614274
+bibtex: https://dblp.org/rec/conf/micro/TanLXWJTLYSPLY23?view=bibtex
+
+title: ERASER: Towards Adaptive Leakage Suppression for Fault-Tolerant Quantum Computing.
+authors: Suhas Vittal, Poulami Das 0005, Moinuddin K. Qureshi
+venue: MICRO
+year: 2023
+doi: 10.1145/3613424.3614251
+url: https://doi.org/10.1145/3613424.3614251
+bibtex: https://dblp.org/rec/conf/micro/Vittal0Q23?view=bibtex
+
+title: QuComm: Optimizing Collective Communication for Distributed Quantum Computing.
+authors: Anbang Wu, Yufei Ding, Ang Li 0006
+venue: MICRO
+year: 2023
+doi: 10.1145/3613424.3614253
+url: https://doi.org/10.1145/3613424.3614253
+bibtex: https://dblp.org/rec/conf/micro/WuDL23?view=bibtex
+
+title: Systems Architecture for Quantum Random Access Memory.
+authors: Shifan Xu, Connor T. Hann, Ben Foxman, Steven M. Girvin, Yongshan Ding 0001
+venue: MICRO
+year: 2023
+doi: 10.1145/3613424.3614270
+url: https://doi.org/10.1145/3613424.3614270
+bibtex: https://dblp.org/rec/conf/micro/XuHFG023?view=bibtex
+
+title: An Entangled Quantum Imaging Method Based on Photon Capture Probability in Weak-Turbulence Environment.
+authors: Jingyang Cao, Wei Nie, Mu Zhou
+venue: MobiCom
+year: 2023
+doi: 10.1145/3570361.3615748
+url: https://doi.org/10.1145/3570361.3615748
+bibtex: https://dblp.org/rec/conf/mobicom/CaoNZ23?view=bibtex
+
+title: Quantum Wireless Sensing: Principle, Design and Implementation.
+authors: Fusang Zhang, Beihong Jin, Zitong Lan, Zhaoxin Chang 0001, Daqing Zhang 0001, Yuechun Jiao, Meng Shi, Jie Xiong 0001
+venue: MobiCom
+year: 2023
+doi: 10.1145/3570361.3613258
+url: https://doi.org/10.1145/3570361.3613258
+bibtex: https://dblp.org/rec/conf/mobicom/ZhangJL00JS023?view=bibtex
+
+title: Model-Driven Optimization for Quantum Program Synthesis with MOMoT.
+authors: Felix Gemeinhardt, Martin Eisenberg, Stefan Klikovits, Manuel Wimmer
+venue: MoDELS
+year: 2023
+doi: 10.1109/MODELS-C59198.2023.00100
+url: https://doi.org/10.1109/MODELS-C59198.2023.00100
+bibtex: https://dblp.org/rec/conf/models/GemeinhardtEKW23?view=bibtex
+
+title: On quantum backpropagation, information reuse, and cheating measurement collapse.
+authors: Amira Abbas, Robbie King, Hsin-Yuan Huang, William J. Huggins, Ramis Movassagh, Dar Gilboa, Jarrod R. McClean
+venue: NeurIPS
+year: 2023
+url: http://papers.nips.cc/paper_files/paper/2023/hash/8c3caae2f725c8e2a55ecd600563d172-Abstract-Conference.html
+bibtex: https://dblp.org/rec/conf/nips/AbbasKHHMGM23?view=bibtex
+
+title: What Makes Data Suitable for a Locally Connected Neural Network? A Necessary and Sufficient Condition Based on Quantum Entanglement.
+authors: Yotam Alexander, Nimrod De La Vega, Noam Razin, Nadav Cohen
+venue: NeurIPS
+year: 2023
+url: http://papers.nips.cc/paper_files/paper/2023/hash/808a79d149c9dd8338d789881c9dab4c-Abstract-Conference.html
+bibtex: https://dblp.org/rec/conf/nips/AlexanderVRC23?view=bibtex
+
+title: ANTN: Bridging Autoregressive Neural Networks and Tensor Networks for Quantum Many-Body Simulation.
+authors: Zhuo Chen, Laker Newhouse, Eddie Chen, Di Luo, Marin Soljacic
+venue: NeurIPS
+year: 2023
+url: http://papers.nips.cc/paper_files/paper/2023/hash/01772a8b0420baec00c4d59fe2fbace6-Abstract-Conference.html
+bibtex: https://dblp.org/rec/conf/nips/ChenNCLS23?view=bibtex
+
+title: Quantum Bayesian Optimization.
+authors: Zhongxiang Dai, Gregory Kang Ruey Lau, Arun Verma, Yao Shu, Bryan Kian Hsiang Low, Patrick Jaillet
+venue: NeurIPS
+year: 2023
+url: http://papers.nips.cc/paper_files/paper/2023/hash/401aa72e0e3be680348a5b0ffdb1a5aa-Abstract-Conference.html
+bibtex: https://dblp.org/rec/conf/nips/DaiLVSLJ23?view=bibtex
+
+title: Logarithmic-Regret Quantum Learning Algorithms for Zero-Sum Games.
+authors: Minbo Gao, Zhengfeng Ji, Tongyang Li, Qisheng Wang
+venue: NeurIPS
+year: 2023
+url: http://papers.nips.cc/paper_files/paper/2023/hash/637df18481a6aa74238bd2cafff94cb9-Abstract-Conference.html
+bibtex: https://dblp.org/rec/conf/nips/GaoJLW23?view=bibtex
+
+title: GeoTMI: Predicting Quantum Chemical Property with Easy-to-Obtain Geometry via Positional Denoising.
+authors: Hyeonsu Kim, Jeheon Woo, Seonghwan Kim 0004, Seokhyun Moon, Jun Hyeong Kim, Woo Youn Kim
+venue: NeurIPS
+year: 2023
+url: http://papers.nips.cc/paper_files/paper/2023/hash/903c5eb12f2389c4847574df90503d63-Abstract-Conference.html
+bibtex: https://dblp.org/rec/conf/nips/KimW0MKK23?view=bibtex
+
+title: Classical Simulation of Quantum Circuits: Parallel Environments and Benchmark.
+authors: Xiao-Yang Liu, Zeliang Zhang
+venue: NeurIPS
+year: 2023
+url: http://papers.nips.cc/paper_files/paper/2023/hash/d41b70011dd21ec3de5e019302279551-Abstract-Datasets_and_Benchmarks.html
+bibtex: https://dblp.org/rec/conf/nips/LiuZ23a?view=bibtex
+
+title: Payoff-based Learning with Matrix Multiplicative Weights in Quantum Games.
+authors: Kyriakos Lotidis, Panayotis Mertikopoulos, Nicholas Bambos, Jose H. Blanchet
+venue: NeurIPS
+year: 2023
+url: http://papers.nips.cc/paper_files/paper/2023/hash/77307e2e3f326335dfeb94ab47f7a6c0-Abstract-Conference.html
+bibtex: https://dblp.org/rec/conf/nips/LotidisMBB23?view=bibtex
+
+title: QuACK: Accelerating Gradient-Based Quantum Optimization with Koopman Operator Learning.
+authors: Di Luo, Jiayu Shen, Rumen Dangovski, Marin Soljacic
+venue: NeurIPS
+year: 2023
+url: http://papers.nips.cc/paper_files/paper/2023/hash/5159aaee380391c366b27994ed225e4f-Abstract-Conference.html
+bibtex: https://dblp.org/rec/conf/nips/LuoSDS23?view=bibtex
+
+title: Physics-Informed Bayesian Optimization of Variational Quantum Circuits.
+authors: Kim Nicoli, Christopher J. Anders, Lena Funcke, Tobias Hartung, Karl Jansen, Stefan Kühn, Klaus-Robert Müller, Paolo Stornati, Pan Kessel, Shinichi Nakajima
+venue: NeurIPS
+year: 2023
+url: http://papers.nips.cc/paper_files/paper/2023/hash/3adb85a348a18cdd74ce99fbbab20301-Abstract-Conference.html
+bibtex: https://dblp.org/rec/conf/nips/NicoliAFHJKMSKN23?view=bibtex
+
+title: Quantum speedups for stochastic optimization.
+authors: Aaron Sidford, Chenyi Zhang
+venue: NeurIPS
+year: 2023
+url: http://papers.nips.cc/paper_files/paper/2023/hash/6ed9931d6e1fb6a85efa1b2c014a47e1-Abstract-Conference.html
+bibtex: https://dblp.org/rec/conf/nips/SidfordZ23?view=bibtex
+
+title: QH9: A Quantum Hamiltonian Prediction Benchmark for QM9 Molecules.
+authors: Haiyang Yu, Meng Liu, Youzhi Luo, Alex Strasser, Xiaofeng Qian, Xiaoning Qian, Shuiwang Ji
+venue: NeurIPS
+year: 2023
+url: http://papers.nips.cc/paper_files/paper/2023/hash/7f755e271717450020fda40f020922dd-Abstract-Datasets_and_Benchmarks.html
+bibtex: https://dblp.org/rec/conf/nips/YuLLSQQJ23?view=bibtex
+
+title: Brief Announcement: Improved Consensus in Quantum Networks.
+authors: MohammadTaghi Hajiaghayi, Dariusz Rafal Kowalski, Jan Olkowski
+venue: PODC
+year: 2023
+doi: 10.1145/3583668.3594600
+url: https://doi.org/10.1145/3583668.3594600
+bibtex: https://dblp.org/rec/conf/podc/HajiaghayiKO23?view=bibtex
+
+title: Lifetime-Based Optimization for Simulating Quantum Circuits on a New Sunway Supercomputer.
+authors: Yaojian Chen, Yong Liu, Xinmin Shi, Jiawei Song, Xin Liu, Lin Gan, Chu Guo, Haohuan Fu, Jie Gao, Dexun Chen, Guangwen Yang
+venue: PPoPP
+year: 2023
+doi: 10.1145/3572848.3577529
+url: https://doi.org/10.1145/3572848.3577529
+bibtex: https://dblp.org/rec/conf/ppopp/ChenLSSLGGFGCY23?view=bibtex
+
+title: Work in Progress: Response Time Analysis of Real-Time Quantum Computing Systems.
+authors: @pid, text
+venue: RTAS
+year: 2023
+doi: 10.1109/RTAS58335.2023.00033
+url: https://doi.org/10.1109/RTAS58335.2023.00033
+bibtex: https://dblp.org/rec/conf/rtas/Cheng23?view=bibtex
+
+title: Quantum Constant Propagation.
+authors: Yanbin Chen, Yannick Stade
+venue: SAS
+year: 2023
+doi: 10.1007/978-3-031-44245-2_9
+url: https://doi.org/10.1007/978-3-031-44245-2_9
+bibtex: https://dblp.org/rec/conf/sas/ChenS23?view=bibtex
+
+title: Large-Scale Materials Modeling at Quantum Accuracy: Ab Initio Simulations of Quasicrystals and Interacting Extended Defects in Metallic Alloys.
+authors: Sambit Das, Bikash Kanungo, Vishal Subramanian, Gourab Panigrahi, Phani Motamarri, David M. Rogers, Paul Zimmerman, Vikram Gavini
+venue: SC
+year: 2023
+doi: 10.1145/3581784.3627037
+url: https://doi.org/10.1145/3581784.3627037
+bibtex: https://dblp.org/rec/conf/sc/DasKSPMRZG23?view=bibtex
+
+title: GRAPHINE: Enhanced Neutral Atom Quantum Computing using Application-Specific Rydberg Atom Arrangement.
+authors: Tirthak Patel, Daniel Silver, Devesh Tiwari
+venue: SC
+year: 2023
+doi: 10.1145/3581784.3607032
+url: https://doi.org/10.1145/3581784.3607032
+bibtex: https://dblp.org/rec/conf/sc/PatelST23?view=bibtex
+
+title: Experimental Evaluation of Xanadu X8 Photonic Quantum Computer: Error Measurement, Characterization and Implications.
+authors: Aditya Ranjan, Tirthak Patel, Harshitta Gandhi, Daniel Silver, William Cutler, Devesh Tiwari
+venue: SC
+year: 2023
+doi: 10.1145/3581784.3607058
+url: https://doi.org/10.1145/3581784.3607058
+bibtex: https://dblp.org/rec/conf/sc/RanjanPGSCT23?view=bibtex
+
+title: Mitigating Coupling Map Constrained Correlated Measurement Errors on Quantum Devices.
+authors: Alan Robertson, Shuaiwen Song
+venue: SC
+year: 2023
+doi: 10.1145/3581784.3607039
+url: https://doi.org/10.1145/3581784.3607039
+bibtex: https://dblp.org/rec/conf/sc/RobertsonS23?view=bibtex
+
+title: Portable and Scalable All-Electron Quantum Perturbation Simulations on Exascale Supercomputers.
+authors: Zhikun Wu, Yangjun Wu, Ying Liu, Honghui Shang, Yingxiang Gao, Zhongcheng Zhang, Yuyang Zhang, Yingchi Long, Xiaobing Feng 0002, Huimin Cui
+venue: SC
+year: 2023
+doi: 10.1145/3581784.3607085
+url: https://doi.org/10.1145/3581784.3607085
+bibtex: https://dblp.org/rec/conf/sc/WuWLSGZZL0C23?view=bibtex
+
+title: Prime Factorization Based on Multiple Quantum Annealings on Partial Constraints with Analytical Variable Reduction.
+authors: Xinyi Guo, Geguang Miao, Shinichi Nishizawa, Shinji Kimura
+venue: SOCC
+year: 2023
+doi: 10.1109/SOCC58585.2023.10256742
+url: https://doi.org/10.1109/SOCC58585.2023.10256742
+bibtex: https://dblp.org/rec/conf/socc/GuoMNK23?view=bibtex
+
+title: Quantum tomography using state-preparation unitaries.
+authors: Joran van Apeldoorn, Arjan Cornelissen, András Gilyén, Giacomo Nannicini
+venue: SODA
+year: 2023
+doi: 10.1137/1.9781611977554.CH47
+url: https://doi.org/10.1137/1.9781611977554.ch47
+bibtex: https://dblp.org/rec/conf/soda/ApeldoornCGN23?view=bibtex
+
+title: Testing and Learning Quantum Juntas Nearly Optimally.
+authors: Thomas Chen, Shivam Nadimpalli, Henry Yuen
+venue: SODA
+year: 2023
+doi: 10.1137/1.9781611977554.CH43
+url: https://doi.org/10.1137/1.9781611977554.ch43
+bibtex: https://dblp.org/rec/conf/soda/ChenNY23?view=bibtex
+
+title: A Sublinear-Time Quantum Algorithm for Approximating Partition Functions.
+authors: Arjan Cornelissen, Yassine Hamoudi
+venue: SODA
+year: 2023
+doi: 10.1137/1.9781611977554.CH46
+url: https://doi.org/10.1137/1.9781611977554.ch46
+bibtex: https://dblp.org/rec/conf/soda/CornelissenH23?view=bibtex
+
+title: Unique Games hardness of Quantum Max-Cut, and a conjectured vector-valued Borell&apos;s inequality.
+authors: Yeongwoo Hwang, Joe Neeman, Ojas Parekh, Kevin Thompson 0007, John Wright
+venue: SODA
+year: 2023
+doi: 10.1137/1.9781611977554.CH48
+url: https://doi.org/10.1137/1.9781611977554.ch48
+bibtex: https://dblp.org/rec/conf/soda/HwangNP0W23?view=bibtex
+
+title: Quantum Speed-ups for String Synchronizing Sets, Longest Common Substring, and k-mismatch Matching.
+authors: Ce Jin 0001, Jakob Nogler
+venue: SODA
+year: 2023
+doi: 10.1137/1.9781611977554.CH186
+url: https://doi.org/10.1137/1.9781611977554.ch186
+bibtex: https://dblp.org/rec/conf/soda/JinN23?view=bibtex
+
+title: Mean estimation when you have the source code; or, quantum Monte Carlo methods.
+authors: Robin Kothari, Ryan O&apos;Donnell
+venue: SODA
+year: 2023
+doi: 10.1137/1.9781611977554.CH44
+url: https://doi.org/10.1137/1.9781611977554.ch44
+bibtex: https://dblp.org/rec/conf/soda/KothariO23?view=bibtex
+
+title: Efficient decoding up to a constant fraction of the code length for asymptotically good quantum codes.
+authors: Anthony Leverrier, Gilles Zémor
+venue: SODA
+year: 2023
+doi: 10.1137/1.9781611977554.CH45
+url: https://doi.org/10.1137/1.9781611977554.ch45
+bibtex: https://dblp.org/rec/conf/soda/LeverrierZ23?view=bibtex
+
+title: Certified Randomness from Quantum Supremacy.
+authors: Scott Aaronson, Shih-Han Hung
+venue: STOC
+year: 2023
+doi: 10.1145/3564246.3585145
+url: https://doi.org/10.1145/3564246.3585145
+bibtex: https://dblp.org/rec/conf/stoc/AaronsonH23?view=bibtex
+
+title: NLTS Hamiltonians from Good Quantum Codes.
+authors: Anurag Anshu, Nikolas P. Breuckmann, Chinmay Nirkhe
+venue: STOC
+year: 2023
+doi: 10.1145/3564246.3585114
+url: https://doi.org/10.1145/3564246.3585114
+bibtex: https://dblp.org/rec/conf/stoc/AnshuBN23?view=bibtex
+
+title: Quantum Depth in the Random Oracle Model.
+authors: Atul Singh Arora, Andrea Coladangelo, Matthew Coudron, Alexandru Gheorghiu, Uttam Singh, Hendrik Waldner
+venue: STOC
+year: 2023
+doi: 10.1145/3564246.3585153
+url: https://doi.org/10.1145/3564246.3585153
+bibtex: https://dblp.org/rec/conf/stoc/AroraCCGSW23?view=bibtex
+
+title: Obfuscation of Pseudo-Deterministic Quantum Circuits.
+authors: James Bartusek, Fuyuki Kitagawa, Ryo Nishimaki, Takashi Yamakawa
+venue: STOC
+year: 2023
+doi: 10.1145/3564246.3585179
+url: https://doi.org/10.1145/3564246.3585179
+bibtex: https://dblp.org/rec/conf/stoc/BartusekKNY23?view=bibtex
+
+title: Mind the Gap: Achieving a Super-Grover Quantum Speedup by Jumping to the End.
+authors: Alexander M. Dalzell, Nicola Pancotti, Earl T. Campbell, Fernando G. S. L. Brandão
+venue: STOC
+year: 2023
+doi: 10.1145/3564246.3585203
+url: https://doi.org/10.1145/3564246.3585203
+bibtex: https://dblp.org/rec/conf/stoc/DalzellPCB23?view=bibtex
+
+title: Good Quantum LDPC Codes with Linear Time Decoders.
+authors: Irit Dinur, Min-Hsiu Hsieh, Ting-Chun Lin, Thomas Vidick
+venue: STOC
+year: 2023
+doi: 10.1145/3564246.3585101
+url: https://doi.org/10.1145/3564246.3585101
+bibtex: https://dblp.org/rec/conf/stoc/DinurHLV23?view=bibtex
+
+title: An Efficient Decoder for a Linear Distance Quantum LDPC Code.
+authors: Shouzhen Gu, Christopher A. Pattison, Eugene Tang
+venue: STOC
+year: 2023
+doi: 10.1145/3564246.3585169
+url: https://doi.org/10.1145/3564246.3585169
+bibtex: https://dblp.org/rec/conf/stoc/GuPT23?view=bibtex
+
+title: Commitments to Quantum States.
+authors: Sam Gunn, Nathan Ju, Fermi Ma, Mark Zhandry
+venue: STOC
+year: 2023
+doi: 10.1145/3564246.3585198
+url: https://doi.org/10.1145/3564246.3585198
+bibtex: https://dblp.org/rec/conf/stoc/GunnJMZ23?view=bibtex
+
+title: Multidimensional Quantum Walks.
+authors: Stacey Jeffery, Sebastian Zur
+venue: STOC
+year: 2023
+doi: 10.1145/3564246.3585158
+url: https://doi.org/10.1145/3564246.3585158
+bibtex: https://dblp.org/rec/conf/stoc/JefferyZ23?view=bibtex
+
+title: The Power of Unentangled Quantum Proofs with Non-negative Amplitudes.
+authors: Fernando Granha Jeronimo, Pei Wu
+venue: STOC
+year: 2023
+doi: 10.1145/3564246.3585248
+url: https://doi.org/10.1145/3564246.3585248
+bibtex: https://dblp.org/rec/conf/stoc/JeronimoW23?view=bibtex
+
+title: Quantum Advantage from Any Non-local Game.
+authors: Yael Kalai, Alex Lombardi, Vinod Vaikuntanathan, Lisa Yang 0001
+venue: STOC
+year: 2023
+doi: 10.1145/3564246.3585164
+url: https://doi.org/10.1145/3564246.3585164
+bibtex: https://dblp.org/rec/conf/stoc/KalaiLV023?view=bibtex
+
+title: Quantum Cryptography in Algorithmica.
+authors: William Kretschmer, Luowen Qian, Makrand Sinha, Avishay Tal
+venue: STOC
+year: 2023
+doi: 10.1145/3564246.3585225
+url: https://doi.org/10.1145/3564246.3585225
+bibtex: https://dblp.org/rec/conf/stoc/KretschmerQST23?view=bibtex
+
+title: Memory-Sample Lower Bounds for Learning with Classical-Quantum Hybrid Memory.
+authors: Qipeng Liu 0001, Ran Raz, Wei Zhan
+venue: STOC
+year: 2023
+doi: 10.1145/3564246.3585129
+url: https://doi.org/10.1145/3564246.3585129
+bibtex: https://dblp.org/rec/conf/stoc/LiuRZ23?view=bibtex
+
+title: Quantum Free Games.
+authors: Anand Natarajan, Tina Zhang
+venue: STOC
+year: 2023
+doi: 10.1145/3564246.3585208
+url: https://doi.org/10.1145/3564246.3585208
+bibtex: https://dblp.org/rec/conf/stoc/NatarajanZ23?view=bibtex
+
+title: Public-Key Encryption with Quantum Keys.
+authors: Khashayar Barooti, Alex B. Grilo, Loïs Huguenin-Dumittan, Giulio Malavolta, Or Sattath, Quoc-Huy Vu, Michael Walter
+venue: TCC
+year: 2023
+doi: 10.1007/978-3-031-48624-1_8
+url: https://doi.org/10.1007/978-3-031-48624-1_8
+bibtex: https://dblp.org/rec/conf/tcc/BarootiGHMSVW23?view=bibtex
+
+title: Semi-quantum Copy-Protection and More.
+authors: Céline Chevalier, Paul Hermouet, Quoc-Huy Vu
+venue: TCC
+year: 2023
+doi: 10.1007/978-3-031-48624-1_6
+url: https://doi.org/10.1007/978-3-031-48624-1_6
+bibtex: https://dblp.org/rec/conf/tcc/ChevalierHV23?view=bibtex
+
+title: Accelerating Voting by Quantum Computation.
+authors: Ao Liu, Qishen Han, Lirong Xia, Nengkun Yu
+venue: UAI
+year: 2023
+url: https://proceedings.mlr.press/v216/liu23a.html
+bibtex: https://dblp.org/rec/conf/uai/LiuHXY23?view=bibtex
+

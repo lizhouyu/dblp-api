@@ -1,0 +1,116 @@
+title: Sleuth: A Trace-Based Root Cause Analysis System for Large-Scale Microservices with Graph Neural Networks.
+authors: Yu Gan, Guiyang Liu, Xin Zhang, Qi Zhou, Jiesheng Wu, Jiangwei Jiang
+venue: ASPLOS
+year: 2023
+doi: 10.1145/3623278.3624758
+url: https://doi.org/10.1145/3623278.3624758
+bibtex: https://dblp.org/rec/conf/asplos/GanLZZWJ23?view=bibtex
+
+title: Recommending Root-Cause and Mitigation Steps for Cloud Incidents using Large Language Models.
+authors: Toufique Ahmed, Supriyo Ghosh, Chetan Bansal, Thomas Zimmermann 0001, Xuchao Zhang, Saravan Rajmohan
+venue: ICSE
+year: 2023
+doi: 10.1109/ICSE48619.2023.00149
+url: https://doi.org/10.1109/ICSE48619.2023.00149
+bibtex: https://dblp.org/rec/conf/icse/AhmedGBZZR23?view=bibtex
+
+title: Learning DAGs from Data with Few Root Causes.
+authors: Panagiotis Misiakos, Chris Wendler, Markus Püschel
+venue: NeurIPS
+year: 2023
+url: http://papers.nips.cc/paper_files/paper/2023/hash/367ab3106d990825d5b47ce91db75a73-Abstract-Conference.html
+bibtex: https://dblp.org/rec/conf/nips/MisiakosWP23?view=bibtex
+
+title: Relational Debugging - Pinpointing Root Causes of Performance Problems.
+authors: Xiang (Jenny) Ren, Sitao Wang, Zhuqi Jin, David Lion, Adrian Chiu, Tianyin Xu, Ding Yuan 0004
+venue: OSDI
+year: 2023
+url: https://www.usenix.org/conference/osdi23/presentation/ren
+bibtex: https://dblp.org/rec/conf/osdi/RenWJLCX023?view=bibtex
+
+title: CMDiagnostor: An Ambiguity-Aware Root Cause Localization Approach Based on Call Metric Data.
+authors: Qingyang Yu, Changhua Pei, Bowen Hao, Mingjie Li 0005, Zeyan Li, Shenglin Zhang, Xianglin Lu, Rui Wang, Jiaqi Li, Zhenyu Wu, Dan Pei
+venue: WWW
+year: 2023
+doi: 10.1145/3543507.3583302
+url: https://doi.org/10.1145/3543507.3583302
+bibtex: https://dblp.org/rec/conf/www/YuPH0LZLWLWP23?view=bibtex
+
+title: Cross Miniapp Request Forgery: Root Causes, Attacks, and Vulnerability Detection.
+authors: Yuqing Yang 0003, Yue Zhang 0025, Zhiqiang Lin
+venue: CCS
+year: 2022
+doi: 10.1145/3548606.3560597
+url: https://doi.org/10.1145/3548606.3560597
+bibtex: https://dblp.org/rec/conf/ccs/Yang0L22?view=bibtex
+
+title: Causal structure-based root cause analysis of outliers.
+authors: Kailash Budhathoki, Lenon Minorics, Patrick Blöbaum, Dominik Janzing
+venue: ICML
+year: 2022
+url: https://proceedings.mlr.press/v162/budhathoki22a.html
+bibtex: https://dblp.org/rec/conf/icml/BudhathokiMBJ22?view=bibtex
+
+title: Automatically Identifying Shared Root Causes of Test Breakages in SAP HANA.
+authors: Gabin An, Juyeon Yoon, Jeongju Sohn, Jingun Hong, Dongwon Hwang, Shin Yoo
+venue: ICSE
+year: 2022
+doi: 10.1109/ICSE-SEIP55303.2022.9793878
+url: https://doi.org/10.1109/ICSE-SEIP55303.2022.9793878
+bibtex: https://dblp.org/rec/conf/icse/AnYSHHY22?view=bibtex
+
+title: Mining Root Cause Knowledge from Cloud Service Incident Investigations for AIOps.
+authors: Amrita Saha, Steven C. H. Hoi
+venue: ICSE
+year: 2022
+doi: 10.1109/ICSE-SEIP55303.2022.9793994
+url: https://doi.org/10.1109/ICSE-SEIP55303.2022.9793994
+bibtex: https://dblp.org/rec/conf/icse/SahaH22?view=bibtex
+
+title: Root Cause Analysis of Failures in Microservices through Causal Discovery.
+authors: Azam Ikram, Sarthak Chakraborty, Subrata Mitra, Shiv Kumar Saini, Saurabh Bagchi, Murat Kocaoglu
+venue: NeurIPS
+year: 2022
+url: http://papers.nips.cc/paper_files/paper/2022/hash/c9fcd02e6445c7dfbad6986abee53d0d-Abstract-Conference.html
+bibtex: https://dblp.org/rec/conf/nips/IkramCMSBK22?view=bibtex
+
+title: Igor: Crash Deduplication Through Root-Cause Clustering.
+authors: Zhiyuan Jiang, Xiyue Jiang, Ahmad Hazimeh, Chaojing Tang, Chao Zhang 0008, Mathias Payer
+venue: CCS
+year: 2021
+doi: 10.1145/3460120.3485364
+url: https://doi.org/10.1145/3460120.3485364
+bibtex: https://dblp.org/rec/conf/ccs/JiangJHTZP21?view=bibtex
+
+title: Automated Bug Hunting With Data-Driven Symbolic Root Cause Analysis.
+authors: Carter Yagemann, Simon P. Chung, Brendan Saltaformaggio, Wenke Lee
+venue: CCS
+year: 2021
+doi: 10.1145/3460120.3485363
+url: https://doi.org/10.1145/3460120.3485363
+bibtex: https://dblp.org/rec/conf/ccs/YagemannCSL21?view=bibtex
+
+title: MicroHECL: High-Efficient Root Cause Localization in Large-Scale Microservice Systems.
+authors: Dewei Liu, Chuan He, Xin Peng 0001, Fan Lin, Chenxi Zhang, Shengfang Gong, Ziang Li, Jiayu Ou, Zheshun Wu
+venue: ICSE
+year: 2021
+doi: 10.1109/ICSE-SEIP52600.2021.00043
+url: https://doi.org/10.1109/ICSE-SEIP52600.2021.00043
+bibtex: https://dblp.org/rec/conf/icse/LiuH0LZGLOW21?view=bibtex
+
+title: Scalable Statistical Root Cause Analysis on App Telemetry.
+authors: Vijayaraghavan Murali, Edward Yao, Umang Mathur 0001, Satish Chandra 0001
+venue: ICSE
+year: 2021
+doi: 10.1109/ICSE-SEIP52600.2021.00038
+url: https://doi.org/10.1109/ICSE-SEIP52600.2021.00038
+bibtex: https://dblp.org/rec/conf/icse/MuraliY0021?view=bibtex
+
+title: Groot: An Event-graph-based Approach for Root Cause Analysis in Industrial Settings.
+authors: Hanzhang Wang, Zhengkai Wu, Huai Jiang, Yichao Huang, Jiamu Wang, Selçuk Köprü, Tao Xie 0001
+venue: ASE
+year: 2021
+doi: 10.1109/ASE51524.2021.9678708
+url: https://doi.org/10.1109/ASE51524.2021.9678708
+bibtex: https://dblp.org/rec/conf/kbse/WangWJHWKX21?view=bibtex
+

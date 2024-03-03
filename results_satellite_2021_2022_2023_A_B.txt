@@ -1,0 +1,750 @@
+title: Enabling Low-latency-capable Satellite-Ground Topology for Emerging LEO Satellite Networks.
+authors: Yaoying Zhang, Qian Wu, Zeqi Lai, Hewu Li
+venue: INFOCOM
+year: 2022
+doi: 10.1109/INFOCOM48880.2022.9796886
+url: https://doi.org/10.1109/INFOCOM48880.2022.9796886
+bibtex: https://dblp.org/rec/conf/infocom/ZhangWLL22?view=bibtex
+
+title: Disentangling the Benefits of Self-Supervised Learning to Deployment-Driven Downstream Tasks of Satellite Images (Student Abstract).
+authors: Zhuo Deng, Yibing Wei, Mingye Zhu, Xueliang Wang, Junchi Zhou, Zhicheng Yang, Hang Zhou, Zhenjie Cao, Lan Ma, Mei Han, Jui-Hsin Lai
+venue: AAAI
+year: 2023
+doi: 10.1609/AAAI.V37I13.26959
+url: https://doi.org/10.1609/aaai.v37i13.26959
+bibtex: https://dblp.org/rec/conf/aaai/DengWZWZYZCMHL23?view=bibtex
+
+title: PARCS: A Deployment-Oriented AI System for Robust Parcel-Level Cropland Segmentation of Satellite Images.
+authors: Chen Du, Yiwei Wang, Zhicheng Yang, Hang Zhou, Mei Han, Jui-Hsin Lai
+venue: AAAI
+year: 2023
+doi: 10.1609/AAAI.V37I13.26873
+url: https://doi.org/10.1609/aaai.v37i13.26873
+bibtex: https://dblp.org/rec/conf/aaai/DuWYZHL23?view=bibtex
+
+title: Point-to-Region Co-learning for Poverty Mapping at High Resolution Using Satellite Imagery.
+authors: Zhili Li, Yiqun Xie, Xiaowei Jia, Kara Stuart, Caroline Delaire, Sergii Skakun
+venue: AAAI
+year: 2023
+doi: 10.1609/AAAI.V37I12.26675
+url: https://doi.org/10.1609/aaai.v37i12.26675
+bibtex: https://dblp.org/rec/conf/aaai/LiXJSDS23?view=bibtex
+
+title: Auto-CM: Unsupervised Deep Learning for Satellite Imagery Composition and Cloud Masking Using Spatio-Temporal Dynamics.
+authors: Yiqun Xie, Zhili Li, Han Bao 0003, Xiaowei Jia, Dongkuan Xu, Xun Zhou, Sergii Skakun
+venue: AAAI
+year: 2023
+doi: 10.1609/AAAI.V37I12.26704
+url: https://doi.org/10.1609/aaai.v37i12.26704
+bibtex: https://dblp.org/rec/conf/aaai/XieL0JXZS23?view=bibtex
+
+title: Watch This Space: Securing Satellite Communication through Resilient Transmitter Fingerprinting.
+authors: Joshua Smailes, Sebastian Köhler 0005, Simon Birnbach, Martin Strohmeier, Ivan Martinovic
+venue: CCS
+year: 2023
+doi: 10.1145/3576915.3623135
+url: https://doi.org/10.1145/3576915.3623135
+bibtex: https://dblp.org/rec/conf/ccs/Smailes0BSM23?view=bibtex
+
+title: Fine-Grained Socioeconomic Prediction from Satellite Images with Distributional Adjustment.
+authors: Donghyun Ahn, Minhyuk Song, SeungEon Lee 0001, Yubin Choi, Jihee Kim, Sangyoon Park, Hyunjoo Yang, Meeyoung Cha
+venue: CIKM
+year: 2023
+doi: 10.1145/3583780.3615226
+url: https://doi.org/10.1145/3583780.3615226
+bibtex: https://dblp.org/rec/conf/cikm/AhnSLCKPYC23?view=bibtex
+
+title: Anomaly and Novelty detection for Satellite and Drone systems (ANSD &apos;23).
+authors: Shahroz Tariq, Daewon Chung, Simon S. Woo, Youjin Shin
+venue: CIKM
+year: 2023
+doi: 10.1145/3583780.3615306
+url: https://doi.org/10.1145/3583780.3615306
+bibtex: https://dblp.org/rec/conf/cikm/TariqCWS23?view=bibtex
+
+title: LEO Satellite vs. Cellular Networks: Exploring the Potential for Synergistic Integration.
+authors: Bin Hu, Xumiao Zhang, Qixin Zhang, Nitin Varyani, Z. Morley Mao, Feng Qian 0001, Zhi-Li Zhang
+venue: CoNEXT
+year: 2023
+doi: 10.1145/3624354.3630588
+url: https://doi.org/10.1145/3624354.3630588
+bibtex: https://dblp.org/rec/conf/conext/0001ZZVM0Z23?view=bibtex
+
+title: Constraint Model for the Satellite Image Mosaic Selection Problem (Short Paper).
+authors: Manuel Combarro Simón, Pierre Talbot, Grégoire Danoy, Jedrzej Musial, Mohammed Alswaitti, Pascal Bouvry
+venue: CP
+year: 2023
+doi: 10.4230/LIPICS.CP.2023.44
+url: https://doi.org/10.4230/LIPIcs.CP.2023.44
+bibtex: https://dblp.org/rec/conf/cp/SimonTDMAB23?view=bibtex
+
+title: Change-Aware Sampling and Contrastive Learning for Satellite Images.
+authors: Utkarsh Mall, Bharath Hariharan, Kavita Bala
+venue: CVPR
+year: 2023
+doi: 10.1109/CVPR52729.2023.00509
+url: https://doi.org/10.1109/CVPR52729.2023.00509
+bibtex: https://dblp.org/rec/conf/cvpr/MallHB23?view=bibtex
+
+title: ViTs for SITS: Vision Transformers for Satellite Image Time Series.
+authors: Michail Tarasiou, Erik Chavez, Stefanos Zafeiriou
+venue: CVPR
+year: 2023
+doi: 10.1109/CVPR52729.2023.01004
+url: https://doi.org/10.1109/CVPR52729.2023.01004
+bibtex: https://dblp.org/rec/conf/cvpr/TarasiouCZ23?view=bibtex
+
+title: PMAA: A Progressive Multi-Scale Attention Autoencoder Model for High-Performance Cloud Removal from Multi-Temporal Satellite Imagery.
+authors: Xuechao Zou, Kai Li, Junliang Xing, Pin Tao, Yachao Cui
+venue: ECAI
+year: 2023
+doi: 10.3233/FAIA230636
+url: https://doi.org/10.3233/FAIA230636
+bibtex: https://dblp.org/rec/conf/ecai/ZouLXTC23?view=bibtex
+
+title: Enhanced GM-PHD Filter for Real Time Satellite Multi-Target Tracking.
+authors: Camilo Aguilar, Mathias Ortner, Josiane Zerubia
+venue: ICASSP
+year: 2023
+doi: 10.1109/ICASSP49357.2023.10096575
+url: https://doi.org/10.1109/ICASSP49357.2023.10096575
+bibtex: https://dblp.org/rec/conf/icassp/AguilarOZ23?view=bibtex
+
+title: Joint Compression and Demosaicking For Satellite Images.
+authors: Pascal Bacchus, Renaud Fraisse, Aline Roumy, Christine Guillemot
+venue: ICASSP
+year: 2023
+doi: 10.1109/ICASSP49357.2023.10096011
+url: https://doi.org/10.1109/ICASSP49357.2023.10096011
+bibtex: https://dblp.org/rec/conf/icassp/BacchusFRG23?view=bibtex
+
+title: Robust Spatiotemporal Fusion of Satellite Images via Convex Optimization.
+authors: Ryosuke Isono, Kazuki Naganuma, Shunsuke Ono
+venue: ICASSP
+year: 2023
+doi: 10.1109/ICASSP49357.2023.10095246
+url: https://doi.org/10.1109/ICASSP49357.2023.10095246
+bibtex: https://dblp.org/rec/conf/icassp/IsonoNO23?view=bibtex
+
+title: SPECTRANET-SO(3): Learning Satellite Orientation from Optical Spectra by Implicitly Modeling Mutually Exclusive Probability Distributions on The Rotation Manifold.
+authors: Matthew Phelps, Ryan Swindle, J. Zachary Gazak, Andrew Vandenberg, Justin Fletcher
+venue: ICASSP
+year: 2023
+doi: 10.1109/ICASSP49357.2023.10095921
+url: https://doi.org/10.1109/ICASSP49357.2023.10095921
+bibtex: https://dblp.org/rec/conf/icassp/PhelpsSGVF23?view=bibtex
+
+title: Sat2Density: Faithful Density Learning from Satellite-Ground Image Pairs.
+authors: Ming Qian, Jincheng Xiong, Gui-Song Xia, Nan Xue 0001
+venue: ICCV
+year: 2023
+doi: 10.1109/ICCV51070.2023.00341
+url: https://doi.org/10.1109/ICCV51070.2023.00341
+bibtex: https://dblp.org/rec/conf/iccv/QianXX023?view=bibtex
+
+title: Boosting 3-DoF Ground-to-Satellite Camera Localization Accuracy via Geometry-Guided Cross-View Transformer.
+authors: Yujiao Shi, Fei Wu, Akhil Perincherry, Ankit Vora, Hongdong Li
+venue: ICCV
+year: 2023
+doi: 10.1109/ICCV51070.2023.01967
+url: https://doi.org/10.1109/ICCV51070.2023.01967
+bibtex: https://dblp.org/rec/conf/iccv/ShiWPVL23?view=bibtex
+
+title: LEOTP: An Information-Centric Transport Layer Protocol for LEO Satellite Networks.
+authors: Li Jiang, Yihang Zhang, Jinyu Yin, Xinggong Zhang, Bin Liu
+venue: ICDCS
+year: 2023
+doi: 10.1109/ICDCS57875.2023.00089
+url: https://doi.org/10.1109/ICDCS57875.2023.00089
+bibtex: https://dblp.org/rec/conf/icdcs/JiangZYZL23?view=bibtex
+
+title: Learning Efficient Unsupervised Satellite Image-based Building Damage Detection.
+authors: Yiyun Zhang, Zijian Wang, Yadan Luo, Xin Yu 0002, Zi Huang
+venue: ICDM
+year: 2023
+doi: 10.1109/ICDM58522.2023.00206
+url: https://doi.org/10.1109/ICDM58522.2023.00206
+bibtex: https://dblp.org/rec/conf/icdm/ZhangWL0H23?view=bibtex
+
+title: Cooperative Content Caching and Distribution for Satellite CDNs.
+authors: Yuwen Chen, Xiao Ma 0009, Ao Zhou 0001, Shangguang Wang
+venue: ICNP
+year: 2023
+doi: 10.1109/ICNP59255.2023.10355590
+url: https://doi.org/10.1109/ICNP59255.2023.10355590
+bibtex: https://dblp.org/rec/conf/icnp/Chen00W23?view=bibtex
+
+title: Research on Secure Access in Converged Satellite and Terrestrial Networks.
+authors: Meiling Chen, Sixu Guo, Xiaoting Huang, Li Su, Haitao Du
+venue: ICNP
+year: 2023
+doi: 10.1109/ICNP59255.2023.10355610
+url: https://doi.org/10.1109/ICNP59255.2023.10355610
+bibtex: https://dblp.org/rec/conf/icnp/ChenGHSD23?view=bibtex
+
+title: Energy and Time-Aware Inference Offloading for DNN-based Applications in LEO Satellites.
+authors: Yijie Chen, Qiyang Zhang, Yiran Zhang, Xiao Ma 0009, Ao Zhou 0001
+venue: ICNP
+year: 2023
+doi: 10.1109/ICNP59255.2023.10355644
+url: https://doi.org/10.1109/ICNP59255.2023.10355644
+bibtex: https://dblp.org/rec/conf/icnp/ChenZZ0023?view=bibtex
+
+title: Evolution to 6G for Satellite NTN Integration: From Networking Perspective.
+authors: Lin Han, Lijun Dong, Alvaro Retana, Richard Li, Shangguang Wang, Tianji Jiang
+venue: ICNP
+year: 2023
+doi: 10.1109/ICNP59255.2023.10355589
+url: https://doi.org/10.1109/ICNP59255.2023.10355589
+bibtex: https://dblp.org/rec/conf/icnp/HanDRLWJ23?view=bibtex
+
+title: Stochastic Planning for ASV Navigation Using Satellite Images.
+authors: Yizhou Huang, Hamza Dugmag, Timothy D. Barfoot, Florian Shkurti
+venue: ICRA
+year: 2023
+doi: 10.1109/ICRA48891.2023.10160894
+url: https://doi.org/10.1109/ICRA48891.2023.10160894
+bibtex: https://dblp.org/rec/conf/icra/HuangDBS23?view=bibtex
+
+title: Towards Bridging the Space Domain Gap for Satellite Pose Estimation using Event Sensing.
+authors: Abdul Mohsi Jawaid, Ethan Elms, Yasir Latif, Tat-Jun Chin
+venue: ICRA
+year: 2023
+doi: 10.1109/ICRA48891.2023.10160531
+url: https://doi.org/10.1109/ICRA48891.2023.10160531
+bibtex: https://dblp.org/rec/conf/icra/JawaidELC23?view=bibtex
+
+title: Satellite Image Based Cross-view Localization for Autonomous Vehicle.
+authors: Shan Wang, Yanhao Zhang 0003, Ankit Vora, Akhil Perincherry, Hengdong Li
+venue: ICRA
+year: 2023
+doi: 10.1109/ICRA48891.2023.10161527
+url: https://doi.org/10.1109/ICRA48891.2023.10161527
+bibtex: https://dblp.org/rec/conf/icra/WangZVPL23?view=bibtex
+
+title: Seed Feature Maps-based CNN Models for LEO Satellite Remote Sensing Services.
+authors: Zhichao Lu, Chuntao Ding, Shangguang Wang, Ran Cheng, Felix Juefei-Xu, Vishnu Naresh Boddeti
+venue: ICWS
+year: 2023
+doi: 10.1109/ICWS60048.2023.00060
+url: https://doi.org/10.1109/ICWS60048.2023.00060
+bibtex: https://dblp.org/rec/conf/icws/LuDWCJB23?view=bibtex
+
+title: A knowledge service framework for fault diagnosis of low-earth orbit satellite constellation.
+authors: Fei Teng 0001, Yunlong Zhu, Enming Zhang, Xiaopeng Hu, Qibo Sun, Li Feng
+venue: ICWS
+year: 2023
+doi: 10.1109/ICWS60048.2023.00085
+url: https://doi.org/10.1109/ICWS60048.2023.00085
+bibtex: https://dblp.org/rec/conf/icws/TengZZHSF23?view=bibtex
+
+title: Fairness and Representation in Satellite-Based Poverty Maps: Evidence of Urban-Rural Disparities and Their Impacts on Downstream Policy.
+authors: Emily L. Aiken, Esther Rolf, Joshua Blumenstock
+venue: IJCAI
+year: 2023
+doi: 10.24963/IJCAI.2023/653
+url: https://doi.org/10.24963/ijcai.2023/653
+bibtex: https://dblp.org/rec/conf/ijcai/AikenRB23?view=bibtex
+
+title: Confidence-based Self-Corrective Learning: An Application in Height Estimation Using Satellite LiDAR and Imagery.
+authors: Zhili Li, Yiqun Xie, Xiaowei Jia
+venue: IJCAI
+year: 2023
+doi: 10.24963/IJCAI.2023/671
+url: https://doi.org/10.24963/ijcai.2023/671
+bibtex: https://dblp.org/rec/conf/ijcai/LiXJ23?view=bibtex
+
+title: Time Series of Satellite Imagery Improve Deep Learning Estimates of Neighborhood-Level Poverty in Africa.
+authors: Markus B. Pettersson, Mohammad Kakooei, Julia Ortheden, Fredrik D. Johansson, Adel Daoud
+venue: IJCAI
+year: 2023
+doi: 10.24963/IJCAI.2023/684
+url: https://doi.org/10.24963/ijcai.2023/684
+bibtex: https://dblp.org/rec/conf/ijcai/PetterssonKOJD23?view=bibtex
+
+title: SaTCP: Link-Layer Informed TCP Adaptation for Highly Dynamic LEO Satellite Networks.
+authors: Xuyang Cao, Xinyu Zhang
+venue: INFOCOM
+year: 2023
+doi: 10.1109/INFOCOM53939.2023.10228914
+url: https://doi.org/10.1109/INFOCOM53939.2023.10228914
+bibtex: https://dblp.org/rec/conf/infocom/CaoZ23?view=bibtex
+
+title: Network Characteristics of LEO Satellite Constellations: A Starlink-Based Measurement from End Users.
+authors: Sami Ma, Yi Ching Chou, Haoyuan Zhao, Long Chen 0025, Xiaoqiang Ma, Jiangchuan Liu
+venue: INFOCOM
+year: 2023
+doi: 10.1109/INFOCOM53939.2023.10228912
+url: https://doi.org/10.1109/INFOCOM53939.2023.10228912
+bibtex: https://dblp.org/rec/conf/infocom/MaCZCML23?view=bibtex
+
+title: Satellite Collision Detection using Spatial Data Structures.
+authors: Christian Hellwig, Fabian Czappa, Martin Michel, Reinhold Bertrand, Felix Wolf 0001
+venue: IPDPS
+year: 2023
+doi: 10.1109/IPDPS54959.2023.00078
+url: https://doi.org/10.1109/IPDPS54959.2023.00078
+bibtex: https://dblp.org/rec/conf/ipps/HellwigCMBW23?view=bibtex
+
+title: Poster Abstract: Hands-on Evaluation of Kinéis Satellite IoT Technology.
+authors: Raúl De La Fuente, Thomas Watteyne
+venue: IPSN
+year: 2023
+doi: 10.1145/3583120.3589837
+url: https://doi.org/10.1145/3583120.3589837
+bibtex: https://dblp.org/rec/conf/ipsn/FuenteW23?view=bibtex
+
+title: Energy Drain Attack in Satellite Internet Constellations.
+authors: Yaoying Zhang, Qian Wu, Zeqi Lai, Yangtao Deng, Hewu Li, Yuanjie Li, Jun Liu 0063
+venue: IWQoS
+year: 2023
+doi: 10.1109/IWQOS57198.2023.10188709
+url: https://doi.org/10.1109/IWQoS57198.2023.10188709
+bibtex: https://dblp.org/rec/conf/iwqos/ZhangWLDLLL23?view=bibtex
+
+title: PMSat: Optimizing Passive Metasurface for Low Earth Orbit Satellite Communication.
+authors: Hao Pan 0003, Lili Qiu, Bei Ouyang, Shicheng Zheng, Yongzhao Zhang, Yi-Chao Chen 0001, Guangtao Xue
+venue: MobiCom
+year: 2023
+doi: 10.1145/3570361.3613257
+url: https://doi.org/10.1145/3570361.3613257
+bibtex: https://dblp.org/rec/conf/mobicom/PanQOZZ0X23?view=bibtex
+
+title: Transmitting, Fast and Slow: Scheduling Satellite Traffic through Space and Time.
+authors: Bill Tao, Maleeha Masood, Indranil Gupta, Deepak Vasisht
+venue: MobiCom
+year: 2023
+doi: 10.1145/3570361.3592521
+url: https://doi.org/10.1145/3570361.3592521
+bibtex: https://dblp.org/rec/conf/mobicom/TaoMGV23?view=bibtex
+
+title: Digital Typhoon: Long-term Satellite Image Dataset for the Spatio-Temporal Modeling of Tropical Cyclones.
+authors: Asanobu Kitamoto, Jared Hwang, Bastien Vuillod, Lucas Gautier, Yingtao Tian, Tarin Clanuwat
+venue: NeurIPS
+year: 2023
+url: http://papers.nips.cc/paper_files/paper/2023/hash/7fc36bce5de315751001981baaf4751a-Abstract-Datasets_and_Benchmarks.html
+bibtex: https://dblp.org/rec/conf/nips/KitamotoHVGTC23?view=bibtex
+
+title: BioMassters: A Benchmark Dataset for Forest Biomass Estimation using Multi-modal Satellite Time-series.
+authors: Andrea Nascetti, Ritu Yadav, Kirill Brodt, Qixun Qu, Hongwei Fan, Yuri Shendryk, Isha Shah, Christine Chung
+venue: NeurIPS
+year: 2023
+url: http://papers.nips.cc/paper_files/paper/2023/hash/40daf2a00278c4bea1b26cd4c8a654f8-Abstract-Datasets_and_Benchmarks.html
+bibtex: https://dblp.org/rec/conf/nips/NascettiYBQFSSC23?view=bibtex
+
+title: MedSat: A Public Health Dataset for England Featuring Medical Prescriptions and Satellite Imagery.
+authors: Sanja Scepanovic, Ivica Obadic, Sagar Joglekar 0001, Laura Giustarini, Cristiano Nattero, Daniele Quercia, Xiaoxiang Zhu 0001
+venue: NeurIPS
+year: 2023
+url: http://papers.nips.cc/paper_files/paper/2023/hash/f4fdf676c3b21f20f8c391d929188386-Abstract-Datasets_and_Benchmarks.html
+bibtex: https://dblp.org/rec/conf/nips/ScepanovicO0GNQ23?view=bibtex
+
+title: Satellite Internet of Things for Smart Agriculture Applications: A Case Study of Computer Vision.
+authors: Jiahua Liu, Weiwei Jiang 0003, Haoyu Han, Miao He, Weixi Gu
+venue: SECON
+year: 2023
+doi: 10.1109/SECON58729.2023.10287508
+url: https://doi.org/10.1109/SECON58729.2023.10287508
+bibtex: https://dblp.org/rec/conf/secon/LiuJHHG23?view=bibtex
+
+title: FloodSFCP: Quality and Latency Balanced Service Function Chain Placement for Remote Sensing in LEO Satellite Network.
+authors: Ruoyi Zhang, Chao Zhu 0002, Xiao Chen, Qingyuan Gong, Xinlei Xie, Xiangyuan Bu
+venue: SECON
+year: 2023
+doi: 10.1109/SECON58729.2023.10287471
+url: https://doi.org/10.1109/SECON58729.2023.10287471
+bibtex: https://dblp.org/rec/conf/secon/ZhangZCGXB23?view=bibtex
+
+title: Poster: Traffic Shaping and YouTube Performance Interaction in GEO Satellite Networks.
+authors: Jiamo Liu, David Lerner, Jae Chung, Udit Paul, Arpit Gupta, Elizabeth M. Belding
+venue: SIGCOMM
+year: 2023
+doi: 10.1145/3603269.3610835
+url: https://doi.org/10.1145/3603269.3610835
+bibtex: https://dblp.org/rec/conf/sigcomm/LiuLCPGB23?view=bibtex
+
+title: Online Conversion Rate Prediction via Neural Satellite Networks in Delayed Feedback Advertising.
+authors: Qiming Liu, Haoming Li 0011, Xiang Ao 0001, Yuyao Guo, Zhihong Dong, Ruobing Zhang, Qiong Chen, Jianfeng Tong, Qing He 0003
+venue: SIGIR
+year: 2023
+doi: 10.1145/3539618.3591747
+url: https://doi.org/10.1145/3539618.3591747
+bibtex: https://dblp.org/rec/conf/sigir/Liu00GDZCT023?view=bibtex
+
+title: Towards High Resolution Urban Heat Analysis: Incorporating Thermal Drones to Enhance Satellite Based Urban Heatmaps.
+authors: Bryan Rickens, Navid Hashemi Tonekaboni
+venue: WWW
+year: 2023
+doi: 10.1145/3543873.3587682
+url: https://doi.org/10.1145/3543873.3587682
+bibtex: https://dblp.org/rec/conf/www/RickensT23?view=bibtex
+
+title: Micronutrient Deficiency Prediction via Publicly Available Satellite Data.
+authors: Elizabeth Bondi, Haipeng Chen 0001, Christopher D. Golden, Nikhil Behari, Milind Tambe
+venue: AAAI
+year: 2022
+doi: 10.1609/AAAI.V36I11.21512
+url: https://doi.org/10.1609/aaai.v36i11.21512
+bibtex: https://dblp.org/rec/conf/aaai/Bondi0GBT22?view=bibtex
+
+title: IS-Count: Large-Scale Object Counting from Satellite Images with Covariate-Based Importance Sampling.
+authors: Chenlin Meng, Enci Liu, Willie Neiswanger, Jiaming Song, Marshall Burke, David B. Lobell, Stefano Ermon
+venue: AAAI
+year: 2022
+doi: 10.1609/AAAI.V36I11.21462
+url: https://doi.org/10.1609/aaai.v36i11.21462
+bibtex: https://dblp.org/rec/conf/aaai/MengLNSBLE22?view=bibtex
+
+title: Planning Satellite Swarm Measurements for Earth Science Models: Comparing Constraint Processing and MILP Methods.
+authors: Richard Levinson, Samantha Niemoeller, Sreeja Nag, Vinay Ravindra
+venue: ICAPS
+year: 2022
+url: https://ojs.aaai.org/index.php/ICAPS/article/view/19833
+bibtex: https://dblp.org/rec/conf/aips/LevinsonNNR22?view=bibtex
+
+title: Building Resource-Dependent Conditional Plans for an Earth Monitoring Satellite.
+authors: Cédric Pralet, David Doose, Julien Anxionnat, Jérémie Pouly
+venue: ICAPS
+year: 2022
+url: https://ojs.aaai.org/index.php/ICAPS/article/view/19835
+bibtex: https://dblp.org/rec/conf/aips/PraletDAP22?view=bibtex
+
+title: Auction-based and Distributed Optimization Approaches for Scheduling Observations in Satellite Constellations with Exclusive Orbit Portions.
+authors: @pid, text
+venue: AAMAS
+year: 2022
+url: https://www.ifaamas.org/Proceedings/aamas2022/pdfs/p1056.pdf
+bibtex: https://dblp.org/rec/conf/atal/Picard22?view=bibtex
+
+title: Detecting Environmental Violations with Satellite Imagery in Near Real Time: Land Application under the Clean Water Act.
+authors: Ben Chugg, Nicolas Rothbacher, Alex Feng, Xiaoqi Long, Daniel E. Ho
+venue: CIKM
+year: 2022
+doi: 10.1145/3511808.3557104
+url: https://doi.org/10.1145/3511808.3557104
+bibtex: https://dblp.org/rec/conf/cikm/ChuggRFLH22?view=bibtex
+
+title: A Dataset for Burned Area Delineation and Severity Estimation from Satellite Imagery.
+authors: Luca Colomba, Alessandro Farasin, Simone Monaco, Salvatore Greco, Paolo Garza, Daniele Apiletti, Elena Baralis, Tania Cerquitelli
+venue: CIKM
+year: 2022
+doi: 10.1145/3511808.3557528
+url: https://doi.org/10.1145/3511808.3557528
+bibtex: https://dblp.org/rec/conf/cikm/ColombaFMGGABC22?view=bibtex
+
+title: Nucleus-Satellites Systems of OMDDs for Reducing the Size of Compiled Forms.
+authors: Hélène Fargier, Jérôme Mengin, Nicolas Schmidt
+venue: CP
+year: 2022
+doi: 10.4230/LIPICS.CP.2022.23
+url: https://doi.org/10.4230/LIPIcs.CP.2022.23
+bibtex: https://dblp.org/rec/conf/cp/FargierMS22?view=bibtex
+
+title: Self-Supervised Super-Resolution for Multi-Exposure Push-Frame Satellites.
+authors: Ngoc Long Nguyen, Jérémy Anger, Axel Davy, Pablo Arias 0001, Gabriele Facciolo
+venue: CVPR
+year: 2022
+doi: 10.1109/CVPR52688.2022.00190
+url: https://doi.org/10.1109/CVPR52688.2022.00190
+bibtex: https://dblp.org/rec/conf/cvpr/NguyenADAF22?view=bibtex
+
+title: Beyond Cross-view Image Retrieval: Highly Accurate Vehicle Localization Using Satellite Image.
+authors: Yujiao Shi, Hongdong Li
+venue: CVPR
+year: 2022
+doi: 10.1109/CVPR52688.2022.01650
+url: https://doi.org/10.1109/CVPR52688.2022.01650
+bibtex: https://dblp.org/rec/conf/cvpr/ShiL22?view=bibtex
+
+title: DynamicEarthNet: Daily Multi-Spectral Satellite Dataset for Semantic Change Segmentation.
+authors: Aysim Toker, Lukas Kondmann, Mark Weber, Marvin Eisenberger, Andrés Camero, Jingliang Hu, Ariadna Pregel Hoderlein, Çaglar Senaras, Timothy Davis, Daniel Cremers, Giovanni Marchisio, Xiao Xiang Zhu 0001, Laura Leal-Taixé
+venue: CVPR
+year: 2022
+doi: 10.1109/CVPR52688.2022.02048
+url: https://doi.org/10.1109/CVPR52688.2022.02048
+bibtex: https://dblp.org/rec/conf/cvpr/TokerKWECHHSDCM22?view=bibtex
+
+title: PolyWorld: Polygonal Building Extraction with Graph Neural Networks in Satellite Images.
+authors: Stefano Zorzi, Shabab Bazrafkan, Stefan Habenschuss, Friedrich Fraundorfer
+venue: CVPR
+year: 2022
+doi: 10.1109/CVPR52688.2022.00189
+url: https://doi.org/10.1109/CVPR52688.2022.00189
+bibtex: https://dblp.org/rec/conf/cvpr/ZorziBHF22?view=bibtex
+
+title: Super-Resolution of Satellite Images by two-Dimensional RRDB and Edge-Enhancement Generative Adversarial Network.
+authors: Yu-Zhang Chen, Tsung-Jung Liu, Kuan-Hsien Liu
+venue: ICASSP
+year: 2022
+doi: 10.1109/ICASSP43922.2022.9747063
+url: https://doi.org/10.1109/ICASSP43922.2022.9747063
+bibtex: https://dblp.org/rec/conf/icassp/ChenLL22?view=bibtex
+
+title: Joint Calibration and Mapping of Satellite Altimetry Data Using Trainable Variational Models.
+authors: Quentin Febvre, Ronan Fablet, Julien Le Sommer, Clément Ubelmann
+venue: ICASSP
+year: 2022
+doi: 10.1109/ICASSP43922.2022.9746889
+url: https://doi.org/10.1109/ICASSP43922.2022.9746889
+bibtex: https://dblp.org/rec/conf/icassp/FebvreFSU22?view=bibtex
+
+title: Autonomous control for satellite rendezvous in near-Earth orbits.
+authors: Vivek Muralidharan, Carol Martínez, Augustinas Zinys, Marius Klimavicius, Miguel A. Olivares-Méndez
+venue: ICCAD
+year: 2022
+doi: 10.1109/ICCAD55197.2022.9853882
+url: https://doi.org/10.1109/ICCAD55197.2022.9853882
+bibtex: https://dblp.org/rec/conf/iccad2/MuralidharanMZK22?view=bibtex
+
+title: On the Deployment of Post-Disaster Building Damage Assessment Tools using Satellite Imagery: A Deep Learning Approach.
+authors: Shahrzad Gholami, Caleb Robinson, Anthony Ortiz, Siyu Yang, Jacopo Margutti, Cameron Birge, Rahul Dodhia, Juan Lavista Ferres
+venue: ICDM
+year: 2022
+doi: 10.1109/ICDMW58026.2022.00134
+url: https://doi.org/10.1109/ICDMW58026.2022.00134
+bibtex: https://dblp.org/rec/conf/icdm/GholamiROYMBDF22?view=bibtex
+
+title: New IP based semantic addressing and routing for LEO satellite networks.
+authors: Lin Han, Alvaro Retana, Cédric Westphal, Richard Li, Tianji Jiang, Meiling Chen
+venue: ICNP
+year: 2022
+doi: 10.1109/ICNP55882.2022.9940332
+url: https://doi.org/10.1109/ICNP55882.2022.9940332
+bibtex: https://dblp.org/rec/conf/icnp/HanRWLJC22?view=bibtex
+
+title: When satellite is all you have: watching the internet from 550 ms.
+authors: Daniel Perdices, Gianluca Perna, Martino Trevisan, Danilo Giordano, Marco Mellia
+venue: IMC
+year: 2022
+doi: 10.1145/3517745.3561432
+url: https://doi.org/10.1145/3517745.3561432
+bibtex: https://dblp.org/rec/conf/imc/PerdicesPTGM22?view=bibtex
+
+title: SelfieStick: Towards Earth Imaging from a Low-Cost Ground Module Using LEO Satellites.
+authors: Vaibhav Singh, Osman Yagan, Swarun Kumar
+venue: IPSN
+year: 2022
+doi: 10.1109/IPSN54338.2022.00025
+url: https://doi.org/10.1109/IPSN54338.2022.00025
+bibtex: https://dblp.org/rec/conf/ipsn/SinghYK22?view=bibtex
+
+title: Crop classification from satellite image sequences using a two-stream network with temporal self-attention.
+authors: Andreas Stergioulas, Kosmas Dimitropoulos, Nikos Grammalidis
+venue: IST
+year: 2022
+doi: 10.1109/IST55454.2022.9827752
+url: https://doi.org/10.1109/IST55454.2022.9827752
+bibtex: https://dblp.org/rec/conf/ist/StergioulasDG22?view=bibtex
+
+title: Towards Sustainable Multi-Tier Space Networking for LEO Satellite Constellations.
+authors: Yi Ching Chou, Xiaoqiang Ma, Feng Wang 0001, Sami Ma, Sen Hung Wong, Jiangchuan Liu
+venue: IWQoS
+year: 2022
+doi: 10.1109/IWQOS54832.2022.9812872
+url: https://doi.org/10.1109/IWQoS54832.2022.9812872
+bibtex: https://dblp.org/rec/conf/iwqos/ChouMWMWL22?view=bibtex
+
+title: Handover in mobility-aware caching strategy for LEO satellite-based overlay system with content delivery network.
+authors: Cuong Manh Ho, Anh-Tien Tran, Chunghyun Lee, Duc Thien Hua, Sungrae Cho
+venue: MobiHoc
+year: 2022
+doi: 10.1145/3492866.3558588
+url: https://doi.org/10.1145/3492866.3558588
+bibtex: https://dblp.org/rec/conf/mobihoc/HoTLHC22?view=bibtex
+
+title: SatMAE: Pre-training Transformers for Temporal and Multi-Spectral Satellite Imagery.
+authors: Yezhen Cong, Samar Khanna, Chenlin Meng, Patrick Liu, Erik Rozi, Yutong He, Marshall Burke, David B. Lobell, Stefano Ermon
+venue: NeurIPS
+year: 2022
+url: http://papers.nips.cc/paper_files/paper/2022/hash/01c561df365429f33fcd7a7faa44c985-Abstract-Conference.html
+bibtex: https://dblp.org/rec/conf/nips/CongKMLRHBLE22?view=bibtex
+
+title: Open High-Resolution Satellite Imagery: The WorldStrat Dataset - With Application to Super-Resolution.
+authors: Julien Cornebise, Ivan Orsolic, Freddie Kalaitzis
+venue: NeurIPS
+year: 2022
+url: http://papers.nips.cc/paper_files/paper/2022/hash/a6fe99561d9eb9c90b322afe664587fd-Abstract-Datasets_and_Benchmarks.html
+bibtex: https://dblp.org/rec/conf/nips/CornebiseOK22?view=bibtex
+
+title: Work-in-Progress: Real-Time On-board Processing for Cloud Detection in FACSAT-2 Multispectral Satellite Imagery.
+authors: Javier Enrique Méndez Gómez, Albert M. K. Cheng
+venue: RTSS
+year: 2022
+doi: 10.1109/RTSS55097.2022.00051
+url: https://doi.org/10.1109/RTSS55097.2022.00051
+bibtex: https://dblp.org/rec/conf/rtss/GomezC22?view=bibtex
+
+title: Task Allocation for Real-time Earth Observation Service with LEO Satellites.
+authors: Mingsong Lv, Xuemei Peng, Wenjing Xie, Nan Guan
+venue: RTSS
+year: 2022
+doi: 10.1109/RTSS55097.2022.00012
+url: https://doi.org/10.1109/RTSS55097.2022.00012
+bibtex: https://dblp.org/rec/conf/rtss/LvPXG22?view=bibtex
+
+title: Beyond the First Law of Geography: Learning Representations of Satellite Imagery by Leveraging Point-of-Interests.
+authors: Yanxin Xi, Tong Li 0013, Huandong Wang, Yong Li 0008, Sasu Tarkoma, Pan Hui 0001
+venue: WWW
+year: 2022
+doi: 10.1145/3485447.3512149
+url: https://doi.org/10.1145/3485447.3512149
+bibtex: https://dblp.org/rec/conf/www/Xi0WLTH22?view=bibtex
+
+title: Real-time Tropical Cyclone Intensity Estimation by Handling Temporally Heterogeneous Satellite Data.
+authors: Boyo Chen, Buo-Fu Chen, Yun-Nung Chen
+venue: AAAI
+year: 2021
+doi: 10.1609/AAAI.V35I17.17729
+url: https://doi.org/10.1609/aaai.v35i17.17729
+bibtex: https://dblp.org/rec/conf/aaai/ChenCC21?view=bibtex
+
+title: RainBench: Towards Data-Driven Global Precipitation Forecasting from Satellite Imagery.
+authors: Christian Schröder de Witt, Catherine Tong, Valentina Zantedeschi, Daniele De Martini, Alfredo Kalaitzis, Matthew Chantry, Duncan Watson-Parris, Piotr Bilinski
+venue: AAAI
+year: 2021
+doi: 10.1609/AAAI.V35I17.17749
+url: https://doi.org/10.1609/aaai.v35i17.17749
+bibtex: https://dblp.org/rec/conf/aaai/WittTZMKCWB21?view=bibtex
+
+title: Autonomous Agents and Multiagent Systems Challenges in Earth Observation Satellite Constellations.
+authors: Gauthier Picard, Clément Caron, Jean-Loup Farges, Jonathan Guerra, Cédric Pralet, Stéphanie Roussel 0001
+venue: AAMAS
+year: 2021
+url: https://www.ifaamas.org/Proceedings/aamas2021/pdfs/p39.pdf
+bibtex: https://dblp.org/rec/conf/atal/PicardCFGP021?view=bibtex
+
+title: A Generative Approach to Visualizing Satellite Data.
+authors: Saptashwa Mitra, Daniel Rammer, Shrideep Pallickara, Sangmi Lee Pallickara
+venue: CLUSTER
+year: 2021
+doi: 10.1109/CLUSTER48925.2021.00079
+url: https://doi.org/10.1109/Cluster48925.2021.00079
+bibtex: https://dblp.org/rec/conf/cluster/MitraRPP21?view=bibtex
+
+title: SIPSA-Net: Shift-Invariant Pan Sharpening With Moving Object Alignment for Satellite Imagery.
+authors: Jaehyup Lee, Soomin Seo, Munchurl Kim
+venue: CVPR
+year: 2021
+doi: 10.1109/CVPR46437.2021.01003
+url: https://openaccess.thecvf.com/content/CVPR2021/html/Lee_SIPSA-Net_Shift-Invariant_Pan_Sharpening_With_Moving_Object_Alignment_for_Satellite_CVPR_2021_paper.html
+bibtex: https://dblp.org/rec/conf/cvpr/LeeSK21?view=bibtex
+
+title: Coming Down to Earth: Satellite-to-Street View Synthesis for Geo-Localization.
+authors: Aysim Toker, Qunjie Zhou, Maxim Maximov, Laura Leal-Taixé
+venue: CVPR
+year: 2021
+doi: 10.1109/CVPR46437.2021.00642
+url: https://openaccess.thecvf.com/content/CVPR2021/html/Toker_Coming_Down_to_Earth_Satellite-to-Street_View_Synthesis_for_Geo-Localization_CVPR_2021_paper.html
+bibtex: https://dblp.org/rec/conf/cvpr/TokerZML21?view=bibtex
+
+title: Software defined radio applications - receiving and decoding images transmitted by weather satellites.
+authors: Iulian Georgescu, Nicoleta Angelescu, Dan-Constantin Puchianu, Gabriel Predusca, Liana-Denisa Circiumarescu
+venue: ECAI
+year: 2021
+doi: 10.1109/ECAI52376.2021.9515169
+url: https://doi.org/10.1109/ECAI52376.2021.9515169
+bibtex: https://dblp.org/rec/conf/ecai2/GeorgescuAPPC21?view=bibtex
+
+title: Rational Polynomial Camera Model Warping for Deep Learning Based Satellite Multi-View Stereo Matching.
+authors: Jian Gao, Jin Liu, Shunping Ji
+venue: ICCV
+year: 2021
+doi: 10.1109/ICCV48922.2021.00609
+url: https://doi.org/10.1109/ICCV48922.2021.00609
+bibtex: https://dblp.org/rec/conf/iccv/GaoLJ21?view=bibtex
+
+title: Panoptic Segmentation of Satellite Image Time Series with Convolutional Temporal Attention Networks.
+authors: Vivien Sainte Fare Garnot, Loïc Landrieu
+venue: ICCV
+year: 2021
+doi: 10.1109/ICCV48922.2021.00483
+url: https://doi.org/10.1109/ICCV48922.2021.00483
+bibtex: https://dblp.org/rec/conf/iccv/GarnotL21?view=bibtex
+
+title: Inferring high-resolution traffic accident risk maps based on satellite imagery and GPS trajectories.
+authors: Songtao He, Mohammad Amin Sadeghi, Sanjay Chawla, Mohammad Alizadeh, Hari Balakrishnan, Samuel Madden 0001
+venue: ICCV
+year: 2021
+doi: 10.1109/ICCV48922.2021.01176
+url: https://doi.org/10.1109/ICCV48922.2021.01176
+bibtex: https://dblp.org/rec/conf/iccv/HeSCABM21?view=bibtex
+
+title: Sat2Vid: Street-view Panoramic Video Synthesis from a Single Satellite Image.
+authors: Zuoyue Li, Zhenqiang Li, Zhaopeng Cui, Rongjun Qin, Marc Pollefeys, Martin R. Oswald
+venue: ICCV
+year: 2021
+doi: 10.1109/ICCV48922.2021.01221
+url: https://doi.org/10.1109/ICCV48922.2021.01221
+bibtex: https://dblp.org/rec/conf/iccv/LiLCQPO21?view=bibtex
+
+title: A Refined Dijkstra&apos;s Algorithm with Stable Route Generation for Topology-Varying Satellite Networks.
+authors: Zhengjie Luo, Tian Pan 0001, Enge Song, Houtian Wang, Wenhao Xue, Tao Huang 0005, Yunjie Liu 0001
+venue: ICDCS
+year: 2021
+doi: 10.1109/ICDCS51616.2021.00129
+url: https://doi.org/10.1109/ICDCS51616.2021.00129
+bibtex: https://dblp.org/rec/conf/icdcs/LuoPSWXHL21?view=bibtex
+
+title: Cooperatively Constructing Cost-Effective Content Distribution Networks upon Emerging Low Earth Orbit Satellites and Clouds.
+authors: Zeqi Lai, Hewu Li, Qi Zhang, Qian Wu, Jianping Wu
+venue: ICNP
+year: 2021
+doi: 10.1109/ICNP52444.2021.9651950
+url: https://doi.org/10.1109/ICNP52444.2021.9651950
+bibtex: https://dblp.org/rec/conf/icnp/LaiLZWW21?view=bibtex
+
+title: Mobility- and Load-Adaptive Controller Placement and Assignment in LEO Satellite Networks.
+authors: Long Chen 0025, Feilong Tang, Xu Li 0012
+venue: INFOCOM
+year: 2021
+doi: 10.1109/INFOCOM42981.2021.9488806
+url: https://doi.org/10.1109/INFOCOM42981.2021.9488806
+bibtex: https://dblp.org/rec/conf/infocom/ChenT021?view=bibtex
+
+title: Satellite image classification methods and techniques: A survey.
+authors: Hafsa Ouchra, Abdessamad Belangour
+venue: IST
+year: 2021
+doi: 10.1109/IST50367.2021.9651454
+url: https://doi.org/10.1109/IST50367.2021.9651454
+bibtex: https://dblp.org/rec/conf/ist/OuchraB21?view=bibtex
+
+title: A community-driven approach to democratize access to satellite ground stations.
+authors: Vaibhav Singh, Akarsh Prabhakara, Diana Zhang, Osman Yagan, Swarun Kumar
+venue: MobiCom
+year: 2021
+doi: 10.1145/3447993.3448630
+url: https://doi.org/10.1145/3447993.3448630
+bibtex: https://dblp.org/rec/conf/mobicom/SinghPZYK21?view=bibtex
+
+title: SOS: isolated health monitoring system to save our satellites.
+authors: Sujay Narayana, R. Venkatesha Prasad, T. Venkata Prabhakar
+venue: MobiSys
+year: 2021
+doi: 10.1145/3458864.3466862
+url: https://doi.org/10.1145/3458864.3466862
+bibtex: https://dblp.org/rec/conf/mobisys/NarayanaPP21?view=bibtex
+
+title: Spatial-Temporal Super-Resolution of Satellite Imagery via Conditional Pixel Synthesis.
+authors: Yutong He, Dingjie Wang, Nicholas Lai, William Zhang, Chenlin Meng, Marshall Burke, David B. Lobell, Stefano Ermon
+venue: NeurIPS
+year: 2021
+url: https://proceedings.neurips.cc/paper/2021/hash/ead81fe8cfe9fda9e4c2093e17e4d024-Abstract.html
+bibtex: https://dblp.org/rec/conf/nips/HeWLZMBLE21?view=bibtex
+
+title: L2D2: low latency distributed downlink for LEO satellites.
+authors: Deepak Vasisht, Jayanth Shenoy, Ranveer Chandra
+venue: SIGCOMM
+year: 2021
+doi: 10.1145/3452296.3472932
+url: https://doi.org/10.1145/3452296.3472932
+bibtex: https://dblp.org/rec/conf/sigcomm/VasishtSC21?view=bibtex
+
+title: CloudFindr: A Deep Learning Cloud Artifact Masker for Satellite DEM Data.
+authors: Kalina Borkiewicz, Viraj Shah, Jill P. Naiman, Chuanyue Shen, Stuart Levy, Jeff Carpenter
+venue: IEEE VIS
+year: 2021
+doi: 10.1109/VIS49827.2021.9623327
+url: https://doi.org/10.1109/VIS49827.2021.9623327
+bibtex: https://dblp.org/rec/conf/visualization/BorkiewiczSNSLC21?view=bibtex
+

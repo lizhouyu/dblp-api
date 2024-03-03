@@ -8,7 +8,7 @@ parser.add_argument("-q", "--query", help="query string", type=str, default="mac
 # the years list, can be assigned with -y or --years
 parser.add_argument("-y", "--years", help="year list", nargs='+', default=["2023"])
 # the ccf class list, can be assigned with -c or --ccfs
-parser.add_argument("-c", "--ccfs", help="ccf class list", type=list, default=["A"])
+parser.add_argument("-c", "--ccfs", help="ccf class list", nargs='+', default=["A"])
 args = parser.parse_args()
 
 query = args.query

@@ -1,0 +1,343 @@
+title: Sleuth: A Trace-Based Root Cause Analysis System for Large-Scale Microservices with Graph Neural Networks.
+authors: Yu Gan, Guiyang Liu, Xin Zhang, Qi Zhou, Jiesheng Wu, Jiangwei Jiang
+venue: ASPLOS
+year: 2023
+doi: 10.1145/3623278.3624758
+url: https://doi.org/10.1145/3623278.3624758
+bibtex: https://dblp.org/rec/conf/asplos/GanLZZWJ23?view=bibtex
+
+title: ShapleyIQ: Influence Quantification by Shapley Values for Performance Debugging of Microservices.
+authors: Ye Li, Jian Tan, Bin Wu 0003, Xiao He 0007, Feifei Li 0001
+venue: ASPLOS
+year: 2023
+doi: 10.1145/3623278.3624771
+url: https://doi.org/10.1145/3623278.3624771
+bibtex: https://dblp.org/rec/conf/asplos/LiT00023?view=bibtex
+
+title: Erms: Efficient Resource Management for Shared Microservices with SLA Guarantees.
+authors: Shutian Luo, Huanle Xu, Kejiang Ye, Guoyao Xu, Liping Zhang, Jian He, Guodong Yang, Chengzhong Xu 0001
+venue: ASPLOS
+year: 2023
+doi: 10.1145/3567955.3567964
+url: https://doi.org/10.1145/3567955.3567964
+bibtex: https://dblp.org/rec/conf/asplos/LuoXYXZHY023?view=bibtex
+
+title: Handling Communication via APIs for Microservices.
+authors: Vini Kanvar, Ridhi Jain, Srikanth Tamilselvam
+venue: ICSE
+year: 2023
+doi: 10.1109/ICSE-NIER58687.2023.00013
+url: https://doi.org/10.1109/ICSE-NIER58687.2023.00013
+bibtex: https://dblp.org/rec/conf/icse/KanvarJT23?view=bibtex
+
+title: Eadro: An End-to-End Troubleshooting Framework for Microservices on Multi-source Data.
+authors: Cheryl Lee, Tianyi Yang, Zhuangbin Chen, Yuxin Su 0001, Michael R. Lyu
+venue: ICSE
+year: 2023
+doi: 10.1109/ICSE48619.2023.00150
+url: https://doi.org/10.1109/ICSE48619.2023.00150
+bibtex: https://dblp.org/rec/conf/icse/LeeYCSL23?view=bibtex
+
+title: MirrorTaint: Practical Non-intrusive Dynamic Taint Tracking for JVM-based Microservice Systems.
+authors: Yicheng Ouyang, Kailai Shao, Kunqiu Chen, Ruobing Shen, Chao Chen, Mingze Xu, Yuqun Zhang, Lingming Zhang 0001
+venue: ICSE
+year: 2023
+doi: 10.1109/ICSE48619.2023.00210
+url: https://doi.org/10.1109/ICSE48619.2023.00210
+bibtex: https://dblp.org/rec/conf/icse/OuyangSCSCXZZ23?view=bibtex
+
+title: LOPO: An Out-of-order Layer Pulling Orchestration Strategy for Fast Microservice Startup.
+authors: Lin Gu 0002, Junhao Huang, Shaoxing Huang, Deze Zeng, Bo Li 0001, Hai Jin 0001
+venue: INFOCOM
+year: 2023
+doi: 10.1109/INFOCOM53939.2023.10229072
+url: https://doi.org/10.1109/INFOCOM53939.2023.10229072
+bibtex: https://dblp.org/rec/conf/infocom/GuHHZLJ23?view=bibtex
+
+title: Layered Structure Aware Dependent Microservice Placement Toward Cost Efficient Edge Clouds.
+authors: Deze Zeng, Hongmin Geng, Lin Gu 0002, Zhexiong Li
+venue: INFOCOM
+year: 2023
+doi: 10.1109/INFOCOM53939.2023.10229030
+url: https://doi.org/10.1109/INFOCOM53939.2023.10229030
+bibtex: https://dblp.org/rec/conf/infocom/ZengGGL23?view=bibtex
+
+title: Twin Graph-Based Anomaly Detection via Attentive Multi-Modal Learning for Microservice System.
+authors: Jun Huang 0003, Yang Yang, Hang Yu, Jianguo Li, Xiao Zheng
+venue: ASE
+year: 2023
+doi: 10.1109/ASE56229.2023.00138
+url: https://doi.org/10.1109/ASE56229.2023.00138
+bibtex: https://dblp.org/rec/conf/kbse/HuangYYLZ23?view=bibtex
+
+title: DeepScaler: Holistic Autoscaling for Microservices Based on Spatiotemporal GNN with Adaptive Graph Learning.
+authors: Chunyang Meng, Shijie Song, Haogang Tong, Maolin Pan, Yang Yu 0027
+venue: ASE
+year: 2023
+doi: 10.1109/ASE56229.2023.00038
+url: https://doi.org/10.1109/ASE56229.2023.00038
+bibtex: https://dblp.org/rec/conf/kbse/MengSTPY23?view=bibtex
+
+title: Zero-Config Fuzzing for Microservices.
+authors: Wei Wang, Andrei Benea, Franjo Ivancic
+venue: ASE
+year: 2023
+doi: 10.1109/ASE56229.2023.00036
+url: https://doi.org/10.1109/ASE56229.2023.00036
+bibtex: https://dblp.org/rec/conf/kbse/WangBI23?view=bibtex
+
+title: Nimble: QoS-Aware Resource Management for Edge-Assisted Microservice Environments.
+authors: @pid, text
+venue: MobiCom
+year: 2023
+doi: 10.1145/3570361.3615738
+url: https://doi.org/10.1145/3570361.3615738
+bibtex: https://dblp.org/rec/conf/mobicom/000123?view=bibtex
+
+title: Demonstrating Liability and Trust Metrics for Multi-Actor, Dynamic Edge and Cloud Microservices.
+authors: Yacine Anser, Chrystel Gaber, Romain Cajeat, Jean-Philippe Wary, Samia Bouzefrane 0001, Méziane Yacoub, Onur Kalinagac, Gürkan Gür
+venue: MobiCom
+year: 2023
+doi: 10.1145/3570361.3614086
+url: https://doi.org/10.1145/3570361.3614086
+bibtex: https://dblp.org/rec/conf/mobicom/AnserGCW0YKG23?view=bibtex
+
+title: Network-Centric Distributed Tracing with DeepFlow: Troubleshooting Your Microservices in Zero Code.
+authors: Junxian Shen, Han Zhang 0009, Yang Xiang, Xingang Shi, Xinrui Li, Yunxi Shen, Zijian Zhang, Yongxiang Wu, Xia Yin, Jilong Wang 0001, Mingwei Xu, Yahui Li, Jiping Yin, Jianchang Song, Zhuofeng Li, Runjie Nie
+venue: SIGCOMM
+year: 2023
+doi: 10.1145/3603269.3604823
+url: https://doi.org/10.1145/3603269.3604823
+bibtex: https://dblp.org/rec/conf/sigcomm/ShenZXSLSZWY0XL23?view=bibtex
+
+title: Blueprint: A Toolchain for Highly-Reconfigurable Microservice Applications.
+authors: Vaastav Anand, Deepak Garg 0001, Antoine Kaufmann, Jonathan Mace
+venue: SOSP
+year: 2023
+doi: 10.1145/3600006.3613138
+url: https://doi.org/10.1145/3600006.3613138
+bibtex: https://dblp.org/rec/conf/sosp/Anand0KM23?view=bibtex
+
+title: CausIL: Causal Graph for Instance Level Microservice Data.
+authors: Sarthak Chakraborty, Shaddy Garg, Shubham Agarwal, Ayush Chauhan, Shiv Kumar Saini
+venue: WWW
+year: 2023
+doi: 10.1145/3543507.3583274
+url: https://doi.org/10.1145/3543507.3583274
+bibtex: https://dblp.org/rec/conf/www/ChakrabortyGACS23?view=bibtex
+
+title: KAE-Informer: A Knowledge Auto-Embedding Informer for Forecasting Long-Term Workloads of Microservices.
+authors: Qin Hua, Dingyu Yang, Shiyou Qian, Hanwen Hu, Jian Cao 0001, Guangtao Xue
+venue: WWW
+year: 2023
+doi: 10.1145/3543507.3583288
+url: https://doi.org/10.1145/3543507.3583288
+bibtex: https://dblp.org/rec/conf/www/HuaYQH0X23?view=bibtex
+
+title: Look Deep into the Microservice System Anomaly through Very Sparse Logs.
+authors: Xinrui Jiang, Yicheng Pan 0002, Meng Ma, Ping Wang 0003
+venue: WWW
+year: 2023
+doi: 10.1145/3543507.3583338
+url: https://doi.org/10.1145/3543507.3583338
+bibtex: https://dblp.org/rec/conf/www/Jiang0M023?view=bibtex
+
+title: Unsupervised Anomaly Detection on Microservice Traces through Graph VAE.
+authors: Zhe Xie, Haowen Xu, Wenxiao Chen, Wanxue Li, Huai Jiang, Liangfei Su, Hanzhang Wang, Dan Pei
+venue: WWW
+year: 2023
+doi: 10.1145/3543507.3583215
+url: https://doi.org/10.1145/3543507.3583215
+bibtex: https://dblp.org/rec/conf/www/XieXCLJSWP23?view=bibtex
+
+title: Automatic Anti-Pattern Detection in Microservice Architectures Based on Distributed Tracing.
+authors: Tim Hübener, Michel R. V. Chaudron, Yaping Luo, Pieter Vallen, Jonck van der Kogel, Tom Liefheid
+venue: ICSE
+year: 2022
+doi: 10.1109/ICSE-SEIP55303.2022.9794000
+url: https://doi.org/10.1109/ICSE-SEIP55303.2022.9794000
+bibtex: https://dblp.org/rec/conf/icse/HubenerCLVKL22?view=bibtex
+
+title: Record and Replay of Online Traffic for Microservices with Automatic Mocking Point Identification.
+authors: Jiangchao Liu, Jierui Liu, Peng Di, Alex X. Liu, Zexin Zhong
+venue: ICSE
+year: 2022
+doi: 10.1109/ICSE-SEIP55303.2022.9793867
+url: https://doi.org/10.1109/ICSE-SEIP55303.2022.9793867
+bibtex: https://dblp.org/rec/conf/icse/LiuLDLZ22?view=bibtex
+
+title: Case for Microservices Orchestration Using Workflow Engines.
+authors: Anas Nadeem, Muhammad Zubair Malik
+venue: ICSE
+year: 2022
+doi: 10.1109/ICSE-NIER55298.2022.9793520
+url: https://doi.org/10.1109/ICSE-NIER55298.2022.9793520
+bibtex: https://dblp.org/rec/conf/icse/NadeemM22?view=bibtex
+
+title: Decision Models for Selecting Patterns and Strategies in Microservices Systems and their Evaluation by Practitioners.
+authors: Muhammad Waseem, Peng Liang 0001, Aakash Ahmad, Mojtaba Shahin, Arif Ali Khan, Gastón Márquez
+venue: ICSE
+year: 2022
+doi: 10.1109/ICSE-SEIP55303.2022.9793911
+url: https://doi.org/10.1109/ICSE-SEIP55303.2022.9793911
+bibtex: https://dblp.org/rec/conf/icse/WaseemLASKM22?view=bibtex
+
+title: DeepTraLog: Trace-Log Combined Microservice Anomaly Detection through Graph-based Deep Learning.
+authors: Chenxi Zhang, Xin Peng 0001, Chaofeng Sha, Ke Zhang, Zhenqing Fu, Xiya Wu, Qingwei Lin, Dongmei Zhang 0001
+venue: ICSE
+year: 2022
+doi: 10.1145/3510003.3510180
+url: https://doi.org/10.1145/3510003.3510180
+bibtex: https://dblp.org/rec/conf/icse/Zhang0SZFWL022?view=bibtex
+
+title: Field-Based Static Taint Analysis for Industrial Microservices.
+authors: Zexin Zhong, Jiangchao Liu, Diyu Wu, Peng Di, Yulei Sui, Alex X. Liu
+venue: ICSE
+year: 2022
+doi: 10.1109/ICSE-SEIP55303.2022.9794096
+url: https://doi.org/10.1109/ICSE-SEIP55303.2022.9794096
+bibtex: https://dblp.org/rec/conf/icse/ZhongLWDSL22?view=bibtex
+
+title: A Cross-Company Ethnographic Study on Software Teams for DevOps and Microservices: Organization, Benefits, and Issues.
+authors: Xin Zhou, Huang Huang, He Zhang 0001, Xin Huang 0019, Dong Shao, Chenxing Zhong
+venue: ICSE
+year: 2022
+doi: 10.1109/ICSE-SEIP55303.2022.9794010
+url: https://doi.org/10.1109/ICSE-SEIP55303.2022.9794010
+bibtex: https://dblp.org/rec/conf/icse/ZhouHZHSZ22?view=bibtex
+
+title: Monolith to Microservices: Representing Application Software through Heterogeneous Graph Neural Network.
+authors: Alex Mathai, Sambaran Bandyopadhyay, Utkarsh Desai, Srikanth Tamilselvam
+venue: IJCAI
+year: 2022
+doi: 10.24963/IJCAI.2022/542
+url: https://doi.org/10.24963/ijcai.2022/542
+bibtex: https://dblp.org/rec/conf/ijcai/MathaiBDT22?view=bibtex
+
+title: Layer-aware Collaborative Microservice Deployment toward Maximal Edge Throughput.
+authors: Lin Gu 0002, Zirui Chen, Honghao Xu, Deze Zeng, Bo Li 0001, Hai Jin 0001
+venue: INFOCOM
+year: 2022
+doi: 10.1109/INFOCOM48880.2022.9796670
+url: https://doi.org/10.1109/INFOCOM48880.2022.9796670
+bibtex: https://dblp.org/rec/conf/infocom/GuCXZLJ22?view=bibtex
+
+title: CARGO: AI-Guided Dependency Analysis for Migrating Monolithic Applications to Microservices Architecture.
+authors: Vikram Nitin, Shubhi Asthana, Baishakhi Ray, Rahul Krishna
+venue: ASE
+year: 2022
+doi: 10.1145/3551349.3556960
+url: https://doi.org/10.1145/3551349.3556960
+bibtex: https://dblp.org/rec/conf/kbse/NitinARK22?view=bibtex
+
+title: SIMR: Single Instruction Multiple Request Processing for Energy-Efficient Data Center Microservices.
+authors: Mahmoud Khairy, Ahmad Alawneh, Aaron Barnes, Timothy G. Rogers
+venue: MICRO
+year: 2022
+doi: 10.1109/MICRO56248.2022.00040
+url: https://doi.org/10.1109/MICRO56248.2022.00040
+bibtex: https://dblp.org/rec/conf/micro/KhairyABR22?view=bibtex
+
+title: Root Cause Analysis of Failures in Microservices through Causal Discovery.
+authors: Azam Ikram, Sarthak Chakraborty, Subrata Mitra, Shiv Kumar Saini, Saurabh Bagchi, Murat Kocaoglu
+venue: NeurIPS
+year: 2022
+url: http://papers.nips.cc/paper_files/paper/2022/hash/c9fcd02e6445c7dfbad6986abee53d0d-Abstract-Conference.html
+bibtex: https://dblp.org/rec/conf/nips/IkramCMSBK22?view=bibtex
+
+title: Sage: practical and scalable ML-driven performance debugging in microservices.
+authors: Yu Gan 0002, Mingyu Liang, Sundar Dev, David Lo 0003, Christina Delimitrou
+venue: ASPLOS
+year: 2021
+doi: 10.1145/3445814.3446700
+url: https://doi.org/10.1145/3445814.3446700
+bibtex: https://dblp.org/rec/conf/asplos/0002LD0D21?view=bibtex
+
+title: Nightcore: efficient and scalable serverless computing for latency-sensitive, interactive microservices.
+authors: Zhipeng Jia, Emmett Witchel
+venue: ASPLOS
+year: 2021
+doi: 10.1145/3445814.3446701
+url: https://doi.org/10.1145/3445814.3446701
+bibtex: https://dblp.org/rec/conf/asplos/JiaW21?view=bibtex
+
+title: Dagger: efficient and fast RPCs in cloud microservices with near-memory reconfigurable NICs.
+authors: Nikita Lazarev, Shaojie Xiang, Neil Adit, Zhiru Zhang, Christina Delimitrou
+venue: ASPLOS
+year: 2021
+doi: 10.1145/3445814.3446696
+url: https://doi.org/10.1145/3445814.3446696
+bibtex: https://dblp.org/rec/conf/asplos/LazarevXAZD21?view=bibtex
+
+title: Sinan: ML-based and QoS-aware resource management for cloud microservices.
+authors: Yanqi Zhang, Weizhe Hua, Zhuangzhuang Zhou, G. Edward Suh, Christina Delimitrou
+venue: ASPLOS
+year: 2021
+doi: 10.1145/3445814.3446693
+url: https://doi.org/10.1145/3445814.3446693
+bibtex: https://dblp.org/rec/conf/asplos/ZhangHZSD21?view=bibtex
+
+title: Microservice-Based Performance Problem Detection in Cyber-Physical System Software Updates.
+authors: @pid, text
+venue: ICSE
+year: 2021
+doi: 10.1109/ICSE-COMPANION52605.2021.00062
+url: https://doi.org/10.1109/ICSE-Companion52605.2021.00062
+bibtex: https://dblp.org/rec/conf/icse/Gartziandia21?view=bibtex
+
+title: MicroHECL: High-Efficient Root Cause Localization in Large-Scale Microservice Systems.
+authors: Dewei Liu, Chuan He, Xin Peng 0001, Fan Lin, Chenxi Zhang, Shengfang Gong, Ziang Li, Jiayu Ou, Zheshun Wu
+venue: ICSE
+year: 2021
+doi: 10.1109/ICSE-SEIP52600.2021.00043
+url: https://doi.org/10.1109/ICSE-SEIP52600.2021.00043
+bibtex: https://dblp.org/rec/conf/icse/LiuH0LZGLOW21?view=bibtex
+
+title: Layer Aware Microservice Placement and Request Scheduling at the Edge.
+authors: Lin Gu 0002, Deze Zeng, Jie Hu, Bo Li 0001, Hai Jin 0001
+venue: INFOCOM
+year: 2021
+doi: 10.1109/INFOCOM42981.2021.9488779
+url: https://doi.org/10.1109/INFOCOM42981.2021.9488779
+bibtex: https://dblp.org/rec/conf/infocom/0002ZHL021?view=bibtex
+
+title: Exploring Layered Container Structure for Cost Efficient Microservice Deployment.
+authors: Lin Gu 0002, Deze Zeng, Jie Hu, Hai Jin 0001, Song Guo 0001, Albert Y. Zomaya
+venue: INFOCOM
+year: 2021
+doi: 10.1109/INFOCOM42981.2021.9488918
+url: https://doi.org/10.1109/INFOCOM42981.2021.9488918
+bibtex: https://dblp.org/rec/conf/infocom/GuZH00Z21?view=bibtex
+
+title: Faster, deeper, easier: crowdsourcing diagnosis of microservice kernel failure from user space.
+authors: Yicheng Pan 0002, Meng Ma, Xinrui Jiang, Ping Wang 0003
+venue: ISSTA
+year: 2021
+doi: 10.1145/3460319.3464805
+url: https://doi.org/10.1145/3460319.3464805
+bibtex: https://dblp.org/rec/conf/issta/PanMJW21?view=bibtex
+
+title: Using Static Analysis to Address Microservice Architecture Reconstruction.
+authors: Vincent Bushong, Dipta Das, Abdullah Al Maruf, Tomás Cerný
+venue: ASE
+year: 2021
+doi: 10.1109/ASE51524.2021.9678749
+url: https://doi.org/10.1109/ASE51524.2021.9678749
+bibtex: https://dblp.org/rec/conf/kbse/BushongDMC21?view=bibtex
+
+title: Lessons learned from hyper-parameter tuning for microservice candidate identification.
+authors: Rahul Yedida, Rahul Krishna, Anup K. Kalia, Tim Menzies, Jin Xiao, Maja Vukovic
+venue: ASE
+year: 2021
+doi: 10.1109/ASE51524.2021.9678704
+url: https://doi.org/10.1109/ASE51524.2021.9678704
+bibtex: https://dblp.org/rec/conf/kbse/YedidaKKMXV21?view=bibtex
+
+title: MicroRank: End-to-End Latency Issue Localization with Extended Spectrum Analysis in Microservice Environments.
+authors: Guangba Yu, Pengfei Chen 0002, Hongyang Chen, Zijie Guan, Zicheng Huang, Linxiao Jing, Tianjun Weng, Xinmeng Sun, Xiaoyun Li
+venue: WWW
+year: 2021
+doi: 10.1145/3442381.3449905
+url: https://doi.org/10.1145/3442381.3449905
+bibtex: https://dblp.org/rec/conf/www/YuCCGHJWSL21?view=bibtex
+

@@ -1,0 +1,1005 @@
+title: Caveat (IoT) Emptor: Towards Transparency of IoT Device Presence.
+authors: Sashidhar Jakkamsetti, Youngil Kim, Gene Tsudik
+venue: CCS
+year: 2023
+doi: 10.1145/3576915.3623089
+url: https://doi.org/10.1145/3576915.3623089
+bibtex: https://dblp.org/rec/conf/ccs/JakkamsettiKT23?view=bibtex
+
+title: IoTFlow: Inferring IoT Device Behavior at Scale through Static Mobile Companion App Analysis.
+authors: David Schmidt, Carlotta Tagliaro, Kevin Borgolte, Martina Lindorfer
+venue: CCS
+year: 2023
+doi: 10.1145/3576915.3623211
+url: https://doi.org/10.1145/3576915.3623211
+bibtex: https://dblp.org/rec/conf/ccs/SchmidtTBL23?view=bibtex
+
+title: Detect-IoT: A Comparative Analysis of Machine Learning Algorithms for Detecting Compromised IoT Devices.
+authors: Yuba Raj Siwakoti, Danda B. Rawat
+venue: MobiHoc
+year: 2023
+doi: 10.1145/3565287.3616529
+url: https://doi.org/10.1145/3565287.3616529
+bibtex: https://dblp.org/rec/conf/mobihoc/SiwakotiR23?view=bibtex
+
+title: IoTMoF: A Requirements-Driven Modelling Framework for IoT Systems.
+authors: Paul Boutot, Sadaf Mustafiz
+venue: MoDELS
+year: 2023
+doi: 10.1109/MODELS-C59198.2023.00059
+url: https://doi.org/10.1109/MODELS-C59198.2023.00059
+bibtex: https://dblp.org/rec/conf/models/BoutotM23?view=bibtex
+
+title: IoT Phantom-Delay Attacks: Demystifying and Exploiting IoT Timeout Behaviors.
+authors: Chenglong Fu 0002, Qiang Zeng 0001, Haotian Chi, Xiaojiang Du, Siva Likitha Valluru
+venue: DSN
+year: 2022
+doi: 10.1109/DSN53405.2022.00050
+url: https://doi.org/10.1109/DSN53405.2022.00050
+bibtex: https://dblp.org/rec/conf/dsn/FuZCDV22?view=bibtex
+
+title: IoTPrivComp: A Measurement Study of Privacy Compliance in IoT Apps.
+authors: Javaria Ahmad, Fengjun Li, Bo Luo
+venue: ESORICS
+year: 2022
+doi: 10.1007/978-3-031-17146-8_29
+url: https://doi.org/10.1007/978-3-031-17146-8_29
+bibtex: https://dblp.org/rec/conf/esorics/AhmadLL22?view=bibtex
+
+title: What Makes IoT Secure? A Maturity Analysis of Industrial Product Manufacturers&apos; Approaches to IoT Security.
+authors: @pid, text
+venue: HCI
+year: 2022
+doi: 10.1007/978-3-031-05563-8_25
+url: https://doi.org/10.1007/978-3-031-05563-8_25
+bibtex: https://dblp.org/rec/conf/hci/Nielsen22?view=bibtex
+
+title: IoTMosaic: Inferring User Activities from IoT Network Traffic in Smart Homes.
+authors: Yinxin Wan, Kuai Xu, Feng Wang 0002, Guoliang Xue
+venue: INFOCOM
+year: 2022
+doi: 10.1109/INFOCOM48880.2022.9796908
+url: https://doi.org/10.1109/INFOCOM48880.2022.9796908
+bibtex: https://dblp.org/rec/conf/infocom/WanXWX22?view=bibtex
+
+title: Mobile IoT-RoadBot: an AI-powered mobile IoT solution for real-time roadside asset management.
+authors: Abdur Rahim Mohammad Forkan, Yong-Bin Kang, Felip Martí Carrillo, Shane Joachim, Abhik Banerjee, Josip Karabotic Milovac, Prem Prakash Jayaraman, Chris McCarthy, Hadi Ghaderi, Dimitrios Georgakopoulos
+venue: MobiCom
+year: 2022
+doi: 10.1145/3495243.3558271
+url: https://doi.org/10.1145/3495243.3558271
+bibtex: https://dblp.org/rec/conf/mobicom/ForkanKCJBMJMGG22?view=bibtex
+
+title: IoTSafe: Enforcing Safety and Security Policy with Real IoT Physical Interaction Discovery.
+authors: Wenbo Ding, Hongxin Hu, Long Cheng 0005
+venue: NDSS
+year: 2021
+url: https://www.ndss-symposium.org/ndss-paper/iotsafe-enforcing-safety-and-security-policy-with-real-iot-physical-interaction-discovery/
+bibtex: https://dblp.org/rec/conf/ndss/DingH021?view=bibtex
+
+title: A Dataset and Baseline Approach for Identifying Usage States from Non-intrusive Power Sensing with MiDAS IoT-Based Sensors.
+authors: Bharath Muppasani, Cheyyur Jaya Anand, Chinmayi Appajigowda, Biplav Srivastava, Lokesh Johri
+venue: AAAI
+year: 2023
+doi: 10.1609/AAAI.V37I13.26843
+url: https://doi.org/10.1609/aaai.v37i13.26843
+bibtex: https://dblp.org/rec/conf/aaai/MuppasaniAASJ23?view=bibtex
+
+title: Federated Generative Model on Multi-Source Heterogeneous Data in IoT.
+authors: Zuobin Xiong, Wei Li 0059, Zhipeng Cai 0001
+venue: AAAI
+year: 2023
+doi: 10.1609/AAAI.V37I9.26252
+url: https://doi.org/10.1609/aaai.v37i9.26252
+bibtex: https://dblp.org/rec/conf/aaai/Xiong0023?view=bibtex
+
+title: A Tagging Solution to Discover IoT Devices in Apartments.
+authors: Berkay Kaplan, Israel J. Lopez-Toledo, Carl A. Gunter, Jingyu Qian
+venue: ACSAC
+year: 2023
+doi: 10.1145/3627106.3627108
+url: https://doi.org/10.1145/3627106.3627108
+bibtex: https://dblp.org/rec/conf/acsac/KaplanLGQ23?view=bibtex
+
+title: Unleashing IoT Security: Assessing the Effectiveness of Best Practices in Protecting Against Threats.
+authors: Philipp Pütz, Richard Mitev, Markus Miettinen, Ahmad-Reza Sadeghi
+venue: ACSAC
+year: 2023
+doi: 10.1145/3627106.3627133
+url: https://doi.org/10.1145/3627106.3627133
+bibtex: https://dblp.org/rec/conf/acsac/PutzMMS23?view=bibtex
+
+title: FITS: Inferring Intermediate Taint Sources for Effective Vulnerability Analysis of IoT Device Firmware.
+authors: Puzhuo Liu, Yaowen Zheng, Chengnian Sun, Chuan Qin, Dongliang Fang, Mingdong Liu, Limin Sun
+venue: ASPLOS
+year: 2023
+doi: 10.1145/3623278.3624759
+url: https://doi.org/10.1145/3623278.3624759
+bibtex: https://dblp.org/rec/conf/asplos/LiuZSQFLS23?view=bibtex
+
+title: LEGO: Empowering Chip-Level Functionality Plug-and-Play for Next-Generation IoT Devices.
+authors: Chong Zhang, Songfan Li, Yihang Song, Qianhe Meng, Minghua Chen, Yanxu Bai, Li Lu 0001, Hongzi Zhu
+venue: ASPLOS
+year: 2023
+doi: 10.1145/3582016.3582050
+url: https://doi.org/10.1145/3582016.3582050
+bibtex: https://dblp.org/rec/conf/asplos/ZhangLSMCB0Z23?view=bibtex
+
+title: Modeling Context-Aware Events and Responses in an IoT Environment.
+authors: Marc Vila 0001, Maria-Ribera Sancho, Ernest Teniente
+venue: CAiSE
+year: 2023
+doi: 10.1007/978-3-031-34560-9_5
+url: https://doi.org/10.1007/978-3-031-34560-9_5
+bibtex: https://dblp.org/rec/conf/caise/VilaST23?view=bibtex
+
+title: Automated Analyses of IOT Event Monitoring Systems.
+authors: Andrew Apicelli, Sam Bayless, Ankush Das, Andrew Gacek, Dhiva Jaganathan, Saswat Padhi, Vaibhav Sharma 0001, Michael W. Whalen, Raveesh Yadav
+venue: CAV
+year: 2023
+doi: 10.1007/978-3-031-37706-8_2
+url: https://doi.org/10.1007/978-3-031-37706-8_2
+bibtex: https://dblp.org/rec/conf/cav/ApicelliBDGJPSWY23?view=bibtex
+
+title: CPSIoTSec&apos;23: Fifth Workshop on CPS &amp; IoT Security and Privacy.
+authors: Magnus Almgren, Earlence Fernandes
+venue: CCS
+year: 2023
+doi: 10.1145/3576915.3624020
+url: https://doi.org/10.1145/3576915.3624020
+bibtex: https://dblp.org/rec/conf/ccs/AlmgrenF23?view=bibtex
+
+title: Let&apos;s Go Eevee! A Friendly and Suitable Family of AEAD Modes for IoT-to-Cloud Secure Computation.
+authors: Amit Singh Bhati, Erik Pohle, Aysajan Abidin, Elena Andreeva 0001, Bart Preneel
+venue: CCS
+year: 2023
+doi: 10.1145/3576915.3623091
+url: https://doi.org/10.1145/3576915.3623091
+bibtex: https://dblp.org/rec/conf/ccs/BhatiPA0P23?view=bibtex
+
+title: Poster: Combining Fuzzing with Concolic Execution for IoT Firmware Testing.
+authors: Jihyeon Yu, Juhwan Kim, Yeohoon Yun, Joobeom Yun
+venue: CCS
+year: 2023
+doi: 10.1145/3576915.3624373
+url: https://doi.org/10.1145/3576915.3624373
+bibtex: https://dblp.org/rec/conf/ccs/YuKYY23?view=bibtex
+
+title: Understanding Dark Patterns in Home IoT Devices.
+authors: Monica Kowalczyk, Johanna T. Gunawan, David R. Choffnes, Daniel J. Dubois, Woodrow Hartzog, Christo Wilson
+venue: CHI
+year: 2023
+doi: 10.1145/3544548.3581432
+url: https://doi.org/10.1145/3544548.3581432
+bibtex: https://dblp.org/rec/conf/chi/KowalczykGCDHW23?view=bibtex
+
+title: IoTBDH-2023: The 5th International Workshop on Internet of Things of Big Data for Healthcare.
+authors: Jun Qi 0001, Hongqing Yu, Po Yang 0001, Yun Yang, Zhibo Pang
+venue: CIKM
+year: 2023
+doi: 10.1145/3583780.3615299
+url: https://doi.org/10.1145/3583780.3615299
+bibtex: https://dblp.org/rec/conf/cikm/QiYYYP23?view=bibtex
+
+title: Lightning Talk: Efficient Embedded Machine Learning Deployment on Edge and IoT Devices.
+authors: @pid, text
+venue: DAC
+year: 2023
+doi: 10.1109/DAC56929.2023.10247845
+url: https://doi.org/10.1109/DAC56929.2023.10247845
+bibtex: https://dblp.org/rec/conf/dac/Pasricha23?view=bibtex
+
+title: IoT-Assisted Blockchain-Based Car Rental System Supporting Traceability.
+authors: Lipan Chen, Yujue Wang, Yong Ding 0005, Hai Liang, Changsong Yang, Huiyong Wang
+venue: DASFAA
+year: 2023
+doi: 10.1007/978-3-031-30678-5_61
+url: https://doi.org/10.1007/978-3-031-30678-5_61
+bibtex: https://dblp.org/rec/conf/dasfaa/ChenWDLYW23?view=bibtex
+
+title: The Post-pandemic Effects on IoT for Safety: The Safe Place Project.
+authors: Federico Cunico, Luigi Capogrosso, Alberto Castellini, Francesco Setti, Patrik Pluchino, Filippo Zordan, Valeria Santus, Anna Spagnolli, Stefano Cordibella, Giambattista Gennari, Mauro Borgo, Alberto Sozza, Stefano Troiano, Roberto Flor, Andrea Zanella, Alessandro Farinelli, Luciano Gamberini, Marco Cristani
+venue: DATE
+year: 2023
+doi: 10.23919/DATE56975.2023.10136924
+url: https://doi.org/10.23919/DATE56975.2023.10136924
+bibtex: https://dblp.org/rec/conf/date/CunicoCCSPZSSCGBSTFZFGC23?view=bibtex
+
+title: HD-I-IoT: Hyperdimensional Computing for Resilient Industrial Internet of Things Analytics.
+authors: Onat Güngör, Tajana Rosing, Baris Aksanli
+venue: DATE
+year: 2023
+doi: 10.23919/DATE56975.2023.10137045
+url: https://doi.org/10.23919/DATE56975.2023.10137045
+bibtex: https://dblp.org/rec/conf/date/GungorRA23?view=bibtex
+
+title: Light Flash Write for Efficient Firmware Update on Energy-harvesting IoT Devices.
+authors: Songran Liu, Mingsong Lv, Wei Zhang 0173, Xu Jiang 0004, Chuancai Gu, Tao Yang, Wang Yi 0001, Nan Guan
+venue: DATE
+year: 2023
+doi: 10.23919/DATE56975.2023.10136990
+url: https://doi.org/10.23919/DATE56975.2023.10136990
+bibtex: https://dblp.org/rec/conf/date/LiuLZJGYYG23?view=bibtex
+
+title: TransLib: A Library to Explore Transprecision Floating-Point Arithmetic on Multi-Core IoT End-Nodes.
+authors: Seyed Ahmad Mirsalari, Giuseppe Tagliavini, Davide Rossi, Luca Benini
+venue: DATE
+year: 2023
+doi: 10.23919/DATE56975.2023.10136916
+url: https://doi.org/10.23919/DATE56975.2023.10136916
+bibtex: https://dblp.org/rec/conf/date/MirsalariTRB23?view=bibtex
+
+title: Federated Learning with Heterogeneous Models for On-device Malware Detection in IoT Networks.
+authors: Sanket Shukla, Setareh Rafatirad, Houman Homayoun, Sai Manoj Pudukotai Dinakarrao
+venue: DATE
+year: 2023
+doi: 10.23919/DATE56975.2023.10137288
+url: https://doi.org/10.23919/DATE56975.2023.10137288
+bibtex: https://dblp.org/rec/conf/date/ShuklaRHD23?view=bibtex
+
+title: Creating a Large-scale Memory Error IoT Botnet Using NS3DockerEmulator.
+authors: Islam Obaidat, Bennett Kahn, Fatemeh Tavakoli, Meera Sridhar
+venue: DSN
+year: 2023
+doi: 10.1109/DSN58367.2023.00051
+url: https://doi.org/10.1109/DSN58367.2023.00051
+bibtex: https://dblp.org/rec/conf/dsn/ObaidatKTS23?view=bibtex
+
+title: IoT Anomaly Detection Via Device Interaction Graph.
+authors: Jincheng Wang, Zhuohua Li, Mingshen Sun, Bin Yuan, John C. S. Lui
+venue: DSN
+year: 2023
+doi: 10.1109/DSN58367.2023.00053
+url: https://doi.org/10.1109/DSN58367.2023.00053
+bibtex: https://dblp.org/rec/conf/dsn/WangLSYL23?view=bibtex
+
+title: Zero-Load: A Zero Touch Network based router management scheme underlying 6G-IoT ecosystems.
+authors: Pronaya Bhattacharya, Anwesha Mukherjee, Sudeep Tanwar, Emil Pricop
+venue: ECAI
+year: 2023
+doi: 10.1109/ECAI58194.2023.10194090
+url: https://doi.org/10.1109/ECAI58194.2023.10194090
+bibtex: https://dblp.org/rec/conf/ecai2/BhattacharyaMTP23?view=bibtex
+
+title: Challenges In Spoofing Bluetooth Low Energy Devices In An IOT Environment.
+authors: Cristian Capota, Popescu Madalin, Simona Halunga, Octavian Fratu
+venue: ECAI
+year: 2023
+doi: 10.1109/ECAI58194.2023.10193980
+url: https://doi.org/10.1109/ECAI58194.2023.10193980
+bibtex: https://dblp.org/rec/conf/ecai2/CapotaMHF23?view=bibtex
+
+title: IoT ESP32 device for remote experiment manipulation within a LiFePO4energy storage study.
+authors: Issa Fadelallah, Mihaita Nicolae Ardeleanu, Emil Mihai Diaconu
+venue: ECAI
+year: 2023
+doi: 10.1109/ECAI58194.2023.10194049
+url: https://doi.org/10.1109/ECAI58194.2023.10194049
+bibtex: https://dblp.org/rec/conf/ecai2/FadelallahAD23?view=bibtex
+
+title: Development of Tools for Decision Support System Based Hydraulic Simulation and IoT for Irrigation System.
+authors: Uong Huy Hiep, Dang Khoa Nguyen, Bui Quang Huong, Pham Duc Dai
+venue: ECAI
+year: 2023
+doi: 10.1109/ECAI58194.2023.10194100
+url: https://doi.org/10.1109/ECAI58194.2023.10194100
+bibtex: https://dblp.org/rec/conf/ecai2/HiepNHD23?view=bibtex
+
+title: Performance Evaluation of Block Size Influence on Blockchain-Enabled IoT Data Storage.
+authors: Alexandru A. Maftei, Alexandru Lavric, Adrian-Ioan Petrariu, Valentin Popa
+venue: ECAI
+year: 2023
+doi: 10.1109/ECAI58194.2023.10194108
+url: https://doi.org/10.1109/ECAI58194.2023.10194108
+bibtex: https://dblp.org/rec/conf/ecai2/MafteiLPP23?view=bibtex
+
+title: IoT solution for thermal comfort and air quality monitoring.
+authors: Ioana Udrea, Viorel Ionut Gheorghe, Cristian Gabriel Alionte, Angel Madalin Dogeanu, Laurentiu Adrian Cartal
+venue: ECAI
+year: 2023
+doi: 10.1109/ECAI58194.2023.10194230
+url: https://doi.org/10.1109/ECAI58194.2023.10194230
+bibtex: https://dblp.org/rec/conf/ecai2/UdreaGADC23?view=bibtex
+
+title: IoT-Based System for Web Monitoring of Thermal Processes.
+authors: José Varela Aldás, Pedro Escudero, Sandra Casa
+venue: HCI
+year: 2023
+doi: 10.1007/978-3-031-36001-5_71
+url: https://doi.org/10.1007/978-3-031-36001-5_71
+bibtex: https://dblp.org/rec/conf/hci/AldasEC23?view=bibtex
+
+title: IoT-Based User Interface for Remote Control of a Mobile Robot.
+authors: José Varela Aldás, Guillermo Palacios Navarro 0001
+venue: HCI
+year: 2023
+doi: 10.1007/978-3-031-48047-8_41
+url: https://doi.org/10.1007/978-3-031-48047-8_41
+bibtex: https://dblp.org/rec/conf/hci/AldasN23?view=bibtex
+
+title: Application of Polymer Composite Material Reaction Vessel with IoT Monitoring System.
+authors: Bai-Chau Chen, Jui-Hung Cheng
+venue: HCI
+year: 2023
+doi: 10.1007/978-3-031-35572-1_16
+url: https://doi.org/10.1007/978-3-031-35572-1_16
+bibtex: https://dblp.org/rec/conf/hci/ChenC23?view=bibtex
+
+title: Human-Centric Machine Learning: The Role of Users in the Development of IoT Device Identification and Vulnerability Assessment.
+authors: Priscilla Kyei Danso, Heather Molyneaux, Alireza Zohourian, Euclides Carlos Pinto Neto, Derrick Whalen, Sajjad Dadkhah, Ali A. Ghorbani 0001
+venue: HCI
+year: 2023
+doi: 10.1007/978-3-031-35822-7_40
+url: https://doi.org/10.1007/978-3-031-35822-7_40
+bibtex: https://dblp.org/rec/conf/hci/DansoMZNWDG23?view=bibtex
+
+title: Proposal of a Prototype Wireless Network Based on IoT that Allows the Monitoring of Vital Signs of Patients.
+authors: Leonel Hernandez, Aji Prasetya, Jainer Enrique Molina Romero, Leonardo Campis, Jose Ruiz Ariza, Hugo Hernández Palma, Emilse María Vásquez Avendaño
+venue: HCI
+year: 2023
+doi: 10.1007/978-3-031-35748-0_17
+url: https://doi.org/10.1007/978-3-031-35748-0_17
+bibtex: https://dblp.org/rec/conf/hci/HernandezPRCAPA23?view=bibtex
+
+title: Textile Circularity Through Iot Innovation: An Approach to Wearable Wireless-Sensor-Based Textiles.
+authors: Sharon Koshy, G. Sandhya, Shanthni Veetaputhiran
+venue: HCI
+year: 2023
+doi: 10.1007/978-3-031-35989-7_33
+url: https://doi.org/10.1007/978-3-031-35989-7_33
+bibtex: https://dblp.org/rec/conf/hci/KoshySV23?view=bibtex
+
+title: Towards Designing Smart Public Spaces: A Framework for Designers to Leverage AI and IoT Technologies.
+authors: Shuran Li, Chengwei Wang, Liying Rong, Yuwei Wu, Zhiqiang Wu
+venue: HCI
+year: 2023
+doi: 10.1007/978-3-031-48047-8_34
+url: https://doi.org/10.1007/978-3-031-48047-8_34
+bibtex: https://dblp.org/rec/conf/hci/LiWRWW23?view=bibtex
+
+title: Estimation of Water Consumption in a Family Home Using IOT Systems.
+authors: Humberto López, Leopoldo Laborde, Carlos Barros, Rubén Guerra, Javier Ramirez
+venue: HCI
+year: 2023
+doi: 10.1007/978-3-031-34668-2_24
+url: https://doi.org/10.1007/978-3-031-34668-2_24
+bibtex: https://dblp.org/rec/conf/hci/LopezLBGR23?view=bibtex
+
+title: Towards an Interaction Design Framework for IoT Healthcare Systems.
+authors: Guillermo Monroy-Rodríguez, Luis Martín Sánchez-Adame, Sonia Mendoza, Ivan Giovanni Valdespin-Garcia, Dominique Decouchant
+venue: HCI
+year: 2023
+doi: 10.1007/978-3-031-34668-2_7
+url: https://doi.org/10.1007/978-3-031-34668-2_7
+bibtex: https://dblp.org/rec/conf/hci/MonroyRodriguezSMVD23?view=bibtex
+
+title: Design and Simulation of an IoT Intelligent University Campus for Academic Aim.
+authors: Mary Luz Mouronte-López, Ángel Lambertt Lobaina, Elizabeth Guevara Martínez, Jorge Alberto Rodríguez Rubio
+venue: HCI
+year: 2023
+doi: 10.1007/978-3-031-34411-4_6
+url: https://doi.org/10.1007/978-3-031-34411-4_6
+bibtex: https://dblp.org/rec/conf/hci/MouronteLopezLMR23?view=bibtex
+
+title: Applying the Trajectories Conceptual Framework: A Case Study of an IoT Health Data Monitoring Application.
+authors: Elizabeth Reisher, Soundarya Jonnalagadda, Ann L. Fruhling
+venue: HCI
+year: 2023
+doi: 10.1007/978-3-031-35748-0_10
+url: https://doi.org/10.1007/978-3-031-35748-0_10
+bibtex: https://dblp.org/rec/conf/hci/ReisherJF23?view=bibtex
+
+title: AR-Enabled Interface for IoT Water Management Systems in Smart Cities.
+authors: Vasileios Sidiropoulos, Athanasios Sidiropoulos, Dimitrios Bechtsis, Fotis Stergiopoulos
+venue: HCI
+year: 2023
+doi: 10.1007/978-3-031-34609-5_10
+url: https://doi.org/10.1007/978-3-031-34609-5_10
+bibtex: https://dblp.org/rec/conf/hci/SidiropoulosSBS23?view=bibtex
+
+title: An IoT Framework for Heterogeneous Multi-layered Access in Smart Cities.
+authors: Evangelos Syrmos, Dimitrios Bechtsis, Ioannis Tsampoulatidis, Nicos Komninos
+venue: HCI
+year: 2023
+doi: 10.1007/978-3-031-34609-5_11
+url: https://doi.org/10.1007/978-3-031-34609-5_11
+bibtex: https://dblp.org/rec/conf/hci/SyrmosBTK23?view=bibtex
+
+title: Inverse Reinforcement Learning with Graph Neural Networks for IoT Resource Allocation.
+authors: Guangchen Wang, Peng Cheng 0002, Zhuo Chen 0001, Wei Xiang 0001, Branka Vucetic, Yonghui Li 0001
+venue: ICASSP
+year: 2023
+doi: 10.1109/ICASSP49357.2023.10096237
+url: https://doi.org/10.1109/ICASSP49357.2023.10096237
+bibtex: https://dblp.org/rec/conf/icassp/WangCCXVL23?view=bibtex
+
+title: Artificial intelligence-based IoT-enabled biogas production.
+authors: Peter Onu, Charles Mbohwa, Anup Pradhan
+venue: ICCAD
+year: 2023
+doi: 10.1109/ICCAD57653.2023.10152349
+url: https://doi.org/10.1109/ICCAD57653.2023.10152349
+bibtex: https://dblp.org/rec/conf/iccad2/OnuMP23?view=bibtex
+
+title: Narrowband-IoT Based Integrated Framework for Monitoring Pipeline Condition in Oil and Gas Industry.
+authors: Md. Muzakkir Quamar, Khalid Abdullah Khan, Muhammad Waqas Khalid
+venue: ICCAD
+year: 2023
+doi: 10.1109/ICCAD57653.2023.10152310
+url: https://doi.org/10.1109/ICCAD57653.2023.10152310
+bibtex: https://dblp.org/rec/conf/iccad2/QuamarKK23?view=bibtex
+
+title: Selecting Explanation Methods for Intelligent IoT Systems: A Case-Based Reasoning Approach.
+authors: Humberto Parejas-Llanovarced, Jesus M. Darias, Marta Caro-Martínez, Juan A. Recio-García
+venue: ICCBR
+year: 2023
+doi: 10.1007/978-3-031-40177-0_12
+url: https://doi.org/10.1007/978-3-031-40177-0_12
+bibtex: https://dblp.org/rec/conf/iccbr/ParejasLlanovarcedDCR23?view=bibtex
+
+title: Demo: SenShaMart - A Sensor Sharing Marketplace for IoT.
+authors: Anas Dawod, Dimitrios Georgakopoulos, Prem Prakash Jayaraman, Josip Karabotic Milovac, Kewen Liao, Panos K. Chrysanthis
+venue: ICDCS
+year: 2023
+doi: 10.1109/ICDCS57875.2023.00122
+url: https://doi.org/10.1109/ICDCS57875.2023.00122
+bibtex: https://dblp.org/rec/conf/icdcs/DawodGJMLC23?view=bibtex
+
+title: GT-TSCH: Game-Theoretic Distributed TSCH Scheduler for Low-Power IoT Networks.
+authors: Omid Tavallaie, Seid Miad Zandavi, Hamed Haddadi, Albert Y. Zomaya
+venue: ICDCS
+year: 2023
+doi: 10.1109/ICDCS57875.2023.00084
+url: https://doi.org/10.1109/ICDCS57875.2023.00084
+bibtex: https://dblp.org/rec/conf/icdcs/TavallaieZHZ23?view=bibtex
+
+title: A Novel Two-Layer DAG-Based Reactive Protocol for IoT Data Reliability in Metaverse.
+authors: Changlin Yang, Ying Liu 0033, Kwan-Wu Chin, Jiguang Wang, Huawei Huang, Zibin Zheng
+venue: ICDCS
+year: 2023
+doi: 10.1109/ICDCS57875.2023.00049
+url: https://doi.org/10.1109/ICDCS57875.2023.00049
+bibtex: https://dblp.org/rec/conf/icdcs/YangLCWHZ23?view=bibtex
+
+title: Automatic Detection and Analysis towards Malicious Behavior in IoT Malware.
+authors: Sen Li, Mengmeng Ge, Ruitao Feng, Xiaohong Li 0001, Kwok-Yan Lam
+venue: ICDM
+year: 2023
+doi: 10.1109/ICDMW60847.2023.00171
+url: https://doi.org/10.1109/ICDMW60847.2023.00171
+bibtex: https://dblp.org/rec/conf/icdm/LiGF0L23?view=bibtex
+
+title: An IoT-based Approach to Expert Recommendation in Community Question Answering for Disaster Recovery.
+authors: Davide Macrì, Antonio Francesco Gentile, Pietro Sabatino
+venue: ICDM
+year: 2023
+doi: 10.1109/ICDMW60847.2023.00116
+url: https://doi.org/10.1109/ICDMW60847.2023.00116
+bibtex: https://dblp.org/rec/conf/icdm/MacriGS23?view=bibtex
+
+title: Topology-Aware Cognitive Self-Protection Framework for Automated Detection and Mitigation of Security and Privacy Incidents in 5G-IoT Networks.
+authors: Pablo Benlloch-Caballero, Ignacio Sanchez-Navarro, Antonio Matencio-Escolar, Jose M. Alcaraz Calero, Qi Wang 0001
+venue: ICNP
+year: 2023
+doi: 10.1109/ICNP59255.2023.10355595
+url: https://doi.org/10.1109/ICNP59255.2023.10355595
+bibtex: https://dblp.org/rec/conf/icnp/Benlloch-Caballero23?view=bibtex
+
+title: Augmented Reality Integration for Real-Time Security and Maintenance in IoT-Enabled Smart Campuses.
+authors: Khalil Chakal, Mikko Korkiakoski, Hassan Mehmood, Theodoros Anagnostopoulos, Paula Alavesa, Panos Kostakos 0001
+venue: ICNP
+year: 2023
+doi: 10.1109/ICNP59255.2023.10355580
+url: https://doi.org/10.1109/ICNP59255.2023.10355580
+bibtex: https://dblp.org/rec/conf/icnp/ChakalKMAA023?view=bibtex
+
+title: SyncCast: Real-Time Self-Adaptive and Fault-Tolerant All-to-All Data-Sharing in IoT.
+authors: Jagnyashini Debadarshini, Sudipta Saha
+venue: ICNP
+year: 2023
+doi: 10.1109/ICNP59255.2023.10355628
+url: https://doi.org/10.1109/ICNP59255.2023.10355628
+bibtex: https://dblp.org/rec/conf/icnp/DebadarshiniS23?view=bibtex
+
+title: A System Architecture for Battery-free IoT Networks.
+authors: Dayrene Frometa Fonseca, Borja Genovés Guzmán, Domenico Giustiniano, Joerg Widmer
+venue: ICNP
+year: 2023
+doi: 10.1109/ICNP59255.2023.10355593
+url: https://doi.org/10.1109/ICNP59255.2023.10355593
+bibtex: https://dblp.org/rec/conf/icnp/FonsecaGGW23?view=bibtex
+
+title: Lightweight Network-Based IoT Device Authentication in Cloud Services.
+authors: Tomás Silva, João Casal, Ricardo Chaves
+venue: ICNP
+year: 2023
+doi: 10.1109/ICNP59255.2023.10355621
+url: https://doi.org/10.1109/ICNP59255.2023.10355621
+bibtex: https://dblp.org/rec/conf/icnp/SilvaCC23?view=bibtex
+
+title: Security and Safety Verification in IoT Apps.
+authors: Lobna Abuserrieh, Manar H. Alalfi
+venue: ICSME
+year: 2023
+doi: 10.1109/ICSME58846.2023.00080
+url: https://doi.org/10.1109/ICSME58846.2023.00080
+bibtex: https://dblp.org/rec/conf/icsm/AbuserriehA23?view=bibtex
+
+title: Context-Aware Trustworthy IoT Energy Services Provisioning.
+authors: Amani Abusafia, Athman Bouguettaya, Abdallah Lakhdari, Sami Yangui
+venue: ICSOC
+year: 2023
+doi: 10.1007/978-3-031-48424-7_13
+url: https://doi.org/10.1007/978-3-031-48424-7_13
+bibtex: https://dblp.org/rec/conf/icsoc/AbusafiaBLY23?view=bibtex
+
+title: Data-Driven Generation of Services for IoT-Based Online Activity Detection.
+authors: Ronny Seiger, Marco Franceschetti, Barbara Weber
+venue: ICSOC
+year: 2023
+doi: 10.1007/978-3-031-48424-7_14
+url: https://doi.org/10.1007/978-3-031-48424-7_14
+bibtex: https://dblp.org/rec/conf/icsoc/SeigerFW23?view=bibtex
+
+title: Federated Learning-driven Trust Prediction for Mobile Edge Computing-based IoT Systems.
+authors: Jiahui Bai, Hai Dong
+venue: ICWS
+year: 2023
+doi: 10.1109/ICWS60048.2023.00031
+url: https://doi.org/10.1109/ICWS60048.2023.00031
+bibtex: https://dblp.org/rec/conf/icws/BaiD23?view=bibtex
+
+title: HSFL: Efficient and Privacy-Preserving Offloading for Split and Federated Learning in IoT Services.
+authors: Ruijun Deng, Xin Du, Zhihui Lu 0002, Qiang Duan, Shih-Chia Huang, Jie Wu 0003
+venue: ICWS
+year: 2023
+doi: 10.1109/ICWS60048.2023.00084
+url: https://doi.org/10.1109/ICWS60048.2023.00084
+bibtex: https://dblp.org/rec/conf/icws/DengDLDHW23?view=bibtex
+
+title: Energy Loss Prediction in IoT Energy Services.
+authors: Pengwei Yang, Amani Abusafia, Abdallah Lakhdari, Athman Bouguettaya
+venue: ICWS
+year: 2023
+doi: 10.1109/ICWS60048.2023.00056
+url: https://doi.org/10.1109/ICWS60048.2023.00056
+bibtex: https://dblp.org/rec/conf/icws/YangALB23?view=bibtex
+
+title: Localized Knowledge Distillation Helps IoT Devices Provide High-performance Visual Services.
+authors: Jinhui Yu, Chuntao Ding, Huifang Li, Yi Jin 0001, Yidong Li
+venue: ICWS
+year: 2023
+doi: 10.1109/ICWS60048.2023.00036
+url: https://doi.org/10.1109/ICWS60048.2023.00036
+bibtex: https://dblp.org/rec/conf/icws/YuDLJL23?view=bibtex
+
+title: Behind the Scenes: Uncovering TLS and Server Certificate Practice of IoT Device Vendors in the Wild.
+authors: Hongying Dong, Hao Shu, Vijay Prakash, Yizhe Zhang, Muhammad Talha Paracha, David R. Choffnes, Santiago Torres-Arias, Danny Yuxing Huang, Yixin Sun
+venue: IMC
+year: 2023
+doi: 10.1145/3618257.3624815
+url: https://doi.org/10.1145/3618257.3624815
+bibtex: https://dblp.org/rec/conf/imc/DongSPZPCTHS23?view=bibtex
+
+title: BehavIoT: Measuring Smart Home IoT Behavior Using Network-Inferred Behavior Models.
+authors: Tianrui Hu, Daniel J. Dubois, David R. Choffnes
+venue: IMC
+year: 2023
+doi: 10.1145/3618257.3624829
+url: https://doi.org/10.1145/3618257.3624829
+bibtex: https://dblp.org/rec/conf/imc/HuDC23?view=bibtex
+
+title: Federated PCA on Grassmann Manifold for Anomaly Detection in IoT Networks.
+authors: Tung-Anh Nguyen, Jiayu He, Long Tan Le, Wei Bao, Nguyen Hoang Tran
+venue: INFOCOM
+year: 2023
+doi: 10.1109/INFOCOM53939.2023.10229026
+url: https://doi.org/10.1109/INFOCOM53939.2023.10229026
+bibtex: https://dblp.org/rec/conf/infocom/NguyenHLBT23?view=bibtex
+
+title: Extracting Spatial Information of IoT Device Events for Smart Home Safety Monitoring.
+authors: Yinxin Wan, Xuanli Lin, Kuai Xu, Feng Wang 0002, Guoliang Xue
+venue: INFOCOM
+year: 2023
+doi: 10.1109/INFOCOM53939.2023.10228993
+url: https://doi.org/10.1109/INFOCOM53939.2023.10228993
+bibtex: https://dblp.org/rec/conf/infocom/WanLXWX23?view=bibtex
+
+title: Parallel Cross-technology Transmission from IEEE 802.11ax to Heterogeneous IoT Devices.
+authors: Dan Xia, Xiaolong Zheng 0002, Liang Liu 0001, Huadong Ma
+venue: INFOCOM
+year: 2023
+doi: 10.1109/INFOCOM53939.2023.10229073
+url: https://doi.org/10.1109/INFOCOM53939.2023.10229073
+bibtex: https://dblp.org/rec/conf/infocom/XiaZLM23?view=bibtex
+
+title: ISAC: In-Switch Approximate Cache for IoT Object Detection and Recognition.
+authors: Wenquan Xu, Zijian Zhang, Haoyu Song 0001, Shuxin Liu, Yong Feng, Bin Liu 0001
+venue: INFOCOM
+year: 2023
+doi: 10.1109/INFOCOM53939.2023.10229067
+url: https://doi.org/10.1109/INFOCOM53939.2023.10229067
+bibtex: https://dblp.org/rec/conf/infocom/XuZSLFL23?view=bibtex
+
+title: Poster Abstract: Checkpointing in Transiently Powered IoT Networks.
+authors: Jawaher Alharbi, Arshad Jhumka
+venue: IPSN
+year: 2023
+doi: 10.1145/3583120.3589827
+url: https://doi.org/10.1145/3583120.3589827
+bibtex: https://dblp.org/rec/conf/ipsn/AlharbiJ23?view=bibtex
+
+title: Poster Abstract: Hands-on Evaluation of Kinéis Satellite IoT Technology.
+authors: Raúl De La Fuente, Thomas Watteyne
+venue: IPSN
+year: 2023
+doi: 10.1145/3583120.3589837
+url: https://doi.org/10.1145/3583120.3589837
+bibtex: https://dblp.org/rec/conf/ipsn/FuenteW23?view=bibtex
+
+title: PhD Forum Abstract: DDoS attack detection in IoT systems using Neural Networks.
+authors: @pid, text
+venue: IPSN
+year: 2023
+doi: 10.1145/3583120.3589564
+url: https://doi.org/10.1145/3583120.3589564
+bibtex: https://dblp.org/rec/conf/ipsn/Hekmati23?view=bibtex
+
+title: WINC: A Wireless IoT Network for Multi-Noise Source Cancellation.
+authors: Ishani Janveja, Jiaming Wang, Junfeng Guan, Suraj Jog, Haitham Hassanieh
+venue: IPSN
+year: 2023
+doi: 10.1145/3583120.3586964
+url: https://doi.org/10.1145/3583120.3586964
+bibtex: https://dblp.org/rec/conf/ipsn/JanvejaWGJH23?view=bibtex
+
+title: Demo Abstract: Using Neural Networks as Modulators for IoT Gateways.
+authors: Jiazhao Wang, Wenchao Jiang, Wenjun Jiang, Ruofeng Liu
+venue: IPSN
+year: 2023
+doi: 10.1145/3583120.3589810
+url: https://doi.org/10.1145/3583120.3589810
+bibtex: https://dblp.org/rec/conf/ipsn/WangJJL23?view=bibtex
+
+title: PhD Forum Abstract: Intelligence beyond the Edge in IoT.
+authors: @pid, text
+venue: IPSN
+year: 2023
+doi: 10.1145/3583120.3589567
+url: https://doi.org/10.1145/3583120.3589567
+bibtex: https://dblp.org/rec/conf/ipsn/Yu23?view=bibtex
+
+title: GraphIoT: Accurate IoT Identification based on Heterogeneous Graph.
+authors: Linna Fan, Lin He 0004, Xiaoqing Sun, Enhuan Dong, Jiahai Yang 0001, Zhiliang Wang, Jinlei Lin, Guanglei Song
+venue: IWQoS
+year: 2023
+doi: 10.1109/IWQOS57198.2023.10188710
+url: https://doi.org/10.1109/IWQoS57198.2023.10188710
+bibtex: https://dblp.org/rec/conf/iwqos/FanHSDYWLS23?view=bibtex
+
+title: Accurate IoT Device Identification based on A Few Network Traffic.
+authors: Shigeng Zhang, Kai Xiao, Jianjiang Yu, Xuan Liu 0001, Weiping Wang 0003
+venue: IWQoS
+year: 2023
+doi: 10.1109/IWQOS57198.2023.10188721
+url: https://doi.org/10.1109/IWQoS57198.2023.10188721
+bibtex: https://dblp.org/rec/conf/iwqos/ZhangXYLW23?view=bibtex
+
+title: Bringing Millimeter Wave Technology to Any IoT Device.
+authors: Mohammad Mazaheri 0001, Rafael Ruiz 0001, Domenico Giustiniano, Joerg Widmer, Omid Abari
+venue: MobiCom
+year: 2023
+doi: 10.1145/3570361.3613255
+url: https://doi.org/10.1145/3570361.3613255
+bibtex: https://dblp.org/rec/conf/mobicom/00010GWA23?view=bibtex
+
+title: COPSEC: Compliance-Oriented IoT Security and Privacy Evaluation Framework.
+authors: Gianluca Anselmi, Anna Maria Mandalari, Sara Lazzaro, Vincenzo De Angelis
+venue: MobiCom
+year: 2023
+doi: 10.1145/3570361.3615747
+url: https://doi.org/10.1145/3570361.3615747
+bibtex: https://dblp.org/rec/conf/mobicom/AnselmiMLA23a?view=bibtex
+
+title: Enc2: Privacy-Preserving Inference for Tiny IoTs via Encoding and Encryption.
+authors: Hao-Jen Chien, Hossein Khalili, Amin Hass, Nader Sehatbakhsh
+venue: MobiCom
+year: 2023
+doi: 10.1145/3570361.3592501
+url: https://doi.org/10.1145/3570361.3592501
+bibtex: https://dblp.org/rec/conf/mobicom/ChienKHS23?view=bibtex
+
+title: Towards Spatial Selection Transmission for Low-end IoT devices with SpotSound.
+authors: Tingchao Fan, Huangwei Wu, Meng Jin 0002, Tao Chen 0033, Longfei Shangguan, Xinbing Wang, Chenghu Zhou
+venue: MobiCom
+year: 2023
+doi: 10.1145/3570361.3592496
+url: https://doi.org/10.1145/3570361.3592496
+bibtex: https://dblp.org/rec/conf/mobicom/FanWJCSWZ23?view=bibtex
+
+title: Re-thinking computation offload for efficient inference on IoT devices with duty-cycled radios.
+authors: Jin Huang, Hui Guan 0001, Deepak Ganesan
+venue: MobiCom
+year: 2023
+doi: 10.1145/3570361.3592514
+url: https://doi.org/10.1145/3570361.3592514
+bibtex: https://dblp.org/rec/conf/mobicom/HuangGG23?view=bibtex
+
+title: Squint: A Framework for Dynamic Voltage Scaling of Image Sensors Towards Low Power IoT Vision.
+authors: Venkatesh Kodukula, Mason Manetta, Robert LiKamWa
+venue: MobiCom
+year: 2023
+doi: 10.1145/3570361.3613303
+url: https://doi.org/10.1145/3570361.3613303
+bibtex: https://dblp.org/rec/conf/mobicom/KodukulaML23?view=bibtex
+
+title: A Framework for Dynamic Voltage Scaling of Image Sensors Towards Low Power IoT Vision.
+authors: Venkatesh Kodukula, Mason Manetta, Robert LiKamWa
+venue: MobiCom
+year: 2023
+doi: 10.1145/3570361.3614071
+url: https://doi.org/10.1145/3570361.3614071
+bibtex: https://dblp.org/rec/conf/mobicom/KodukulaML23a?view=bibtex
+
+title: BEAVIS: Balloon Enabled Aerial Vehicle for IoT and Sensing.
+authors: Suryansh Sharma, Ashutosh Simha, R. Venkatesha Prasad, Shubham Deshmukh, Kavin Balaji Saravanan, Ravi Ramesh, Luca Mottola
+venue: MobiCom
+year: 2023
+doi: 10.1145/3570361.3592498
+url: https://doi.org/10.1145/3570361.3592498
+bibtex: https://dblp.org/rec/conf/mobicom/SharmaSPDSRM23?view=bibtex
+
+title: NeuriCam: Key-Frame Video Super-Resolution and Colorization for IoT Cameras.
+authors: Bandhav Veluri, Collin Pernu, Ali Saffari, Joshua R. Smith 0001, Michael B. Taylor, Shyamnath Gollakota
+venue: MobiCom
+year: 2023
+doi: 10.1145/3570361.3592523
+url: https://doi.org/10.1145/3570361.3592523
+bibtex: https://dblp.org/rec/conf/mobicom/VeluriPSSTG23?view=bibtex
+
+title: RF-SIFTER: Sifting Signals at Layer-0.5 to Mitigate Wideband Cross-Technology Interference for IoT.
+authors: Xiong Wang, Jun Huang 0001, Bizhao Shi, Zhe Ou, Guojie Luo, Linghe Kong, Daqing Zhang 0001, Chenren Xu
+venue: MobiCom
+year: 2023
+doi: 10.1145/3570361.3592513
+url: https://doi.org/10.1145/3570361.3592513
+bibtex: https://dblp.org/rec/conf/mobicom/WangHSOLK0X23?view=bibtex
+
+title: mmFER: Millimetre-wave Radar based Facial Expression Recognition for Multimedia IoT Applications.
+authors: Xi Zhang, Yu Zhang 0034, Zhenguo Shi, Tao Gu
+venue: MobiCom
+year: 2023
+doi: 10.1145/3570361.3592515
+url: https://doi.org/10.1145/3570361.3592515
+bibtex: https://dblp.org/rec/conf/mobicom/Zhang0SG23?view=bibtex
+
+title: Scalable Multi-Modal Learning for Cross-Link Channel Prediction in Massive IoT Networks.
+authors: Kun Woo Cho, Marco Cominelli, Francesco Gringoli, Joerg Widmer, Kyle Jamieson
+venue: MobiHoc
+year: 2023
+doi: 10.1145/3565287.3610280
+url: https://doi.org/10.1145/3565287.3610280
+bibtex: https://dblp.org/rec/conf/mobihoc/ChoCGWJ23?view=bibtex
+
+title: Detection of Global Anomalies on Distributed IoT Edges with Device-to-Device Communication.
+authors: Hideya Ochiai, Riku Nishihata, Eisuke Tomiyama, Yuwei Sun, Hiroshi Esaki
+venue: MobiHoc
+year: 2023
+doi: 10.1145/3565287.3616528
+url: https://doi.org/10.1145/3565287.3616528
+bibtex: https://dblp.org/rec/conf/mobihoc/OchiaiNTSE23?view=bibtex
+
+title: Exploring the Potential of Frama-C in IoT Static Analysis.
+authors: Minh Le Kim Tran, William King, Harvey P. Siy
+venue: MobiHoc
+year: 2023
+doi: 10.1145/3565287.3617617
+url: https://doi.org/10.1145/3565287.3617617
+bibtex: https://dblp.org/rec/conf/mobihoc/TranKS23?view=bibtex
+
+title: Sirius: A Self-Localization System for Resource-Constrained IoT Sensors.
+authors: Nakul Garg, Nirupam Roy
+venue: MobiSys
+year: 2023
+doi: 10.1145/3581791.3596861
+url: https://doi.org/10.1145/3581791.3596861
+bibtex: https://dblp.org/rec/conf/mobisys/GargR23?view=bibtex
+
+title: Demo: 3TierView - A Three-tier Privacy-preserving Live Video Surveillance IoT System.
+authors: Haoran Li, Qi Zhang 0013, Gajraj Kuldeep
+venue: MobiSys
+year: 2023
+doi: 10.1145/3581791.3597289
+url: https://doi.org/10.1145/3581791.3597289
+bibtex: https://dblp.org/rec/conf/mobisys/LiZK23?view=bibtex
+
+title: Demo: UE Assisted Ambient IoT in LTE Downlink, in real-time and open source.
+authors: Jingyi Liao, Kalle Ruttik, Riku Jäntti, Dinh-Thuy Phan-Huy
+venue: MobiSys
+year: 2023
+doi: 10.1145/3581791.3597285
+url: https://doi.org/10.1145/3581791.3597285
+bibtex: https://dblp.org/rec/conf/mobisys/LiaoRJP23?view=bibtex
+
+title: No More Companion Apps Hacking but One Dongle: Hub-Based Blackbox Fuzzing of IoT Firmware.
+authors: Xiaoyue Ma, Qiang Zeng 0001, Haotian Chi, Lannan Luo
+venue: MobiSys
+year: 2023
+doi: 10.1145/3581791.3596857
+url: https://doi.org/10.1145/3581791.3596857
+bibtex: https://dblp.org/rec/conf/mobisys/Ma0CL23?view=bibtex
+
+title: Supporting Early-Safety Analysis of IoT Systems by Exploiting Testing Techniques.
+authors: Diego Clerissi, Juri Di Rocco, Davide Di Ruscio, Claudio Di Sipio, Felicien Ihirwe, Leonardo Mariani, Daniela Micucci, Maria Teresa Rossi, Riccardo Rubei
+venue: MoDELS
+year: 2023
+doi: 10.1109/MODELS-C59198.2023.00089
+url: https://doi.org/10.1109/MODELS-C59198.2023.00089
+bibtex: https://dblp.org/rec/conf/models/ClerissiRRSIMMR23?view=bibtex
+
+title: LinkLab 2.0: A Multi-tenant Programmable IoT Testbed for Experimentation with Edge-Cloud Integration.
+authors: Wei Dong 0001, Borui Li 0001, Haoyu Li, Hao Wu, Kaijie Gong, Wenzhao Zhang, Yi Gao 0001
+venue: NSDI
+year: 2023
+url: https://www.usenix.org/conference/nsdi23/presentation/dong
+bibtex: https://dblp.org/rec/conf/nsdi/DongLLWGZ023?view=bibtex
+
+title: SlimWiFi: Ultra-Low-Power IoT Radio Architecture Enabled by Asymmetric Communication.
+authors: Renjie Zhao 0001, Kejia Wang, Kai Zheng 0003, Xinyu Zhang 0003, Vincent Leung
+venue: NSDI
+year: 2023
+url: https://www.usenix.org/conference/nsdi23/presentation/zhao-renjie
+bibtex: https://dblp.org/rec/conf/nsdi/ZhaoW0ZL23?view=bibtex
+
+title: Bin there, target that: Analyzing the target selection of IoT vulnerabilities in malware binaries.
+authors: Arwa Abdulkarim Al Alsadi, Kaichi Sameshima, Katsunari Yoshioka, Michel van Eeten, Carlos Hernandez Gañán
+venue: RAID
+year: 2023
+doi: 10.1145/3607199.3607241
+url: https://doi.org/10.1145/3607199.3607241
+bibtex: https://dblp.org/rec/conf/raid/AlsadiSYEG23?view=bibtex
+
+title: Xunpack: Cross-Architecture Unpacking for Linux IoT Malware.
+authors: Yuhei Kawakoya, Shu Akabane, Makoto Iwamura, Takeshi Okamoto
+venue: RAID
+year: 2023
+doi: 10.1145/3607199.3607214
+url: https://doi.org/10.1145/3607199.3607214
+bibtex: https://dblp.org/rec/conf/raid/KawakoyaAIO23?view=bibtex
+
+title: MP-Mediator: Detecting and Handling the New Stealthy Delay Attacks on IoT Events and Commands.
+authors: Xuening Xu, Chenglong Fu 0002, Xiaojiang Du
+venue: RAID
+year: 2023
+doi: 10.1145/3607199.3607225
+url: https://doi.org/10.1145/3607199.3607225
+bibtex: https://dblp.org/rec/conf/raid/Xu0D23?view=bibtex
+
+title: Work-in-Progress: Deadline-Aware Named Data Networking for Time-Sensitive IoT Applications.
+authors: Afia Anjum, Sena Hounsinou, Habeeb Olufowobi
+venue: RTAS
+year: 2023
+doi: 10.1109/RTAS58335.2023.00039
+url: https://doi.org/10.1109/RTAS58335.2023.00039
+bibtex: https://dblp.org/rec/conf/rtas/AnjumHO23?view=bibtex
+
+title: Energy and Time-Effective Computation Offloading for Edge Computing-Enabled IoT Networks.
+authors: Othman Al Aidaros, Youcef Kardjadja, Zied Bouida, Mohamed Ibnkahla
+venue: SAS
+year: 2023
+doi: 10.1109/SAS58821.2023.10254051
+url: https://doi.org/10.1109/SAS58821.2023.10254051
+bibtex: https://dblp.org/rec/conf/sas2/AidarosKBI23?view=bibtex
+
+title: Integrating Medical and Wearable Devices with E-Health Systems Using Horizontal IoT Platforms.
+authors: Mohannad Abu Issa, AbdelRahman Eldosouky, Mohamed Ibnkahla, Jason Jaskolka, Ashraf Matrawy
+venue: SAS
+year: 2023
+doi: 10.1109/SAS58821.2023.10254186
+url: https://doi.org/10.1109/SAS58821.2023.10254186
+bibtex: https://dblp.org/rec/conf/sas2/IssaEIJM23?view=bibtex
+
+title: Enhanced Hybrid Energy-Efficient Distributed Clustering Protocol for IoT-Based WSNs with Multiple Sinks.
+authors: Youngju Nam, Dick Mugerwa, Hyunseok Choi, Youngmi Kwon, Euisin Lee
+venue: SAS
+year: 2023
+doi: 10.1109/SAS58821.2023.10254043
+url: https://doi.org/10.1109/SAS58821.2023.10254043
+bibtex: https://dblp.org/rec/conf/sas2/NamMCKL23?view=bibtex
+
+title: Optimizing the IoT Performance: A Case Study on Pruning a Distributed CNN.
+authors: Eiraj Saqib, Isaac Sánchez Leal, Irida Shallari, Axel Jantsch, Silvia Krug, Mattias O&apos;Nils
+venue: SAS
+year: 2023
+doi: 10.1109/SAS58821.2023.10254054
+url: https://doi.org/10.1109/SAS58821.2023.10254054
+bibtex: https://dblp.org/rec/conf/sas2/SaqibLSJKO23?view=bibtex
+
+title: Knowledge-Enhanced Semi-Supervised Federated Learning for Aggregating Heterogeneous Lightweight Clients in IoT.
+authors: Jiaqi Wang 0002, Shenglai Zeng, Zewei Long, Yaqing Wang, Houping Xiao, Fenglong Ma
+venue: SDM
+year: 2023
+doi: 10.1137/1.9781611977653.CH56
+url: https://doi.org/10.1137/1.9781611977653.ch56
+bibtex: https://dblp.org/rec/conf/sdm/WangZLWXM23?view=bibtex
+
+title: Intelligent Communication Planning for Constrained Environmental IoT Sensing with Reinforcement Learning.
+authors: Yi Hu, Jinhang Zuo, Bob Iannucci, Carlee Joe-Wong
+venue: SECON
+year: 2023
+doi: 10.1109/SECON58729.2023.10287493
+url: https://doi.org/10.1109/SECON58729.2023.10287493
+bibtex: https://dblp.org/rec/conf/secon/HuZIJ23?view=bibtex
+
+title: A Game Theoretical Model addressing Misbehavior in Crowdsourcing IoT.
+authors: Runbo Su, Arbia Riahi Sfar, Enrico Natalizio, Pascal Moyal, Ye-Qiong Song
+venue: SECON
+year: 2023
+doi: 10.1109/SECON58729.2023.10287527
+url: https://doi.org/10.1109/SECON58729.2023.10287527
+bibtex: https://dblp.org/rec/conf/secon/SuSNMS23?view=bibtex
+
+title: A Multi-domain Testbed for Collaborative Research on the IoT-Edge-Cloud Continuum.
+authors: Iván Vidal, Luis F. Gonzalez, Francisco Valera, Borja Nogales, Raul Martin, Dulce N. de M. Artalejo, Diego R. López, Jose Manuel Manjón, Antonio Pastor 0001
+venue: SECON
+year: 2023
+doi: 10.1109/SECON58729.2023.10287436
+url: https://doi.org/10.1109/SECON58729.2023.10287436
+bibtex: https://dblp.org/rec/conf/secon/VidalGVNMALMP23?view=bibtex
+
+title: FedNaWi: Selecting the Befitting Clients for Robust Federated Learning in IoT Applications.
+authors: Ran Zhu, Mingkun Yang, Jie Yang, Qing Wang 0007
+venue: SECON
+year: 2023
+doi: 10.1109/SECON58729.2023.10287422
+url: https://doi.org/10.1109/SECON58729.2023.10287422
+bibtex: https://dblp.org/rec/conf/secon/ZhuYYW23?view=bibtex
+
+title: Solving the IoT Cascading Failure Dilemma Using a Semantic Multi-agent System.
+authors: Amal Guittoum, François Aïssaoui, Sébastien Bolle, Fabienne Boyer, Noel De Palma
+venue: ISWC
+year: 2023
+doi: 10.1007/978-3-031-47243-5_18
+url: https://doi.org/10.1007/978-3-031-47243-5_18
+bibtex: https://dblp.org/rec/conf/semweb/GuittoumABBP23?view=bibtex
+
+title: Leveraging the Properties of mmWave Signals for 3D Finger Motion Tracking for Interactive IoT Applications.
+authors: Yilin Liu, Shijia Zhang, Mahanth Gowda, Srihari Nelakuditi
+venue: SIGMETRICS
+year: 2023
+doi: 10.1145/3578338.3593549
+url: https://doi.org/10.1145/3578338.3593549
+bibtex: https://dblp.org/rec/conf/sigmetrics/LiuZGN23?view=bibtex
+
+title: BLTESTI: Benchmarking Lightweight TinyJAMBU on Embedded Systems for Trusted IoT.
+authors: Mohamed El-Hadedy 0001, Russell Hua, Shahzman Saqib, Kazutomo Yoshii, Wen-Mei Hwu, Martin Margala
+venue: SOCC
+year: 2023
+doi: 10.1109/SOCC58585.2023.10256731
+url: https://doi.org/10.1109/SOCC58585.2023.10256731
+bibtex: https://dblp.org/rec/conf/socc/ElHadedyHSYHM23?view=bibtex
+
+title: PRIDES: A Power Rising Descending Signature for Improving IoT Security.
+authors: Ashish Mahanta, Haibo Wang
+venue: SOCC
+year: 2023
+doi: 10.1109/SOCC58585.2023.10256775
+url: https://doi.org/10.1109/SOCC58585.2023.10256775
+bibtex: https://dblp.org/rec/conf/socc/MahantaW23?view=bibtex
+
+title: AC-Logic Family for Smart Dust and IoT Applications.
+authors: Hamza Saleem, Lubna Shah, Abdur Rehman, Hassan Saif, Rashad Ramzan
+venue: SOCC
+year: 2023
+doi: 10.1109/SOCC58585.2023.10256939
+url: https://doi.org/10.1109/SOCC58585.2023.10256939
+bibtex: https://dblp.org/rec/conf/socc/SaleemSRSR23?view=bibtex
+
+title: DSNet: Efficient Lightweight Model for Video Salient Object Detection for IoT and WoT Applications.
+authors: Hemraj Singh, Mridula Verma, Ramalingaswamy Cheruku
+venue: WWW
+year: 2023
+doi: 10.1145/3543873.3587592
+url: https://doi.org/10.1145/3543873.3587592
+bibtex: https://dblp.org/rec/conf/www/SinghVC23?view=bibtex
+

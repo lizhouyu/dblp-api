@@ -1,0 +1,158 @@
+title: Edge-Eye: Rectifying Millimeter-level Edge Deviation in Manufacturing using Camera-enabled IoT Edge Device.
+authors: Zihao Chu, Lei Xie 0004, Tao Gu, Yanling Bu, Chuyu Wang, Sanglu Lu
+venue: IPSN
+year: 2022
+doi: 10.1109/IPSN54338.2022.00027
+url: https://doi.org/10.1109/IPSN54338.2022.00027
+bibtex: https://dblp.org/rec/conf/ipsn/Chu0GBWL22?view=bibtex
+
+title: Lightning Talk: Efficient Embedded Machine Learning Deployment on Edge and IoT Devices.
+authors: @pid, text
+venue: DAC
+year: 2023
+doi: 10.1109/DAC56929.2023.10247845
+url: https://doi.org/10.1109/DAC56929.2023.10247845
+bibtex: https://dblp.org/rec/conf/dac/Pasricha23?view=bibtex
+
+title: Federated Learning-driven Trust Prediction for Mobile Edge Computing-based IoT Systems.
+authors: Jiahui Bai, Hai Dong
+venue: ICWS
+year: 2023
+doi: 10.1109/ICWS60048.2023.00031
+url: https://doi.org/10.1109/ICWS60048.2023.00031
+bibtex: https://dblp.org/rec/conf/icws/BaiD23?view=bibtex
+
+title: PhD Forum Abstract: Intelligence beyond the Edge in IoT.
+authors: @pid, text
+venue: IPSN
+year: 2023
+doi: 10.1145/3583120.3589567
+url: https://doi.org/10.1145/3583120.3589567
+bibtex: https://dblp.org/rec/conf/ipsn/Yu23?view=bibtex
+
+title: Detection of Global Anomalies on Distributed IoT Edges with Device-to-Device Communication.
+authors: Hideya Ochiai, Riku Nishihata, Eisuke Tomiyama, Yuwei Sun, Hiroshi Esaki
+venue: MobiHoc
+year: 2023
+doi: 10.1145/3565287.3616528
+url: https://doi.org/10.1145/3565287.3616528
+bibtex: https://dblp.org/rec/conf/mobihoc/OchiaiNTSE23?view=bibtex
+
+title: LinkLab 2.0: A Multi-tenant Programmable IoT Testbed for Experimentation with Edge-Cloud Integration.
+authors: Wei Dong 0001, Borui Li 0001, Haoyu Li, Hao Wu, Kaijie Gong, Wenzhao Zhang, Yi Gao 0001
+venue: NSDI
+year: 2023
+url: https://www.usenix.org/conference/nsdi23/presentation/dong
+bibtex: https://dblp.org/rec/conf/nsdi/DongLLWGZ023?view=bibtex
+
+title: Energy and Time-Effective Computation Offloading for Edge Computing-Enabled IoT Networks.
+authors: Othman Al Aidaros, Youcef Kardjadja, Zied Bouida, Mohamed Ibnkahla
+venue: SAS
+year: 2023
+doi: 10.1109/SAS58821.2023.10254051
+url: https://doi.org/10.1109/SAS58821.2023.10254051
+bibtex: https://dblp.org/rec/conf/sas2/AidarosKBI23?view=bibtex
+
+title: A Multi-domain Testbed for Collaborative Research on the IoT-Edge-Cloud Continuum.
+authors: Iván Vidal, Luis F. Gonzalez, Francisco Valera, Borja Nogales, Raul Martin, Dulce N. de M. Artalejo, Diego R. López, Jose Manuel Manjón, Antonio Pastor 0001
+venue: SECON
+year: 2023
+doi: 10.1109/SECON58729.2023.10287436
+url: https://doi.org/10.1109/SECON58729.2023.10287436
+bibtex: https://dblp.org/rec/conf/secon/VidalGVNMALMP23?view=bibtex
+
+title: Query Recombination: To Process a Large Number of Concurrent Top-k Queries towards IoT Data on an Edge Server.
+authors: Tuo Shi, Zhipeng Cai 0001, Yingshu Li
+venue: ICDCS
+year: 2022
+doi: 10.1109/ICDCS54860.2022.00060
+url: https://doi.org/10.1109/ICDCS54860.2022.00060
+bibtex: https://dblp.org/rec/conf/icdcs/ShiCL22?view=bibtex
+
+title: CEDS: Center-Edge Collaborative Data Service for Mobile IoT Data Management.
+authors: Ziang Huang, Haopeng Chen, Lin Gui 0001, Jiansi Wang, Zhengtong Zhang
+venue: ICWS
+year: 2022
+doi: 10.1109/ICWS55610.2022.00040
+url: https://doi.org/10.1109/ICWS55610.2022.00040
+bibtex: https://dblp.org/rec/conf/icws/HuangCGWZ22?view=bibtex
+
+title: Edge-IoT framework for speech and mobile-based human-robot interaction.
+authors: Harish Ram Nambiappan, Enamul Karim, Jillur Rahman Saurav, Anushka Srivastav, Fillia Makedon
+venue: MobiSys
+year: 2022
+doi: 10.1145/3498361.3538767
+url: https://doi.org/10.1145/3498361.3538767
+bibtex: https://dblp.org/rec/conf/mobisys/NambiappanKSSM22?view=bibtex
+
+title: A domain-specific language for simulation-based testing of IoT edge-to-cloud solutions.
+authors: Jia Li, Shiva Nejati, Mehrdad Sabetzadeh, Michael McCallen
+venue: MoDELS
+year: 2022
+doi: 10.1145/3550355.3552405
+url: https://doi.org/10.1145/3550355.3552405
+bibtex: https://dblp.org/rec/conf/models/LiNSM22?view=bibtex
+
+title: A Serverless Approach to Federated Learning Infrastructure Oriented for IoT/Edge Data Sources (Student Abstract).
+authors: Anshul Ahuja, Geetesh Gupta, Suman Kundu
+venue: AAAI
+year: 2021
+doi: 10.1609/AAAI.V35I18.17870
+url: https://doi.org/10.1609/aaai.v35i18.17870
+bibtex: https://dblp.org/rec/conf/aaai/AhujaGK21?view=bibtex
+
+title: VergeDB: A Database for IoT Analytics on Edge Devices.
+authors: John Paparrizos, Chunwei Liu, Bruno Barbarioli, Johnny Hwang, Ikraduya Edian, Aaron J. Elmore, Michael J. Franklin, Sanjay Krishnan
+venue: CIDR
+year: 2021
+url: http://cidrdb.org/cidr2021/papers/cidr2021_paper11.pdf
+bibtex: https://dblp.org/rec/conf/cidr/PaparrizosLBHEE21?view=bibtex
+
+title: Towards Efficient Inference: Adaptively Cooperate in Heterogeneous IoT Edge Cluster.
+authors: Xiang Yang, Qi Qi 0001, Jingyu Wang 0001, Song Guo 0001, Jianxin Liao
+venue: ICDCS
+year: 2021
+doi: 10.1109/ICDCS51616.2021.00011
+url: https://doi.org/10.1109/ICDCS51616.2021.00011
+bibtex: https://dblp.org/rec/conf/icdcs/YangQWGL21?view=bibtex
+
+title: Energy-effective IoT Services in Balanced Edge-Cloud Collaboration Systems.
+authors: Zhengzhe Xiang, Shuiguang Deng, Yuhang Zheng, Dongjing Wang, Javid Taheri, Zengwei Zheng
+venue: ICWS
+year: 2021
+doi: 10.1109/ICWS53863.2021.00040
+url: https://doi.org/10.1109/ICWS53863.2021.00040
+bibtex: https://dblp.org/rec/conf/icws/XiangDZWTZ21?view=bibtex
+
+title: Trust Trackers for Computation Offloading in Edge-Based IoT Networks.
+authors: Matthew Bradbury, Arshad Jhumka, Tim Watson
+venue: INFOCOM
+year: 2021
+doi: 10.1109/INFOCOM42981.2021.9488844
+url: https://doi.org/10.1109/INFOCOM42981.2021.9488844
+bibtex: https://dblp.org/rec/conf/infocom/BradburyJW21?view=bibtex
+
+title: On IoT Edge Devices: Manifold Unsupervised Learning for SoM Platforms.
+authors: Saad Asad, Ahmed Refaey
+venue: IST
+year: 2021
+doi: 10.1109/IST50367.2021.9651345
+url: https://doi.org/10.1109/IST50367.2021.9651345
+bibtex: https://dblp.org/rec/conf/ist/AsadR21?view=bibtex
+
+title: ThingSpire OS: a WebAssembly-based IoT operating system for cloud-edge integration.
+authors: Borui Li 0001, Hongchang Fan, Yi Gao 0001, Wei Dong 0001
+venue: MobiSys
+year: 2021
+doi: 10.1145/3458864.3466910
+url: https://doi.org/10.1145/3458864.3466910
+bibtex: https://dblp.org/rec/conf/mobisys/LiFG021?view=bibtex
+
+title: Untangling the Cloud from Edge Computing for IoT.
+authors: @pid, text
+venue: SenSys
+year: 2021
+doi: 10.1145/3485730.3492900
+url: https://doi.org/10.1145/3485730.3492900
+bibtex: https://dblp.org/rec/conf/sensys/Nasir21?view=bibtex
+

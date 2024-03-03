@@ -1,0 +1,24 @@
+title: mmSV: mmWave Vehicular Networking using Street View Imagery in Urban Environments.
+authors: Ahmad Kamari, Yoon Chae, Parth Pathak 0001
+venue: MobiCom
+year: 2023
+doi: 10.1145/3570361.3613291
+url: https://doi.org/10.1145/3570361.3613291
+bibtex: https://dblp.org/rec/conf/mobicom/KamariC023?view=bibtex
+
+title: Learning to Bundle-adjust: A Graph Network Approach to Faster Optimization of Bundle Adjustment for Vehicular SLAM.
+authors: Tetsuya Tanaka, Yukihiro Sasagawa, Takayuki Okatani
+venue: ICCV
+year: 2021
+doi: 10.1109/ICCV48922.2021.00619
+url: https://doi.org/10.1109/ICCV48922.2021.00619
+bibtex: https://dblp.org/rec/conf/iccv/TanakaSO21?view=bibtex
+
+title: Asynchronous Deep Reinforcement Learning for Data-Driven Task Offloading in MEC-Empowered Vehicular Networks.
+authors: Penglin Dai, Kaiwen Hu, Xiao Wu 0001, Huanlai Xing, Zhaofei Yu
+venue: INFOCOM
+year: 2021
+doi: 10.1109/INFOCOM42981.2021.9488886
+url: https://doi.org/10.1109/INFOCOM42981.2021.9488886
+bibtex: https://dblp.org/rec/conf/infocom/DaiH0XY21?view=bibtex
+
