@@ -1,0 +1,48 @@
+title: Be-in/Be-out System for a Smart City using iBeacon Devices.
+authors: Aneta Poniszewska-Maranda, Mateusz Kubiak
+venue: MobiCom
+year: 2023
+doi: 10.1145/3570361.3615750
+url: https://doi.org/10.1145/3570361.3615750
+bibtex: https://dblp.org/rec/conf/mobicom/Poniszewska-Maranda23?view=bibtex
+
+title: 5G MEC Architecture for Vulnerable Road Users Management Through Smart City Data Fusion.
+authors: Enrico Rossini, Marcello Pietri, Roberto Cavicchioli, Marco Picone, Marco Mamei, Roberto Querio, Laura Colazzo, Roberto Procopio
+venue: MobiCom
+year: 2023
+doi: 10.1145/3570361.3614070
+url: https://doi.org/10.1145/3570361.3614070
+bibtex: https://dblp.org/rec/conf/mobicom/RossiniPCPMQCP23?view=bibtex
+
+title: Designing, Building, and Characterizing Large-Scale LoRa Networks for Smart City Applications.
+authors: Shuai Tong, Jiliang Wang
+venue: MobiCom
+year: 2023
+doi: 10.1145/3570361.3615731
+url: https://doi.org/10.1145/3570361.3615731
+bibtex: https://dblp.org/rec/conf/mobicom/TongW23?view=bibtex
+
+title: A Human-Centered Design Approach for the Development of a Digital Care Platform in a Smart City Environment: Implications for Business Models.
+authors: Jelena Bleja, Sara Neumann, Tim Krüger, Uwe Grossmann
+venue: WWW
+year: 2022
+doi: 10.1145/3487553.3524854
+url: https://doi.org/10.1145/3487553.3524854
+bibtex: https://dblp.org/rec/conf/www/BlejaNKG22?view=bibtex
+
+title: Citizens as Developers and Consumers of Smart City Services: A Drone Tour Guide Case.
+authors: Christian Muck, Alexander Völz, Danial Mohammadi Amlashi, Dimitris Karagiannis
+venue: WWW
+year: 2022
+doi: 10.1145/3487553.3524848
+url: https://doi.org/10.1145/3487553.3524848
+bibtex: https://dblp.org/rec/conf/www/MuckVAK22?view=bibtex
+
+title: Multi-Tenancy in Smart City Platforms.
+authors: Ioannis Nikolaou, Leonidas G. Anthopoulos
+venue: WWW
+year: 2022
+doi: 10.1145/3487553.3524853
+url: https://doi.org/10.1145/3487553.3524853
+bibtex: https://dblp.org/rec/conf/www/NikolaouA22?view=bibtex
+

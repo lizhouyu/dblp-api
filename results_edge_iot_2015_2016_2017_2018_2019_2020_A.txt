@@ -1,0 +1,16 @@
+title: FPGA/DNN Co-Design: An Efficient Design Methodology for IoT Intelligence on the Edge.
+authors: Cong Hao, Xiaofan Zhang 0001, Yuhong Li, Sitao Huang, Jinjun Xiong, Kyle Rupnow, Wen-Mei Hwu, Deming Chen
+venue: DAC
+year: 2019
+doi: 10.1145/3316781.3317829
+url: https://doi.org/10.1145/3316781.3317829
+bibtex: https://dblp.org/rec/conf/dac/HaoZLHXRHC19?view=bibtex
+
+title: Source Compression with Bounded DNN Perception Loss for IoT Edge Computer Vision.
+authors: Xiufeng Xie, Kyu-Han Kim
+venue: MobiCom
+year: 2019
+doi: 10.1145/3300061.3345448
+url: https://doi.org/10.1145/3300061.3345448
+bibtex: https://dblp.org/rec/conf/mobicom/XieK19?view=bibtex
+

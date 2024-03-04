@@ -1,0 +1,16 @@
+title: Fograph: Enabling Real-Time Deep Graph Inference with Fog Computing.
+authors: Liekang Zeng, Peng Huang, Ke Luo, Xiaoxi Zhang, Zhi Zhou 0006, Xu Chen 0004
+venue: WWW
+year: 2022
+doi: 10.1145/3485447.3511982
+url: https://doi.org/10.1145/3485447.3511982
+bibtex: https://dblp.org/rec/conf/www/ZengHLZ0022?view=bibtex
+
+title: Distributed Fog Computing Based on Improved LT codes for Deep Learning in Web of Things.
+authors: Lei Zhang, Jie Liu 0022, Fuquan Zhang 0001, Yu Mao
+venue: WWW
+year: 2021
+doi: 10.1145/3442442.3451140
+url: https://doi.org/10.1145/3442442.3451140
+bibtex: https://dblp.org/rec/conf/www/ZhangLZM21?view=bibtex
+

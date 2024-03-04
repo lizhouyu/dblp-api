@@ -1,0 +1,72 @@
+title: Cyclically Disentangled Feature Translation for Face Anti-spoofing.
+authors: Haixiao Yue, Keyao Wang, Guosheng Zhang, Haocheng Feng, Junyu Han, Errui Ding, Jingdong Wang 0001
+venue: AAAI
+year: 2023
+doi: 10.1609/AAAI.V37I3.25443
+url: https://doi.org/10.1609/aaai.v37i3.25443
+bibtex: https://dblp.org/rec/conf/aaai/YueWZFHD023?view=bibtex
+
+title: Rethinking Feature-based Knowledge Distillation for Face Recognition.
+authors: Jingzhi Li, Zidong Guo, Hui Li, Seungju Han, Ji-Won Baek, Min Yang, Ran Yang, Sungjoo Suh
+venue: CVPR
+year: 2023
+doi: 10.1109/CVPR52729.2023.01930
+url: https://doi.org/10.1109/CVPR52729.2023.01930
+bibtex: https://dblp.org/rec/conf/cvpr/LiGLHBYYS23?view=bibtex
+
+title: Invariant Feature Regularization for Fair Face Recognition.
+authors: Jiali Ma, Zhongqi Yue, Tomoyuki Kagaya, Tomoki Suzuki, Jayashree Karlekar, Sugiri Pranata, Hanwang Zhang
+venue: ICCV
+year: 2023
+doi: 10.1109/ICCV51070.2023.01907
+url: https://doi.org/10.1109/ICCV51070.2023.01907
+bibtex: https://dblp.org/rec/conf/iccv/MaYKSKPZ23?view=bibtex
+
+title: CLIP-PAE: Projection-Augmentation Embedding to Extract Relevant Features for a Disentangled, Interpretable and Controllable Text-Guided Face Manipulation.
+authors: Chenliang Zhou, Fangcheng Zhong, Cengiz Öztireli
+venue: SIGGRAPH
+year: 2023
+doi: 10.1145/3588432.3591532
+url: https://doi.org/10.1145/3588432.3591532
+bibtex: https://dblp.org/rec/conf/siggraph/ZhouZO23?view=bibtex
+
+title: Feature Generation and Hypothesis Verification for Reliable Face Anti-spoofing.
+authors: Shice Liu, Shitao Lu, Hongyi Xu, Jing Yang, Shouhong Ding, Lizhuang Ma
+venue: AAAI
+year: 2022
+doi: 10.1609/AAAI.V36I2.20071
+url: https://doi.org/10.1609/aaai.v36i2.20071
+bibtex: https://dblp.org/rec/conf/aaai/LiuLXYDM22?view=bibtex
+
+title: Panini-Net: GAN Prior Based Degradation-Aware Feature Interpolation for Face Restoration.
+authors: Yinhuai Wang, Yujie Hu, Jian Zhang 0018
+venue: AAAI
+year: 2022
+doi: 10.1609/AAAI.V36I3.20159
+url: https://doi.org/10.1609/aaai.v36i3.20159
+bibtex: https://dblp.org/rec/conf/aaai/WangHZ22?view=bibtex
+
+title: 3D Shape Variational Autoencoder Latent Disentanglement via Mini-Batch Feature Swapping for Bodies and Faces.
+authors: Simone Foti, Bongjin Koo, Danail Stoyanov, Matthew J. Clarkson
+venue: CVPR
+year: 2022
+doi: 10.1109/CVPR52688.2022.01817
+url: https://doi.org/10.1109/CVPR52688.2022.01817
+bibtex: https://dblp.org/rec/conf/cvpr/FotiKSC22?view=bibtex
+
+title: Frequency-Aware Discriminative Feature Learning Supervised by Single-Center Loss for Face Forgery Detection.
+authors: Jiaming Li, Hongtao Xie, Jiahong Li, Zhongyuan Wang 0006, Yongdong Zhang 0001
+venue: CVPR
+year: 2021
+doi: 10.1109/CVPR46437.2021.00639
+url: https://openaccess.thecvf.com/content/CVPR2021/html/Li_Frequency-Aware_Discriminative_Feature_Learning_Supervised_by_Single-Center_Loss_for_Face_CVPR_2021_paper.html
+bibtex: https://dblp.org/rec/conf/cvpr/LiXLW021?view=bibtex
+
+title: Generalizing Face Forgery Detection With High-Frequency Features.
+authors: Yuchen Luo, Yong Zhang 0034, Junchi Yan, Wei Liu 0005
+venue: CVPR
+year: 2021
+doi: 10.1109/CVPR46437.2021.01605
+url: https://openaccess.thecvf.com/content/CVPR2021/html/Luo_Generalizing_Face_Forgery_Detection_With_High-Frequency_Features_CVPR_2021_paper.html
+bibtex: https://dblp.org/rec/conf/cvpr/LuoZY021?view=bibtex
+

@@ -1,0 +1,191 @@
+title: Are Two Heads Better Than One in AI-Assisted Decision Making? Comparing the Behavior and Performance of Groups and Individuals in Human-AI Collaborative Recidivism Risk Assessment.
+authors: Chun-Wei Chiang, Zhuoran Lu, Zhuoyan Li, Ming Yin 0001
+venue: CHI
+year: 2023
+doi: 10.1145/3544548.3581015
+url: https://doi.org/10.1145/3544548.3581015
+bibtex: https://dblp.org/rec/conf/chi/ChiangLLY23?view=bibtex
+
+title: HRDFuse: Monocular 360° Depth Estimation by Collaboratively Learning Holistic-with-Regional Depth Distributions.
+authors: Hao Ai, Zidong Cao, Yan-Pei Cao, Ying Shan, Lin Wang
+venue: CVPR
+year: 2023
+doi: 10.1109/CVPR52729.2023.01275
+url: https://doi.org/10.1109/CVPR52729.2023.01275
+bibtex: https://dblp.org/rec/conf/cvpr/AiCCSW23?view=bibtex
+
+title: MoMusic: A Motion-Driven Human-AI Collaborative Music Composition and Performing System.
+authors: Weizhen Bian, Yijin Song, Nianzhen Gu, Tin Yan Chan, Tsz To Lo, Tsun Sun Li, King Chak Wong, Wei Xue, Roberto Alonso Trillo
+venue: AAAI
+year: 2023
+doi: 10.1609/AAAI.V37I13.26907
+url: https://doi.org/10.1609/aaai.v37i13.26907
+bibtex: https://dblp.org/rec/conf/aaai/BianSGCLLWXT23?view=bibtex
+
+title: A Crowd-AI Collaborative Duo Relational Graph Learning Framework towards Social Impact Aware Photo Classification.
+authors: Yang Zhang 0031, Ziyi Kou, Lanyu Shang, Huimin Zeng, Zhenrui Yue, Dong Wang 0002
+venue: AAAI
+year: 2023
+doi: 10.1609/AAAI.V37I12.26711
+url: https://doi.org/10.1609/aaai.v37i12.26711
+bibtex: https://dblp.org/rec/conf/aaai/ZhangKSZYW23?view=bibtex
+
+title: CARE: Collaborative AI-Assisted Reading Environment.
+authors: Dennis Zyska, Nils Dycke, Jan Buchmann, Ilia Kuznetsov, Iryna Gurevych
+venue: ACL
+year: 2023
+doi: 10.18653/V1/2023.ACL-DEMO.28
+url: https://doi.org/10.18653/v1/2023.acl-demo.28
+bibtex: https://dblp.org/rec/conf/acl/ZyskaDBKG23?view=bibtex
+
+title: Collaborative Qualitative Environment Mapping.
+authors: Adeline Secolo, Paulo E. Santos, Patrick Doherty 0001, Zoran Sjanic
+venue: AI
+year: 2023
+doi: 10.1007/978-981-99-8391-9_1
+url: https://doi.org/10.1007/978-981-99-8391-9_1
+bibtex: https://dblp.org/rec/conf/ausai/SecoloSDS23?view=bibtex
+
+title: MPANet: Multi-scale Pyramid Attention Network for Collaborative Modeling Spatio-Temporal Patterns of Default Mode Network.
+authors: Hang Yuan, Xiang Li, Benzheng Wei
+venue: AI
+year: 2023
+doi: 10.1007/978-981-99-8388-9_34
+url: https://doi.org/10.1007/978-981-99-8388-9_34
+bibtex: https://dblp.org/rec/conf/ausai/YuanLW23?view=bibtex
+
+title: PaTAT: Human-AI Collaborative Qualitative Coding with Explainable Interactive Rule Synthesis.
+authors: Simret Araya Gebreegziabher, Zheng Zhang 0043, Xiaohang Tang, Yihao Meng, Elena L. Glassman, Toby Jia-Jun Li
+venue: CHI
+year: 2023
+doi: 10.1145/3544548.3581352
+url: https://doi.org/10.1145/3544548.3581352
+bibtex: https://dblp.org/rec/conf/chi/GebreegziabherZ23?view=bibtex
+
+title: Augmenting Pathologists with NaviPath: Design and Evaluation of a Human-AI Collaborative Navigation System.
+authors: Hongyan Gu, Chunxu Yang, Mohammad Haeri, Jing Wang, Shirley Tang, Wenzhong Yan, Shujin He, Christopher Kazu Williams, Shino Magaki, Xiang &apos;Anthony&apos; Chen
+venue: CHI
+year: 2023
+doi: 10.1145/3544548.3580694
+url: https://doi.org/10.1145/3544548.3580694
+bibtex: https://dblp.org/rec/conf/chi/GuYHWTYHWMC23?view=bibtex
+
+title: Tracing and Visualizing Human-ML/AI Collaborative Processes through Artifacts of Data Work.
+authors: Jen Rogers, Anamaria Crisan
+venue: CHI
+year: 2023
+doi: 10.1145/3544548.3580819
+url: https://doi.org/10.1145/3544548.3580819
+bibtex: https://dblp.org/rec/conf/chi/RogersC23?view=bibtex
+
+title: RetroLens: A Human-AI Collaborative System for Multi-step Retrosynthetic Route Planning.
+authors: Chuhan Shi, Yicheng Hu, Shenan Wang, Shuai Ma, Chengbo Zheng, Xiaojuan Ma, Qiong Luo 0001
+venue: CHI
+year: 2023
+doi: 10.1145/3544548.3581469
+url: https://doi.org/10.1145/3544548.3581469
+bibtex: https://dblp.org/rec/conf/chi/ShiHWMZM023?view=bibtex
+
+title: Pair-Up: Prototyping Human-AI Co-orchestration of Dynamic Transitions between Individual and Collaborative Learning in the Classroom.
+authors: Kexin Bella Yang, Vanessa Echeverría, Zijing Lu, Hongyu Mao, Kenneth Holstein, Nikol Rummel, Vincent Aleven
+venue: CHI
+year: 2023
+doi: 10.1145/3544548.3581398
+url: https://doi.org/10.1145/3544548.3581398
+bibtex: https://dblp.org/rec/conf/chi/YangELMHRA23?view=bibtex
+
+title: Collaborative Neural Rendering Using Anime Character Sheets.
+authors: Zuzeng Lin, Ailin Huang, Zhewei Huang
+venue: IJCAI
+year: 2023
+doi: 10.24963/IJCAI.2023/646
+url: https://doi.org/10.24963/ijcai.2023/646
+bibtex: https://dblp.org/rec/conf/ijcai/LinHH23?view=bibtex
+
+title: HybridEval: A Human-AI Collaborative Approach for Evaluating Design Ideas at Scale.
+authors: Sepideh Mesbah, Ines Arous, Jie Yang 0028, Alessandro Bozzon
+venue: WWW
+year: 2023
+doi: 10.1145/3543507.3583496
+url: https://doi.org/10.1145/3543507.3583496
+bibtex: https://dblp.org/rec/conf/www/MesbahA0B23?view=bibtex
+
+title: Templet: A Collaborative System for Knowledge Graph Question Answering over Wikidata.
+authors: Francisca Suárez, Aidan Hogan
+venue: WWW
+year: 2023
+doi: 10.1145/3543873.3587335
+url: https://doi.org/10.1145/3543873.3587335
+bibtex: https://dblp.org/rec/conf/www/SuarezH23?view=bibtex
+
+title: CollabEquality: A Crowd-AI Collaborative Learning Framework to Address Class-wise Inequality in Web-based Disaster Response.
+authors: Yang Zhang 0031, Lanyu Shang, Ruohan Zong, Huimin Zeng, Zhenrui Yue, Dong Wang 0002
+venue: WWW
+year: 2023
+doi: 10.1145/3543507.3583871
+url: https://doi.org/10.1145/3543507.3583871
+bibtex: https://dblp.org/rec/conf/www/ZhangSZZYW23?view=bibtex
+
+title: CoAuthor: Designing a Human-AI Collaborative Writing Dataset for Exploring Language Model Capabilities.
+authors: Mina Lee 0002, Percy Liang, Qian Yang
+venue: CHI
+year: 2022
+doi: 10.1145/3491102.3502030
+url: https://doi.org/10.1145/3491102.3502030
+bibtex: https://dblp.org/rec/conf/chi/0002LY22?view=bibtex
+
+title: Solving Separation-of-Concerns Problems in Collaborative Design of Human-AI Systems through Leaky Abstractions.
+authors: Hariharan Subramonyam, Jane Im, Colleen M. Seifert, Eytan Adar
+venue: CHI
+year: 2022
+doi: 10.1145/3491102.3517537
+url: https://doi.org/10.1145/3491102.3517537
+bibtex: https://dblp.org/rec/conf/chi/SubramonyamISA22?view=bibtex
+
+title: StoryBuddy: A Human-AI Collaborative Chatbot for Parent-Child Interactive Storytelling with Flexible Parental Involvement.
+authors: Zheng Zhang 0043, Ying Xu, Yanhao Wang, Bingsheng Yao, Daniel Ritchie, Tongshuang Wu, Mo Yu, Dakuo Wang, Toby Jia-Jun Li
+venue: CHI
+year: 2022
+doi: 10.1145/3491102.3517479
+url: https://doi.org/10.1145/3491102.3517479
+bibtex: https://dblp.org/rec/conf/chi/ZhangXWYRWYWL22?view=bibtex
+
+title: StoryDrawer: A Child-AI Collaborative Drawing System to Support Children&apos;s Creative Visual Storytelling.
+authors: Chao Zhang, Cheng Yao, Jiayi Wu, Weijia Lin, Lijuan Liu, Ge Yan 0002, Fangtian Ying
+venue: CHI
+year: 2022
+doi: 10.1145/3491102.3501914
+url: https://doi.org/10.1145/3491102.3501914
+bibtex: https://dblp.org/rec/conf/chi/ZhangYWLLYY22?view=bibtex
+
+title: Human-AI Collaborative Bayesian Optimisation.
+authors: Arun Kumar A. V., Santu Rana, Alistair Shilton, Svetha Venkatesh
+venue: NeurIPS
+year: 2022
+url: http://papers.nips.cc/paper_files/paper/2022/hash/6751611b394a3464cea53eed91cf163c-Abstract-Conference.html
+bibtex: https://dblp.org/rec/conf/nips/VRSV22?view=bibtex
+
+title: AI-Infused Collaborative Inquiry in Upper Elementary School: A Game-Based Learning Approach.
+authors: Seung Y. Lee, Bradford W. Mott, Anne T. Ottenbreit-Leftwich, J. Adam Scribner, Sandra Taylor, Kyungjin Park, Jonathan P. Rowe, Krista D. Glazewski, Cindy E. Hmelo-Silver, James C. Lester
+venue: AAAI
+year: 2021
+doi: 10.1609/AAAI.V35I17.17836
+url: https://doi.org/10.1609/aaai.v35i17.17836
+bibtex: https://dblp.org/rec/conf/aaai/LeeMOSTPRGHL21?view=bibtex
+
+title: A Human-AI Collaborative Approach for Clinical Decision Making on Rehabilitation Assessment.
+authors: Min Hun Lee, Daniel P. Siewiorek, Asim Smailagic, Alexandre Bernardino, Sergi Bermúdez i Badia
+venue: CHI
+year: 2021
+doi: 10.1145/3411764.3445472
+url: https://doi.org/10.1145/3411764.3445472
+bibtex: https://dblp.org/rec/conf/chi/LeeSSBB21?view=bibtex
+
+title: Category-aware Collaborative Sequential Recommendation.
+authors: Renqin Cai, Jibang Wu, Aidan San, Chong Wang, Hongning Wang
+venue: SIGIR
+year: 2021
+doi: 10.1145/3404835.3462832
+url: https://doi.org/10.1145/3404835.3462832
+bibtex: https://dblp.org/rec/conf/sigir/CaiWSWW21?view=bibtex
+

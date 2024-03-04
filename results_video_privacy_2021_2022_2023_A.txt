@@ -1,0 +1,38 @@
+title: TeD-SPAD: Temporal Distinctiveness for Self-supervised Privacy-preservation for video Anomaly Detection.
+authors: Joseph Fioresi, Ishan Rajendrakumar Dave, Mubarak Shah
+venue: ICCV
+year: 2023
+doi: 10.1109/ICCV51070.2023.01251
+url: https://doi.org/10.1109/ICCV51070.2023.01251
+bibtex: https://dblp.org/rec/conf/iccv/FioresiDS23?view=bibtex
+
+title: Privid: Practical, Privacy-Preserving Video Analytics Queries.
+authors: Frank Cangialosi, Neil Agarwal, Venkat Arun, Srinivas Narayana, Anand D. Sarwate, Ravi Netravali
+venue: NSDI
+year: 2022
+url: https://www.usenix.org/conference/nsdi22/presentation/cangialosi
+bibtex: https://dblp.org/rec/conf/nsdi/CangialosiAANSN22?view=bibtex
+
+title: Vid2Doppler: Synthesizing Doppler Radar Data from Videos for Training Privacy-Preserving Activity Recognition.
+authors: Karan Ahuja, Yue Jiang 0002, Mayank Goel, Chris Harrison 0001
+venue: CHI
+year: 2021
+doi: 10.1145/3411764.3445138
+url: https://doi.org/10.1145/3411764.3445138
+bibtex: https://dblp.org/rec/conf/chi/AhujaJG021?view=bibtex
+
+title: Privacy-Preserving Video Classification with Convolutional Neural Networks.
+authors: Sikha Pentyala, Rafael Dowsley, Martine De Cock
+venue: ICML
+year: 2021
+url: http://proceedings.mlr.press/v139/pentyala21a.html
+bibtex: https://dblp.org/rec/conf/icml/PentyalaDC21?view=bibtex
+
+title: PECAM: privacy-enhanced video streaming and analytics via securely-reversible transformation.
+authors: Hao Wu 0067, Xuejin Tian, Minghao Li, Yunxin Liu, Ganesh Ananthanarayanan, Fengyuan Xu, Sheng Zhong 0002
+venue: MobiCom
+year: 2021
+doi: 10.1145/3447993.3448618
+url: https://doi.org/10.1145/3447993.3448618
+bibtex: https://dblp.org/rec/conf/mobicom/WuTLLAXZ21?view=bibtex
+
